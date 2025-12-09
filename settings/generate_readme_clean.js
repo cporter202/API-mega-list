@@ -112,14 +112,24 @@ const totalActors = actors.length - filteredCount;
 // Generate README content
 let content = `<div align="center">\n\n`;
 content += `# 🚀 API Mega List\n\n`;
+content += `<img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">\n\n`;
 content += `**The most comprehensive collection of APIs on GitHub** - ${totalActors.toLocaleString()} ready-to-use APIs for building everything from simple automations to full-scale applications.\n\n`;
 content += `---\n\n`;
+content += `### 📊 Repository Stats\n\n`;
+content += `<img src="https://img.shields.io/badge/APIs-${totalActors.toLocaleString()}-blue?style=for-the-badge&logo=api" alt="Total APIs">\n`;
+content += `<img src="https://img.shields.io/badge/Categories-${sortedCategories.length}-green?style=for-the-badge&logo=tag" alt="Categories">\n`;
+content += `<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">\n`;
+content += `<img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">\n\n`;
+content += `---\n\n`;
+content += `### ⭐ Star This Repository\n\n`;
+content += `**If this API list has helped you, please consider giving it a star! ⭐**\n\n`;
+content += `*Your support helps others discover this valuable resource and keeps me motivated to maintain and update it regularly.*\n\n`;
+content += `<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>\n\n`;
+content += `---\n\n`;
+content += `### ☕ Support the Creator\n\n`;
 content += `**If this repo has helped you, consider buying me a coffee! ☕**\n\n`;
 content += `*Your support keeps me creating valuable repos and keeping everything up to date.*\n\n`;
 content += `<a href="https://buymeacoffee.com/viralwavestudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>\n\n`;
-content += `</div>\n\n`;
-content += `<div align="center">\n\n`;
-content += `<img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">\n\n`;
 content += `</div>\n\n`;
 
 content += `---\n\n`;
