@@ -9,6 +9,42 @@ const actors = JSON.parse(fs.readFileSync('apify_actors.json', 'utf-8'));
 
 console.log(`Processing ${actors.length} actors...`);
 
+// Function to convert category name to readable format and anchor
+function formatCategoryName(category) {
+    // Special handling for common acronyms
+    const acronyms = {
+        'AI': 'AI',
+        'MCP': 'MCP',
+        'SEO': 'SEO',
+        'API': 'API'
+    };
+    
+    // Convert underscores to spaces and title case
+    let readable = category
+        .split('_')
+        .map(word => {
+            const upper = word.toUpperCase();
+            // Check if it's a known acronym
+            if (acronyms[upper]) {
+                return acronyms[upper];
+            }
+            // Otherwise title case
+            return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+        })
+        .join(' ');
+    
+    // Special cases for better readability
+    if (readable === 'Ai') readable = 'AI';
+    if (readable === 'Mcp Servers') readable = 'MCP Servers';
+    if (readable === 'Seo Tools') readable = 'SEO Tools';
+    
+    // Create anchor (lowercase, replace spaces with hyphens)
+    // GitHub automatically creates anchors from headers, so we match that format
+    const anchor = readable.toLowerCase().replace(/\s+/g, '-');
+    
+    return { readable, anchor };
+}
+
 // Organize actors by category
 const actorsByCategory = {};
 const uncategorized = [];
@@ -41,17 +77,17 @@ let content = `# API-mega-list\n\n`;
 content += `This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪\n\n`;
 
 content += `## 📦 Apify Actors Collection\n\n`;
-content += `This repository includes a comprehensive collection of **${actors.length} Apify Actors** (APIs) - ready-to-use web scraping and automation tools from the Apify platform.\n\n`;
+content += `This repository includes a comprehensive collection of **${actors.length.toLocaleString()} Apify Actors** (APIs) - ready-to-use web scraping and automation tools from the Apify platform.\n\n`;
 
-content += `### What are Apify Actors?\n`;
+content += `### What are Apify Actors?\n\n`;
 content += `Apify Actors are pre-built web scraping and automation tools that can extract data from websites, automate workflows, and integrate with AI applications. Each actor is a ready-to-use API that you can run via the Apify platform.\n\n`;
 
-content += `### 📊 Statistics\n`;
-content += `- **Total APIs**: ${actors.length}\n`;
+content += `### 📊 Statistics\n\n`;
+content += `- **Total APIs**: ${actors.length.toLocaleString()}\n`;
 content += `- **Categories**: ${sortedCategories.length}\n`;
 content += `- **All links include affiliate tracking** (\`?fpr=p2hrc6\`)\n\n`;
 
-content += `### 📁 Additional Files\n`;
+content += `### 📁 Additional Files\n\n`;
 content += `- **[APIFY_ACTORS.md](APIFY_ACTORS.md)** - Complete markdown list of all actors organized by category (~8.3 MB)\n`;
 content += `- **[apify_actors.json](apify_actors.json)** - Full JSON dataset with all actor details (~11.6 MB)\n`;
 content += `- **[apify_actors_simple.txt](apify_actors_simple.txt)** - Simple text format with names and URLs (~996 KB)\n\n`;
@@ -63,21 +99,22 @@ content += `## 📚 Complete API List by Category\n\n`;
 content += `### Table of Contents\n\n`;
 for (const category of sortedCategories) {
     const count = actorsByCategory[category].length;
-    const anchor = category.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-    content += `- [${category}](#${anchor}) (${count} APIs)\n`;
+    const { anchor } = formatCategoryName(category);
+    const { readable } = formatCategoryName(category);
+    content += `- [${readable}](#${anchor}) (${count.toLocaleString()} APIs)\n`;
 }
 if (uncategorized.length > 0) {
-    content += `- [Uncategorized](#uncategorized) (${uncategorized.length} APIs)\n`;
+    content += `- [Uncategorized](#uncategorized) (${uncategorized.length.toLocaleString()} APIs)\n`;
 }
 content += `\n---\n\n`;
 
 // Write categorized actors
 for (const category of sortedCategories) {
     const categoryActors = actorsByCategory[category];
-    const anchor = category.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+    const { readable, anchor } = formatCategoryName(category);
     
-    content += `## ${category} {#${anchor}}\n\n`;
-    content += `*${categoryActors.length} APIs*\n\n`;
+    content += `## ${readable}\n\n`;
+    content += `*${categoryActors.length.toLocaleString()} APIs*\n\n`;
     
     // Sort actors by title
     const sortedActors = categoryActors.sort((a, b) => 
@@ -108,7 +145,7 @@ for (const category of sortedCategories) {
 // Write uncategorized actors
 if (uncategorized.length > 0) {
     content += `## Uncategorized\n\n`;
-    content += `*${uncategorized.length} APIs*\n\n`;
+    content += `*${uncategorized.length.toLocaleString()} APIs*\n\n`;
     
     const sortedUncategorized = uncategorized.sort((a, b) => 
         (a.title || a.name || '').localeCompare(b.title || b.name || '')
@@ -136,7 +173,7 @@ if (uncategorized.length > 0) {
 
 content += `---\n\n`;
 content += `## 🚀 Usage\n\n`;
-content += `All links in this collection include affiliate tracking. When you click on any actor link, you'll be taken to the Apify platform where you can:\n`;
+content += `All links in this collection include affiliate tracking. When you click on any actor link, you'll be taken to the Apify platform where you can:\n\n`;
 content += `- View actor documentation\n`;
 content += `- Run actors via API\n`;
 content += `- Schedule automated runs\n`;
@@ -150,12 +187,11 @@ content += `- This list is automatically generated from the Apify Store API\n\n`
 
 content += `---\n\n`;
 content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n`;
-content += `*Total APIs: ${actors.length}*\n`;
+content += `*Total APIs: ${actors.length.toLocaleString()}*\n`;
 
 // Write to README.md
 fs.writeFileSync('README.md', content, 'utf-8');
 console.log(`✅ README.md generated successfully!`);
 console.log(`   - ${sortedCategories.length} categories`);
-console.log(`   - ${actors.length} total APIs`);
-console.log(`   - ${uncategorized.length} uncategorized APIs`);
-
+console.log(`   - ${actors.length.toLocaleString()} total APIs`);
+console.log(`   - ${uncategorized.length.toLocaleString()} uncategorized APIs`);
