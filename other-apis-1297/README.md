@@ -1309,3 +1309,4 @@
 ---
 
 <p align="center"><a href="../README.md">← Back to main API list</a></p>
+| [DomainIntel](https://domainintel.onrender.com) | Real-time domain intelligence: RDAP, DNS-over-HTTPS, Certificate Transparency and bulk lookups. Free tier. |
