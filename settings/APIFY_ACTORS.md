@@ -64,10 +64,10 @@ Complete list of 10577 Apify Actors (APIs) available on the Apify platform.
 - **[Actor Builder](https://apify.com/handleco-app/actor-builder?fpr=p2hrc6)**
 - **[Actor Inspector Agent](https://apify.com/jakub.kopecky/actor-inspector-agent?fpr=p2hrc6)** - Agent Actor Inspector 🕵️‍♂️: An Apify Actor that rates others on docs 📝, inputs 🔍, code 💻, functionality ⚙️, performance ⏱️, and uniqueness 🌟. Config with actorId array, run, and review results. Helps devs improve, ensures quality, and guides users.
 - **[Actor README Generator Agent](https://apify.com/jkuzz/actor-readme-generator-agent?fpr=p2hrc6)** - Generates a README for an Apify Actor using an AI Agent. You only need to provide the actor id to generate a readable and SEO optimized README for the Actor. The generation process utilizes Apify's Official README Guide. This Agent is open source (link in readme).
-- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie). 
+- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie).
 Results are combined ads and statistics from all social media platforms adlibrary.com supports (currently Meta and Google, so all Ads across Instagram, Facebook, Threads, Whatsapp, Google, Youtube)
 - **[Advanced Social Media Agent](https://apify.com/fiery_dream/advanced-social-media-agent?fpr=p2hrc6)** - A production-grade AI agent built on cutting-edge research patterns for intelligent social media analysis on the Apify platform.
-- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform 
+- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform
 Just enter a job search URL to extract key details like job title, company, location, and description 🔍
 Seamlessly integrate with your tools for job aggregation, market analysis, or recruitment automation! ⚡📊
 - **[Agentic AI For Good](https://apify.com/transparent_flea/agentic-ai-explorer-developer?fpr=p2hrc6)** - Fetches the latest agentic AI tools, models, frameworks, and research from top developer sources, then delivers structured insights and examples that keep you up to date every day
@@ -205,9 +205,9 @@ We take pride in offer accurate financial data and great customer care.
 - **[Clarks Review Scraper](https://apify.com/getdataforme/clarks-review-scraper?fpr=p2hrc6)** - Extract customer reviews from Clarks product pages effortlessly. This Apify Actor delivers detailed ratings, comments, and metadata for market analysis, sentiment tracking, and competitive intelligence....
 - **[Coches Net Scraper](https://apify.com/kaidev/coches-net-scraper?fpr=p2hrc6)** - This scraper is a tool designed to extract detailed product listings from Coches.net. Built for the Apify platform, this scraper allows users to gather comprehensive data with ease, making it ideal for market analysis, price tracking, inventory management, or research purposes.
 - **[CodeScout AI](https://apify.com/aigeek/codescout-ai?fpr=p2hrc6)** - Generate comprehensive, AI-optimized codemaps from any public Features include visual dependency graphs, language distribution charts, framework detection, and complete file structure analysis. Save thousands of tokens by giving ChatGPT, Claude, or Cursor the full project context upfront.
-- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time 
+- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time
   CoinMarketCap data
-- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by 
+- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by
            +  name or hex codes
            +  , and this Actor will search Zara, H&M, ASOS, and Shein for matching products using advanced color
            +   similarity algorithms
@@ -243,7 +243,7 @@ It extracts detailed information such as company profiles, funding rounds, execu
 - **[Datapilot](https://apify.com/satyamg_py/datapilot?fpr=p2hrc6)** - The AI Company & Topic Researcher is a sophisticated web scraping and analysis tool designed for competitive intelligence, market research, and technical deep dives. It automates the entire research pipeline from data collection to AI-powered strategic analysis
 - **[Datapilot V1](https://apify.com/satyamg_py/datapilot-3?fpr=p2hrc6)** - The AI Company & Topic Researcher is a sophisticated web scraping and analysis tool designed for competitive intelligence, market research, and technical deep dives. It automates the entire research pipeline from data collection to AI-powered strategic analysis.
 - **[Datapilot V2](https://apify.com/satyamg_py/datapilot-2?fpr=p2hrc6)** - The AI Company & Topic Researcher is a sophisticated web scraping and analysis tool designed for competitive intelligence, market research, and technical deep dives. It automates the entire research pipeline from data collection to AI-powered strategic analysis.
-- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.  
+- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.
 This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results.
 - **[Dayojohn16](https://apify.com/dayojohn16actor/dayojohn16?fpr=p2hrc6)** - test1
 - **[Deal Scraper PRNewswire](https://apify.com/defensible_radish/deal-scraper-prnewswire?fpr=p2hrc6)** - Scrapes last 10 articles published on M&A section of PRNewswire and  provides relevant deal info
@@ -444,7 +444,7 @@ Perfect for job market research, recruitment, competitor analysis, and data enri
 - **[Jshealthvitamins Urls Spider](https://apify.com/getdataforme/jshealthvitamins-urls-spider?fpr=p2hrc6)** - This Apify Actor scrapes comprehensive product data from JSHealth Vitamins URLs, including names, descriptions, pricing, availability, and images. Perfect for e-commerce analysis, market research, and price monitoring....
 - **[Jumbo Supermarket Scraper](https://apify.com/harvestedge/jumbo-supermarket-scraper?fpr=p2hrc6)** - The Jumbo Scraper extracts product data from the Jumbo supermarket based on user-defined search keyterms. It collects product details such as name, price, unit price, unit size, discounts, and URLs, ideal for price comparison or market analysis.
 - **[Justia Lawyer Email List & Leads Scraper](https://apify.com/voyn/justia-lawyer-email-list-leads-scraper?fpr=p2hrc6)** - Build a targeted lawyer email list from Justia by state and practice area. Page-by-page crawl harvests emails (comma-joined), phone, bio, socials, vCard. CSV/JSON-ready for attorney email lists, attorney mailing list, and lawyers mailing list.
-- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -452,7 +452,7 @@ Perfect for job market research, recruitment, competitor analysis, and data enri
 - 🎯 Multiple Scan Modes
 - 📈 Comprehensive Reporting
 - 🔒 Built-in Safeguards**
-- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -518,7 +518,7 @@ Generate verified B2B leads in real time — perfect for prospecting, ABM, and s
 - **[Menards Search Spider](https://apify.com/getdataforme/menards-search-spider?fpr=p2hrc6)** - Extract structured product data from Menards.com searches with the Menards Search Spider Apify Actor. Retrieve prices, availability, images, and details for e-commerce analysis and automation....
 - **[Mercadolivremx Parser Spider](https://apify.com/getdataforme/mercadolivremx-parser-spider?fpr=p2hrc6)** - This Apify Actor scrapes comprehensive product reviews from MercadoLibre Mexico, capturing ratings, titles, bodies, dates, and images....
 - **[Meshr Ai Internal Linking](https://apify.com/linkwithmeshr/meshr-ai-internal-linking?fpr=p2hrc6)** - We automate the tedious parts of SEO using state-of-the-art AI and semantic analysis.
-- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need. 
+- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need.
 
 Get detailed ad information including title, description, images, videos, CTA, Social platform and metadata
 - **[Meta Ad Library Brand/Page Explorer (Premium)](https://apify.com/scrapeio/facebook-ad-library-suggestions?fpr=p2hrc6)** - A fast, accurate Meta Ad Library brand-finder that expands any keyword into all relevant pages and profiles, complete with structured insights.
@@ -560,7 +560,7 @@ Seamlessly integrate with tools like Google Sheets or CRMs to automate workflows
 - **[Newsapi Ai](https://apify.com/dc-codes426/newsapi-ai?fpr=p2hrc6)** - LLM Agent for searching the news. Interact with structured or natural language, and receive responses in structured or natural language. Perfect for a chatbot or for your AI agents that need to look up the news.
 - **[NFL Stats](https://apify.com/payai/nfl-stats?fpr=p2hrc6)** - Scrapes live NFL statistics and calculates Expected Value percentages for pick'em leagues. Analyzes Against The Spread records, home/road performance, and momentum trends from ESPN, TeamRankings, and Pro Football Reference. Provides top team recommendations with confidence ratings for smart bettors.
 - **[Noon Product Spider](https://apify.com/getdataforme/noon-product-spider?fpr=p2hrc6)** - The Noon Product Spider is an Apify Actor that scrapes detailed product data from Noon.com, including name, price, images, brand, offers, and ratings. Input product URLs and get structured JSON output for e-commerce monitoring, market research, or price comparison. Fast, reliable, and scalable.
-- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving. 
+- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving.
 
 Dutch, Nederland, Holland, Nieuws, Nederlandse Omroep Stichting.
 - **[nova-mcp-server](https://apify.com/sambehnke/nova-integrations-mcp-server?fpr=p2hrc6)** - Transform AI agents with tools that enhance real-world functionality. Dynamic MCP server loads YOUR chosen Apify actors from key-value stores. Perfect for Retell.ai, Claude & any agent needing business automation & workflow integration.
@@ -659,7 +659,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Search Keyword Research](https://apify.com/powerai/search-keyword-research?fpr=p2hrc6)** - Analyze search volume, cost, and competitiveness of keywords to optimize your SEO and advertising strategies with detailed research reports in HTML and PDF.
 - **[Search Twitter Community Tweets $0.35/1K| Pay-Per Result](https://apify.com/fastcrawler/search-twitter-community-tweets-0-35-1k-pay-per-result?fpr=p2hrc6)** - Search Twitter community tweets with a cost-effective model — just $0.35 per 1K results. Pay only for what you get. Ideal for scraping targeted tweet data from specific communities. Fast, reliable, and budget-friendly. Pay-per-result pricing, no hidden fees.
 - **[SEC EDGAR Filing Scraper (8-K and 10-K Reports)](https://apify.com/scraped/sec-edgar-filing-scraper-8-k-and-10-k-reports?fpr=p2hrc6)** - This scraper fetches 8-K and 10-K filings from the SEC's EDGAR system using a company's ticker symbol.
-- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large  
+- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large
  volumes of data seamlessly. 🚀
 - **[Semrush Scraper](https://apify.com/barrierefix/semrush-scraper?fpr=p2hrc6)** - Fast, reliable extraction of domain authority, traffic data, rankings, and competitor insights from Semrush. No account required. Perfect for SEO tracking, competitor monitoring, and market research.
 - **[Sentiment Compass (AI-Powered)](https://apify.com/visita/sentiment-compass?fpr=p2hrc6)** - The Sentiment Compass is the third crucial stage in the AI Content Intelligence Pipeline. It transforms raw topic clusters and search data into emotional and strategic intelligence. It serves as a Hybrid Controller, capable of orchestrating the entire pipeline or analyzing external data feeds.
@@ -741,7 +741,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Trustpilot Reviews Extractor](https://apify.com/agenscrape/trustpilot-reviews-extractor?fpr=p2hrc6)** - Extract customer reviews, ratings, and feedback from any Trustpilot business page. Perfect for reputation monitoring, competitor analysis, and customer sentiment research.
 - **[TrustRadius Reviews](https://apify.com/hello.datawizards/trustradius-reviews?fpr=p2hrc6)** - Extract detailed software reviews from TrustRadius, including pros, cons, ratings, insights, reviewer info, and Q&A — all in structured JSON. Perfect for sentiment analysis, competitor research, and product intelligence. Built for scale, powered by DataWizards.
 - **[Turbo Search Engines Google Maps Scraper](https://apify.com/awsomedude46/turbo-search-engines-google-maps-scraper?fpr=p2hrc6)** - Overview
-This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online 
+This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online
 Data Extracted
 Company names
 Email addresses
@@ -811,7 +811,7 @@ Supports any keyword and location, crawls domains directly, and returns clean, v
 - **[Website Url Scraper](https://apify.com/lccscsio/website-url-scraper?fpr=p2hrc6)** - Smart Contractor Crawler extracts emails, phones, and text from contractor websites. Ideal for automating outreach, AI training, or business lead enrichment.
 - **[website-change-monitor](https://apify.com/desmond-dev/website-change-monitor?fpr=p2hrc6)** - Monitor any website for changes. If content updates, convert it to clean Markdown. Perfect for RAG, AI Agents, and competitor tracking. Ignores ads and navigation.
 - **[Whangamata Realestate Sale List](https://apify.com/getdataforme/whangamata-realestate-sale-list?fpr=p2hrc6)** - Extract recently sold property data from Whangamata Real Estate effortlessly. Scrape detailed descriptions, high-res images, sales consultants, and key particulars in clean JSON. Ideal for market analysis, price tracking, and real estate insights. Fast, customizable, and reliable on Apify....
-- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to 
+- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to
 Send WhatsApp messages using Twilio's official WhatsApp Business API - the most reliable and legitimate way to send WhatsApp messages programmatically.
 - **[Wonglueck Parser Spider](https://apify.com/getdataforme/wonglueck-parser-spider?fpr=p2hrc6)** - Effortlessly extract and analyze rental property data from Wohnglueck.de with this Apify Actor. Scrape comprehensive details like rent, size, rooms, and energy certificates reliably....
 - **[WordPress MCP Server](https://apify.com/extremescrapes/wordpress-mcp-server?fpr=p2hrc6)** - A lightweight MCP server for WordPress automation. Enables REST API access for LLMs and agents to publish, update, and manage content programmatically using Application Passwords.
@@ -1140,7 +1140,7 @@ High-accuracy AI-enabled business contact extractor using smart crawling, LLM an
 - **[ChatGPT Conversation Scraper](https://apify.com/straightforward_understanding/chatgpt-conversation-scraper?fpr=p2hrc6)** - Extract complete conversations from ChatGPT shared links with smart Pay-Per-Event pricing. Get full dialogues, code blocks, and metadata - perfect for training datasets, conversation analysis, and knowledge management.
 - **[Chatgpt Prompt Actor](https://apify.com/automation_nerd/chatgpt-prompt-actor?fpr=p2hrc6)** - This Actor automates interactions with ChatGPT by sending prompts and extracting responses.
  it opens the web interface, dismisses pop-ups, sends prompts, waits for responses (up to 2 minutes), and extracts generated results including citations for further use.
-- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.  
+- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.
 It is designed for developers, growth hackers, analysts, and campaign managers who need to filter or target users based on their DM availability.
 - **[Chroma Integration](https://apify.com/apify/chroma-integration?fpr=p2hrc6)** - This integration transfers data from Apify Actors to a Chroma and is a good starting point for a question-answering, search, or RAG use case.
 - **[Chrome Extension Review Scraper](https://apify.com/getdataforme/chrome-extension-review-scraper?fpr=p2hrc6)** - Chrome Extension Review Scraper gathers user reviews from Chrome Web Store extension pages. Provide review page URLs and proxy settings; the Actor returns structured JSON with review IDs, reviewer names, ratings, dates, texts, helpfulness counts, and developer replies. Ideal for sentiment analysis.
@@ -1153,7 +1153,7 @@ It is designed for developers, growth hackers, analysts, and campaign managers w
 - **[CodeScout AI](https://apify.com/aigeek/codescout-ai?fpr=p2hrc6)** - Generate comprehensive, AI-optimized codemaps from any public Features include visual dependency graphs, language distribution charts, framework detection, and complete file structure analysis. Save thousands of tokens by giving ChatGPT, Claude, or Cursor the full project context upfront.
 - **[Codespaces React](https://apify.com/powerful_platypus/codespaces-react?fpr=p2hrc6)** - Cybersecurity
 - **[CoinGecko Crypto Intelligence - Market Data AI Analysis API](https://apify.com/benthepythondev/coingecko-crypto-intelligence?fpr=p2hrc6)** - Real-time cryptocurrency market data API. AI-powered investment scoring (0-100) based on market position (30pts), price performance (25pts), liquidity (25pts), growth potential (20pts). Filter by price range, market cap, trading volume, rank, 24h price change, specific symbols (BTC/ETH/SOL).
-- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time 
+- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time
   CoinMarketCap data
 - **[Coinmarketcap Crypto Scraper](https://apify.com/agenscrape/coinmarketcap-crypto-scraper?fpr=p2hrc6)** - Scrape real-time cryptocurrency data from CoinMarketCap. Get prices, market cap, volume, rankings, and price changes (1h to 1yr) for 5000+ cryptos. Filter by coins/tokens, sort by market cap or volume, convert to any currency.
 - **[CoinMarketCap Crypto Scraper](https://apify.com/louisdeconinck/coinmarketcap-crypto-scraper?fpr=p2hrc6)** - CoinMarketCap Crypto Scraper is your ultimate tool for comprehensive market analysis. Effortlessly gather detailed data on prices, market caps, volumes, and more for all listed cryptocurrencies. Perfect for portfolio tracking, market research, and price monitoring. Fast, reliable, and easy to use!
@@ -1252,7 +1252,7 @@ It is designed for developers, growth hackers, analysts, and campaign managers w
 - **[Emporioitaliano Urls Spider](https://apify.com/getdataforme/emporioitaliano-urls-spider?fpr=p2hrc6)** - Extract detailed product data from Emporio Italiano's luxury home goods site. Scrapes names, descriptions, prices, images, and availability from specified URLs. Ideal for e-commerce analysis, market research, and automation. Outputs clean JSON for easy integration.
 - **[ETF Prices by Finmap.io](https://apify.com/finmap/etf-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of ETFs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Etsy Reviews Pro [pay per event]](https://apify.com/hello.datawizards/etsy-reviews-pro-pay-per-event?fpr=p2hrc6)** - Quickly extract detailed customer reviews from Etsy product listings. Perfect for Etsy sellers and analysts!
@@ -1304,7 +1304,7 @@ This ultra-lightweight Google SERP scraper is built for non-technical teams who 
 - **[Football Intelligence Hub](https://apify.com/mea/football-intelligence-hub?fpr=p2hrc6)** - Football Intelligence Hub - Injuries, Transfers & ML Predictions.
 - **[Forex Rates by Finmap.io](https://apify.com/finmap/forex-rates?fpr=p2hrc6)** - Generate the current rate and historical rates of any FX currency pair.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data at the best rates straight from the robust finmap.io API.
 
 Contact us if you have any questions.
@@ -1341,7 +1341,7 @@ Just provide a domain name, and our intelligent actor delivers comprehensive loc
 - **[German Imprint Scraper + Email Validation](https://apify.com/winningsolutions/german-imprint-scraper?fpr=p2hrc6)** - Smart Actor for German websites that detects Impressum pages, extracts company details, contact data, and verifies emails. Offers reliable scraping, structured JSON results, and robust performance for lead generation at scale.
 - **[Get Site to Markdown](https://apify.com/jhaisley/get-site?fpr=p2hrc6)** - Website to Markdown Crawler
 An asynchronous web crawler that mirrors websites into a single organized markdown file, with handling for images and  directory structure preservation.  Designed to operate with low cost.  This works great to build context for AI agents.
-- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**  
+- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**
 
 Let our powerful agent handle it for you! Just enter the details, and it will automatically sync all your repos with their corresponding parent repos—keeping them up-to-date with the latest code, effortlessly. 🚀
 - **[Github Marketplace Scraper](https://apify.com/jungle_synthesizer/github-marketplace-scraper?fpr=p2hrc6)** - Scrape GitHub Marketplace listings. Extracts relevant metadata, developer details, pricing information, and even hidden fields like emails.
@@ -1452,8 +1452,8 @@ Combine insights from all Hero actors into executive-ready recommendations. Perf
 - **[Image Moderation API](https://apify.com/sentinel-moderation/image-moderation-api?fpr=p2hrc6)** - Uses advanced AI models to analyze and classify user-generated content in real time. It detects harmful or inappropriate content, providing category-level flags and confidence scores to help you enforce community guidelines and keep your platform safe.
 - **[Image Text Extractor](https://apify.com/m3web/image-text-extractor?fpr=p2hrc6)** - Extract text from images using OCR (Optical Character Recognition) via direct URLs or uploaded JSON/CSV files. Works with multiple languages and automatically enriches your structured file with the text found inside images.
 - **[image to image](https://apify.com/evoort-solutions-llc/image-to-image?fpr=p2hrc6)**
-- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor. 
-Utilize cutting-edge AI to transform image content into structured JSON data effortlessly. 
+- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor.
+Utilize cutting-edge AI to transform image content into structured JSON data effortlessly.
 Perfect for automating data extraction from visual content and streamlining workflows.
 - **[Image to Prompt Generator 🎨 ✨](https://apify.com/easyapi/image-to-prompt-generator?fpr=p2hrc6)** - Transform any image into detailed text descriptions using AI. Perfect for content creators, SEO specialists, and developers who need automated image-to-text conversion. Powered by Phot.ai's advanced image recognition technology.
 - **[ImageFX API](https://apify.com/ib4ngz/imagefx-api?fpr=p2hrc6)** - This actor uses the ImageFX API to generate images from a list of text prompts. It supports multiple authentication tokens, configurable image count, choice of file extension (JPEG or PNG), a seed value for reproducibility, and optional ZIP archive creation for the generated images.
@@ -1489,7 +1489,7 @@ This actor takes a public Instagram username and session ID, then returns a deta
 - **[Instagram Scraper PPE](https://apify.com/devil_port369-owner/instagram-scraper-ppe?fpr=p2hrc6)** - Scrape Instagram user's profile details along with  Email/Phone details.
 - **[Instagram Scraper Pro](https://apify.com/agenscrape/instagram-scraper-pro?fpr=p2hrc6)** - Extract Instagram data at scale. Get user profiles, posts, reels, comments, hashtag feeds, and more with a simple API.
 - **[Instagram Tracker](https://apify.com/vivid.travelogue/instagram-tracker?fpr=p2hrc6)** - This actor collects public Instagram content with a browser-based approach that mirrors real user behaviour. It works with profiles, posts, reels, and stories, and returns a consistent JSON structure you can feed into automation, analytics, or reporting workflows.
-- **[Instant web data scraper - Scrape any website](https://apify.com/curious_coder/instant-web-scraper?fpr=p2hrc6)** - Scrape any public and private website data by providing just URL and optionally cookies and proxy information. 
+- **[Instant web data scraper - Scrape any website](https://apify.com/curious_coder/instant-web-scraper?fpr=p2hrc6)** - Scrape any public and private website data by providing just URL and optionally cookies and proxy information.
 This scraper is similar to instant data scraper but runs on cloud and can be used as API too!
 - **[Intelligence Squared Blog Scraper](https://apify.com/yourapiservice/intelligencesquared-blog-scraper?fpr=p2hrc6)** - Intelligence Squared Blog Scraper (intelligencesquared.com) lets you extract news content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Intelligent Website Scrapper](https://apify.com/happitap/intelligent-website-scrapper?fpr=p2hrc6)** - An intelligent website scraper that uses LangChain and LLM to extract and process content based on high-level goals like summarization, product extraction, service extraction, and FAQ extraction.
@@ -1515,11 +1515,11 @@ This scraper is similar to instant data scraper but runs on cloud and can be use
 
 This scraper extracts job listings from hk.jobsdb, pulling key information such as:
 
-- `company_name`  
-- `job_title`  
-- `salary`  
-- `work_type`  
-- `job_description`  
+- `company_name`
+- `job_title`
+- `salary`
+- `work_type`
+- `job_description`
 - `job_responsibilities`
 - **[Jse Data Agg](https://apify.com/knewland35/jse-data-agg?fpr=p2hrc6)** - Scrapes stock information like ticker, price, trade volume, etc. from jamstockex.com, Yahoo.com, and Investing.com for all stocks listed in the Jamaica Stock exchange
 - **[Jshealth Reviews Spider](https://apify.com/getdataforme/jshealth-reviews-spider?fpr=p2hrc6)** - The JSHealth Reviews Spider extracts comprehensive customer reviews from JSHealth Vitamins product pages, including ratings, comments, user details, and sentiment analysis....
@@ -1528,7 +1528,7 @@ This scraper extracts job listings from hk.jobsdb, pulling key information such 
 - **[JSON to TOON Converter – Cut LLM Token Costs by Up to 40%](https://apify.com/misterkhan/json-to-toon-converter?fpr=p2hrc6)** - Convert JSON to TOON and see if it really reduces tokens (often up to ~40%). The actor analyzes your data structure, compares JSON vs TOON usage, and tells you where TOON will cut LLM running costs and where you should keep using JSON.
 - **[Justia Usa Lawyers Directory Scraper](https://apify.com/agenscrape/justia-usa-lawyers-directory-scraper?fpr=p2hrc6)** - Extract comprehensive attorney profiles from Justia's legal directory by zip code. Get verified contact details, credentials, practice areas, ratings and experience data in clean, structured format.
 - **[Kaggle Scraper](https://apify.com/muhammetakkurtt/kaggle-scraper?fpr=p2hrc6)** - Efficiently extracts dataset information from Kaggle based on user-defined search terms. Collects datasets metadata, categories, usability ratings and file information. Customizable scraping depth. Ideal for researchers and data scientists seeking quick insights into Kaggle datasets.
-- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -1589,7 +1589,7 @@ Ease of Use: Intuitive interface perfect for professionals and beginners alike.
 - **[Llm Contact Scraper](https://apify.com/agenscrape/llm-contact-scraper?fpr=p2hrc6)** - AI-powered contact extractor for any website. Automatically captures 50+ fields: phones, emails, addresses, social media, hours, reviews & more. Clean JSON output ready for CRM/database. 4 modes from $0.015/page. 97% accurate, tested on 1M+ pages. Ideal for leads & data enrichment.
 - **[LLM Dataset Processor](https://apify.com/dusan.vystrcil/llm-dataset-processor?fpr=p2hrc6)** - Allows you to process output of other actors or stored dataset with single LLM prompt. It's useful if you need to enrich data, summarize content, extract specific information, or manipulate data in a structured way using AI.
 - **[Llm Response Evaluator](https://apify.com/fiery_dream/llm-response-evaluator?fpr=p2hrc6)** - Evaluate LLM outputs with comprehensive quality metrics and A/B testing capabilities. Free alternative to Confident AI ($99/mo).
-- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset 
+- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset
 — so you can always choose the best model for your task with best price daily.
 - **[Local Event Scraper](https://apify.com/herodcraperdz/local-event-scraper?fpr=p2hrc6)** - scrapes and aggregates local event data from various online sources, including community calendars, local news sites, venue websites, and specialized event platforms. The Actor normalizes the extracted data into a consistent format, making it easy to search, filter, and analyze.
 - **[Local Lead Generation Agent](https://apify.com/apify/local-lead-generation-agent?fpr=p2hrc6)** - Find truly local leads by scraping Instagram profiles based on search queries. Extract website links, contact details, emails, social media details. The AI agent matches and scores leads using LLMs via LangChain, explains scoring, and compiles the data into a common dataset for easy access and use.
@@ -1806,7 +1806,7 @@ Run GPT-4 prompts for automation, summarization, and data analysis with no token
 Say goodbye to outdated responses, misinformation, and hallucinations. Now you can ground your Language Model with the freshest information from the web. NO API NEEDED!
 - **[Realestate AU Scraper](https://apify.com/abotapi/realestate-au-scraper?fpr=p2hrc6)** - Extract property listings from realestate au. Get comprehensive data, including prices, property features, images, agent details, and more. Perfect for real estate analytics, market research, and investment analysis.
 - **[Realty Product Url Script](https://apify.com/hello.datawizards/realty-product-url-script?fpr=p2hrc6)** - Realty Product Url Script is an Apify Actor that extracts detailed property data from Realty.com listings, including price, images, size, features, and availability. Ideal for real estate analytics, automation, investment research, and building structured datasets effortlessly.
-- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction : 
+- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction :
 Extract structured data from receipt images using advanced OCR technology with support for multiple AI models including Google Vision, OpenAI, Azure, AWS Textract, Gemini, Hugging Face, DeepSeek, and Native OCR.
 - **[Receipt Scanner](https://apify.com/confidential_sand/receipt-scanner?fpr=p2hrc6)** - Extract store name, date, total, items and more from receipt images or PDFs using AI-powered OCR. Ideal for expense tracking, finance automation, and data extraction workflows. Handles messy real-world formats with high accuracy.
 - **[Recent LinkedIn Posts](https://apify.com/powerai/recent-linkedin-posts?fpr=p2hrc6)** - Summarize the latest posts from multiple LinkedIn users by entering their profile URLs (one per line) and get comprehensive reports in Markdown, HTML, and PDF formats.
@@ -1863,7 +1863,7 @@ Get leads and contact details for over 450k active small businesses
 - **[Sears Reviews Scraper](https://apify.com/muhammetakkurtt/sears-reviews-scraper?fpr=p2hrc6)** - This Apify actor automatically collects customer reviews from Sears product pages. By entering the product URL, it obtains detailed review data such as title, comment, rating, user information and number of upvotes. The collected data is stored in a structured format in the Apify data store.
 - **[SEC EDGAR Filings Intelligence - Insider Trading Financial Data](https://apify.com/benthepythondev/sec-edgar-filings-intelligence?fpr=p2hrc6)** - Extract SEC EDGAR filings (10-K, 10-Q, 8-K, insider trading, proxy statements) with AI intelligence scoring (0-100). 18M+ filings since 1993.
 - **[SecurityNexus-AI Enterprise Security Platform](https://apify.com/lovable_postcard/securitynexus-ai-clean-1?fpr=p2hrc6)** - AI-powered enterprise security automation. $30+ revenue per run, $0.50-2.25 per threat. Perfect for SOCs, security teams, threat hunting. Real-time intelligence, professional reports. $72B market opportunity.
-- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large  
+- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large
  volumes of data seamlessly. 🚀
 - **[semrush keyworlds scraper](https://apify.com/marceli/semrush-keyworlds-scraper?fpr=p2hrc6)** - Keyword Insight Pro is a powerful data enrichment tool designed to enhance your keyword research process. By seamlessly scraping data from SEMrush, it provides in-depth insights into your target keywords, including search volume, competition, and trends.
 - **[Sentiment Analysis Online Tool](https://apify.com/tri_angle/sentiment-analysis-online-tool?fpr=p2hrc6)** - Type in or paste text to get sentiment analysis evaluation using a tool with built-in AI model. Get the sentiment score (0 to 1) and classification (positive, negative, neutral) for each phrase. Export analyzed data, run this tool via API, schedule ad monitor runs or integrate with other tools.
@@ -1891,8 +1891,8 @@ Get leads and contact details for over 450k active small businesses
 - **[SlideSpeak MCP Server](https://apify.com/agentify/slidespeak-mcp-server?fpr=p2hrc6)** - An MCP server that lets Claude or other MCP-compatible apps create PowerPoint presentations directly from natural language prompts via the SlideSpeak API.
 - **[Smart Article Extractor](https://apify.com/lukaskrivka/article-extractor-smart?fpr=p2hrc6)** - 📰 Smart Article Extractor extracts articles from any scientific, academic, or news website with just one click. The extractor crawls the whole website and automatically distinguishes articles from other web pages. Download your data as HTML table, JSON, Excel, RSS feed, and more.
 - **[Smart Business Lead Collector – AI Contact & Company Scraper](https://apify.com/vanagha/smart-business-lead-collector---ai-contact-company-scraper?fpr=p2hrc6)** - Collect verified business emails, phones, and company summaries with AI. This smart scraper uses LlamaIndex to find and deduplicate contact info from any website. Fast, tested, and free for a limited time!
-- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs. 
-It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats. 
+- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs.
+It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats.
 Pay as you go — per second, per language
 - **[Smart Product Scraper](https://apify.com/devnaz/smart-product-scraper?fpr=p2hrc6)** - Extract data from ANY e-commerce product in less than 2 seconds
 - **[Smart Scrape AI](https://apify.com/llayaa112/smart-scrape-ai?fpr=p2hrc6)** - Smart Scrape AI is an autonomous web automation and scraping actor powered by Playwright and AI. It dynamically interprets prompts, navigates websites, performs tasks, extracts data, and provides intelligent answers. Ideal for zero-code, prompt-driven data extraction and interaction workflows.
@@ -1988,7 +1988,7 @@ To get the Output, which is a MP3 Data file, you have to go to Storage, in there
 - **[TikTok Mega Scraper & Data Extractor](https://apify.com/lucrateresults/tik-tok-scraper?fpr=p2hrc6)** - Scrape TikTok videos, user profiles, hashtags, and comments. This data extraction tool helps you get public video data, user details, and engagement metrics for market research, trend analysis, and social media campaigns.
 - **[TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=p2hrc6)** - TikTok Trending Music Scraper. Get real-time insights into popular sounds, discover new artists, and fuel your music discovery applications.
 - **[TikTok Video Data Scraper](https://apify.com/jeremy_frost/tiktok-video-data-scraper?fpr=p2hrc6)** - Extract TikTok video data at scale with our powerful TikTok Scraper. Get views, likes, hashtags, and more in JSON, CSV, or Excel — perfect for analytics, reports, and dashboards.
-- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English. 
+- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English.
 It's built to be robust, automatically handling video-to-audio conversion and compression to stay within API limits.
 - **[Tiktok Viral Challenge Finder](https://apify.com/badruddeen/tiktok-viral-challenge-finder?fpr=p2hrc6)** - Catch TikTok trends before they explode! Instantly discover the hottest rising challenges & hashtags with real-time 7-day views + virality score. Perfect for creators, social media managers & marketers who want to go viral first. One-click tweet-ready summary. 100 % free!
 - **[Time MCP Server](https://apify.com/agentify/time-mcp-server?fpr=p2hrc6)** - An MCP server implementing the Model Context Protocol (MCP) for time-related operations.
@@ -1999,9 +1999,9 @@ It's built to be robust, automatically handling video-to-audio conversion and co
 - **[Trademe Properties Parser Spider](https://apify.com/getdataforme/trademe-properties-parser-spider?fpr=p2hrc6)** - Extract detailed rental property listings from TradeMe.co.nz effortlessly. This Apify Actor scrapes key data like prices, locations, amenities, and agent info, delivering structured JSON for analysis, monitoring, and integration....
 - **[Trademe Properties Spider](https://apify.com/getdataforme/trademe-properties-spider?fpr=p2hrc6)** - This Apify actor scrapes residential property listings from Trade Me, extracting pricing, location, features, and agent details. Ideal for real estate professionals, it offers customizable URLs, structured JSON output, and reliable data retrieval without coding.
 - **[Tradingview Chart Analyzer with AI](https://apify.com/kutaui/tradingview-chart-analyzer?fpr=p2hrc6)** - This Actor accepts TradingView chart images (as base64-encoded strings or URLs) and uses OpenAI's GPT models to perform advanced technical analysis. It provides simple, beginner-friendly insights about market trends and potential price movements, along with appropriate disclaimers.
-- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription! 
-🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text. 
-🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions! 
+- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription!
+🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text.
+🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions!
 
 💸 Get accurate text versions fast & affordably! ✨
 - **[Trending Products Scraper](https://apify.com/salmanrajz/trending-products-scraper?fpr=p2hrc6)** - Scrape trending TikTok Shop products in real time: viral items, analytics, engagement, creator counts, GMV, and sales data for US/UK. Get TikTok Shop URLs—perfect for e-commerce, market analysis, and discovering hot products before they go viral.
@@ -2167,7 +2167,7 @@ Features
 - **[Youtube Search ppr](https://apify.com/mina_safwat/youtube-search-ppr?fpr=p2hrc6)** - The fastest and simplest YouTube Search Actor. Extract YouTube search results effortlessly. just provide a list of search queries, and it will return structured data about videos
 - **[YouTube SEO Rocket 2025 – 12 Titles + Description + 60 Tags](https://apify.com/ytseo2025/youtube-seo-rocket-2025---12-titles-description-60-tags?fpr=p2hrc6)** - Paste any YouTube URL → get 12 viral titles, full SEO description 60 tags 15 hashtags in <2 minutes. Gemini 2.5
 - **[YouTube Subtitle Generator - Auto Transcribe & Translate](https://apify.com/futurizerush/youtube-subtitle-generator?fpr=p2hrc6)** - Generate subtitles from YouTube videos using OpenAI's AI models for speech-to-text transcription and translation to 15+ languages. Outputs SRT, TXT, and JSON formats. Note: Requires fresh cookies for each run (expire within minutes) - not suitable for automation.
-- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI 
+- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI
   training data - no quotas or authentication required.
 - **[YouTube Summarizer](https://apify.com/piotrv1001/youtube-summarizer?fpr=p2hrc6)** - The YouTube Summarizer extracts key insights from YouTube videos, generating concise summaries, key takeaways, sentiment analysis and actionable insights — ideal for researchers, content creators, and analysts.
 - **[Youtube Summarizer & Translator](https://apify.com/ursinusalaskus/youtube-summarizer?fpr=p2hrc6)** - Extracts Youtube video transcript and provides AI powered summaries and translations
@@ -2200,7 +2200,7 @@ This actor processes a YouTube video link and extracts the transcript, descripti
 - **[YT Downloader Test](https://apify.com/nodexagent/yt-downloader?fpr=p2hrc6)** - YouTube video into your preferred format with lightning speed! Our powerful API delivers professional-grade downloading capabilities with support for 4K, 1080p, 720p, and every quality in between.
 - **[YTDS](https://apify.com/accomplished_yapok/ytds?fpr=p2hrc6)** - Yt data scraper
 - **[Yumos Urls Spider](https://apify.com/getdataforme/yumos-urls-spider?fpr=p2hrc6)** - Yumos Urls Spider is an Apify Actor that automates web scraping on the Yumos website, extracting structured data from specified URLs like detergent categories....
-- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown. 
+- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown.
 
 Packed with features to ensure high success rate and low cost.
 
@@ -2266,7 +2266,7 @@ You will get the result in a file that you can export
 - **[🎵 Spotify Tracks Downloader - Advanced Filters Unlocked](https://apify.com/premiumscraper/spotify-tracks-downloader-advanced-filters-unlocked?fpr=p2hrc6)** - Download 📥 any Spotify track 🎧 with 99% ✅ success rate! Features: 2 modes (⚡Fast/🎯 Accurate), 7 advanced filters 🔧, 11 formats 🎼 (MP3, FLAC, WAV), sorting options 📊, batch downloads 📦Perfect for 🎛️ DJs, 🎨 creators & 🎵 music lovers. Advanced filtering unlocked! 🔓Spotify Tracks Downloader🎵
 - **[🏆 LinkedIn Jobs Scraper](https://apify.com/valig/linkedin-jobs-scraper?fpr=p2hrc6)** - 🚀 Automatically extract LinkedIn job listings based on your selected role and location, saving time and effort in your job search. 💼✨
 - **[🏆📱 Social Media Trend Scraper 6-in-1 | AI Analysis 🤖](https://apify.com/manju4k/social-media-trend-scraper-6-in-1-ai-analysis?fpr=p2hrc6)** - 🔥THE ONLY scraper for TikTok, Instagram, YouTube, Reddit, Twitter & Pinterest with AI analysis! Get viral hashtags, engagement insights & actionable recommendations. 10 regions, 6 time ranges, 5 analysis types. 95% cost savings vs manual research. Perfect for creators, marketers, agencies📱🤖
-- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API. 
+- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API.
 
 Just paste properties URLs and get your data. Blazing speed, affordable pricing, and effortless insights await. Start today and supercharge your workflow! ⚡
 - **[🏚️Fotocasa.es search results scraper by search URL (PPR)](https://apify.com/azzouzana/fotocasa-es-search-results-scraper-by-search-url-ppr?fpr=p2hrc6)** - 🔥 Scrape fotocasa.es search results pages & pay per result! ⚡ Easily exportable to JSON, CSV, Excel, or as an API... Simply enter the search page URL and get your data! Blazing fast & affordable ⚡
@@ -2337,7 +2337,7 @@ The API is designed to deliver fresh data every 10 minutes, ensuring you always 
 - **[🔥 Instagram Profile Scraper [Posts & Bio]](https://apify.com/coderx/instagram-profile-scraper-posts-bio?fpr=p2hrc6)** - Instagram Profile Insights Scraper is a fast and lightweight tool for extracting rich public data from Instagram usernames. It retrieves profile details and the latest posts, making it easy to analyze accounts at scale for research, marketing, or competitive insights.
 - **[🔥 Linkedin Job Scraper](https://apify.com/bhansalisoft/linkedin-job-search-api?fpr=p2hrc6)** - Scrape LinkedIn job listings with ease. Extract job titles, companies, locations, and more in real-time. Automate job data collection for recruiting, analysis, or lead generation.
 - **[🔥 LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper?fpr=p2hrc6)** - ℹ️ Designed for both personal and professional use, simply enter your desired job title and location to receive a tailored list of job opportunities. Try it today!
-- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations: 
+- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations:
 🔍 Key Features:
 Input multiple job titles (e.g. "Software Engineer", "Data Analyst")
 Input multiple locations (e.g. "London", "New York", "Berlin")
@@ -2425,11 +2425,11 @@ This Apify actor Faster-Whisper to generate transcripts and captions. It saves r
 - **[Actor Inspector Agent](https://apify.com/jakub.kopecky/actor-inspector-agent?fpr=p2hrc6)** - Agent Actor Inspector 🕵️‍♂️: An Apify Actor that rates others on docs 📝, inputs 🔍, code 💻, functionality ⚙️, performance ⏱️, and uniqueness 🌟. Config with actorId array, run, and review results. Helps devs improve, ensures quality, and guides users.
 - **[Actor Testing](https://apify.com/pocesar/actor-testing?fpr=p2hrc6)** - Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine
 - **[Actors Monitoring](https://apify.com/hamza.alwan/actors-monitoring?fpr=p2hrc6)**
-- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions. 
+- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions.
 
 According to recent studies around 70% of consumers watch videos with the sound off in public places.  Make sure your videos have captions with this Actor and engage with more users.
 - **[Address Normalizer](https://apify.com/parseforge/address-normalizer?fpr=p2hrc6)** - Fix and normalize addresses in bulk using AI. Upload a CSV or provide a list of addresses, and the Actor returns fully standardized results with proper capitalization, filled missing fields, corrected formats, and consistent structure for clean, reliable address data.
-- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie). 
+- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie).
 Results are combined ads and statistics from all social media platforms adlibrary.com supports (currently Meta and Google, so all Ads across Instagram, Facebook, Threads, Whatsapp, Google, Youtube)
 - **[Adondevivir Property Listings Scraper](https://apify.com/ecomscrape/adondevivir-property-listings-scraper?fpr=p2hrc6)** - Professional Peru property data scraper for Adondevivir marketplace. Extracts comprehensive real estate listings, pricing analytics, location data & seller contacts. Automated JSON export for database integration. Complete Lima & regional market coverage.
 - **[ADP Jobs API](https://apify.com/fantastic-jobs/adp-jobs-api?fpr=p2hrc6)** - The perfect ADP Job Scraper API! Direct postings from thousands of company career sites. Enriched with AI and LinkedIn company data, with up to 60 fields per job!
@@ -2458,7 +2458,7 @@ Extract technologies stack, social account, emails
 - **[Advanced X (Twitter) Profile Scraper](https://apify.com/delicious_zebu/advanced-x-twitter-profile-scraper?fpr=p2hrc6)** - Scrape all tweets from any X (Twitter) profile, not just recent ones. Uses advanced search with specific date ranges to capture far more data. Fast, stable & data-rich.
 - **[Advanced Yellowpages Scraper](https://apify.com/dainty_screw/advanced-yellowpages-scraper?fpr=p2hrc6)** - Yellowpages Scraper is a robust tool designed to scrape business information from Yellowpages. It efficiently extracts essential details such as business names, addresses, phone numbers, categories, and more.
 - **[Adzuna Contact Extractor](https://apify.com/websift/adzuna-contact-extractor?fpr=p2hrc6)** - Boost your job data collection with the Adzuna Job Scraper Actor, a high-performance Apify actor designed to scrape job listings from Adzuna Australia. This powerful tool offers advanced filtering options, salary insights, and detailed contact information extraction.
-- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform 
+- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform
 Just enter a job search URL to extract key details like job title, company, location, and description 🔍
 Seamlessly integrate with your tools for job aggregation, market analysis, or recruitment automation! ⚡📊
 - **[AFAG Messe Exhibitor List Scraper](https://apify.com/skython/afag-messe-exhibitor-list-scraper?fpr=p2hrc6)** - Simple web scraper for extracting exhibitor data from trade show exhibitor lists provided by AFAG Messe. Extract company details using this scraping tool for B2B lead generation and event networking. Supports multiple AFAG Messe trade fair websites with a consistent HTML structure.
@@ -2755,7 +2755,7 @@ Input your Amazon product URL and scrap the number of reviews and rating.
 - **[Apec Jobs Scraper 🔍🇫🇷 - Cheap](https://apify.com/scrapestorm/apec-jobs-scraper---cheap?fpr=p2hrc6)** - Easily gather executive & managerial job listings from Apec, France’s leading career platform for professionals 💼
 Just enter a search URL to extract key details like job title, company, salary, location & more 🔍
 Seamlessly integrate with your tools for market analysis or job board automation! ⚡📊
-- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[Api Rate Limit Orchestrator](https://apify.com/fiery_dream/api-rate-limit-orchestrator?fpr=p2hrc6)** - Never hit rate limits again. Intelligent request queuing, auto-retry, and parallel execution for rate-limited APIs.
 - **[API Response Watcher](https://apify.com/marco.gullo/api-response-watcher?fpr=p2hrc6)** - Checks if some API endpoint's response has changed. Works by creating and storing a JSON schema from the endpoint's response and using it to validate the next response. Depending on the configuration, the stored JSON schema can be updated every time the response changes.
@@ -2864,7 +2864,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[autotrader.com.au Scraper](https://apify.com/fayoussef/autotrader-au-scraper?fpr=p2hrc6)** - Scrapes Autotrader.com.au for detailed vehicle listings. Extracts 30+ data points: price, specs, VIN, odometer, dealer info, photos & URLs. Fetches all pages per API's total for comprehensive results
 - **[AutoZone.com Scraper](https://apify.com/lexis-solutions/auto-zone-com?fpr=p2hrc6)** - Scrape product data from AutoZone.com - including part names, SKUs, prices, availability, compatibility info, and images. Ideal for market research, inventory management, and price monitoring. Fast, structured, and customizable extraction.
 - **[AvendreAlouer.fr Scraper](https://apify.com/saswave/avendrealouer-fr-scraper?fpr=p2hrc6)** - French real estate scraper. Extract information from website avendrealouer.fr about buy or rent listings. Improve your monitoring and analytics at scale. Collect data about price, description, phonenumber, seller, email, city and more
-- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales. 
+- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales.
 Extracts destination, price, discount, and dates. Uses Selenium. Saves data to Apify dataset.
 Hot ticket page example for Moscow: https://www.aviasales.ru/?params=MOW1&service=hottickets&marker=70279
 - **[Aviation Intel](https://apify.com/fiery_dream/aviation-intel?fpr=p2hrc6)** - Enterprise-grade aviation weather briefing and flight operations intelligence agent.
@@ -2873,7 +2873,7 @@ Features
 Real-time METAR Analysis: Current airport conditions with flight category (VFR/MVFR/IFR/LIFR)
 TAF Forecasts: 24-30 hour terminal aerodrome forecasts decoded to plain English
 and more!
-- **[Avis Verifier scraper](https://apify.com/saswave/avis-verifier?fpr=p2hrc6)** - Allows you to automate data extraction from www.avis-verifies.com 
+- **[Avis Verifier scraper](https://apify.com/saswave/avis-verifier?fpr=p2hrc6)** - Allows you to automate data extraction from www.avis-verifies.com
 Get companies personnal infos, reviews scores and reviews list details
 - **[Avito Offers Scraper 🚀 (Fast and cheap)](https://apify.com/scrapestorm/avito-offers-scraper-fast-and-cheap?fpr=p2hrc6)** - This Apify actor extracts products from Avito! 🎯 Customize your search by keyword, category, city (Morocco), and more 🌍. Extracted data is saved to a dataset 📊. Enjoy fast and efficient web scraping 💻📦. Easily handle pagination and filter results for accurate data you need! 📈
 - **[Avvo Scraper](https://apify.com/jungle_synthesizer/avvo-scraper?fpr=p2hrc6)** - Scrape Avvo for listings
@@ -3058,7 +3058,7 @@ Clean your email lists fast. Our verification tool removes fake, invalid, and ri
 - **[Bulk Gmail Sender With Multiple Account](https://apify.com/bhansalisoft/bulk-gmail-sender-with-multiple-account?fpr=p2hrc6)** - Bulk Gmail Sender With Multiple Account  - Send Email From GMail  with multiple account support, so that you can send thousends of email from Gmail beyond gmail daily limit.
 - **[Bulk Image Downloader](https://apify.com/onescales/bulk-image-downloader?fpr=p2hrc6)** - The Bulk Image Downloader is a powerful Apify actor that extracts and downloads images from web pages or processes direct image URLs in bulk. Whether you need to download a single image or thousands of images from multiple websites, this tool handles it all efficiently.
 - **[Bulk Image Downloader](https://apify.com/trudax/bulk-image-downloader?fpr=p2hrc6)** - Download all images from a website with this easy-to-use Bulk Image Downloader. Scrape all images from any website by URL to a zip file with a single click.
-- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de. 
+- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de.
 
 Pulls jobs by keyword 🔎 and location 📍, returns employer details, dates, emails 📧 and phones 📱, and supports precise radius filtering 📏
 
@@ -3188,7 +3188,7 @@ Note: Only public profiles with at least 1 post can be scraped.
 - **[CMS Checker (Bulk)](https://apify.com/canadesk/cms-checker-bulk?fpr=p2hrc6)** - Get the technology stack and competitors for most websites. It's fast and costs little.
 - **[cnc-smart-estimator](https://apify.com/luminous_cotton/cnc-smart-estimator?fpr=p2hrc6)** - Generates instant manufacturing quotes by analyzing STEP CAD geometry and scraping real-time market prices. Features AI-powered DFM advice and Carbon Footprint estimation.
 - **[CNN Business Stock Earnings Per Share](https://apify.com/pintostudio/cnn-business-stock-earnings-per-share?fpr=p2hrc6)** - The CNN Business Stock Earnings Per Share Actor is an Apify actor that retrieves comprehensive earnings per share (EPS) data for US stock tickers from CNN Business.
-- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.  
+- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.
 It provides quarterly and annual net income values, percentage changes, company summaries, and investor-friendly explanations.
 - **[CNN Business Stock Price](https://apify.com/pintostudio/cnn-business-stock-price?fpr=p2hrc6)** - The CNN Business Stock Price Actor is a web scraping tool that fetches real-time stock price data and financial analysis from CNN Business. This actor provides comprehensive stock information including current prices.
 - **[CNN Business Stock Total Revenue](https://apify.com/pintostudio/cnn-business-stock-total-revenue?fpr=p2hrc6)** - A specialized Apify Actor that fetches total revenue data for US stock companies from CNN Business.
@@ -3211,7 +3211,7 @@ It provides quarterly and annual net income values, percentage changes, company 
 - **[Coles Reviews Spider](https://apify.com/hello.datawizards/coles-reviews-spider?fpr=p2hrc6)** - The Coles Reviews Spider extracts detailed customer reviews from Coles.com.au, including ratings, translations, demographics, product metadata, and timestamps. Ideal for sentiment analysis, retail insights, brand monitoring, and large-scale review analytics with residential proxy support.
 - **[Collage Maker](https://apify.com/maged120/collage-maker?fpr=p2hrc6)** - The Most Advanced and Inteligent Collage Generator with 13 templates and size and number flixible layouts
 - **[Color Converter All Values](https://apify.com/bou-korinna/color-converter-all-values?fpr=p2hrc6)** - Color Converter All Values
-- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by 
+- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by
            +  name or hex codes
            +  , and this Actor will search Zara, H&M, ASOS, and Shein for matching products using advanced color
            +   similarity algorithms
@@ -3542,7 +3542,7 @@ Perfect for academic outreach & education database enrichment 🧩
 - **[Email Info](https://apify.com/apioracle/email-info?fpr=p2hrc6)** - This actor analyzes any email and returns detailed insights: name detection, gender and country guess, inbox name patterns, email quality score, disposable check, and global ranking data for first/last names. Ideal for enrichment, lead validation, and identity intelligence.
 - **[Email Lead Finder Pro](https://apify.com/bhansalisoft/email-and-contact-lead-finder-pro?fpr=p2hrc6)** - Email and Contact Lead Finder Pro  - Find Emails and Contact Number with all detail from any Job Title and Location and Industrial Keyword.
 - **[Email Link Extractor](https://apify.com/leafed_dryer/email-link-extractor?fpr=p2hrc6)** - Advanced email link processor that extracts, analyzes and unwraps tracking URLs. Supports SendGrid, Mailchimp, Beehiiv, HubSpot, Constant Contact and other major email service providers. Automatically resolves redirect chains to find real destination URLs hidden behind marketing tracking links.
-- **[Email Notification Webhook](https://apify.com/mnmkng/email-notification-webhook?fpr=p2hrc6)** - This actor sends you an email notification with a log file 
+- **[Email Notification Webhook](https://apify.com/mnmkng/email-notification-webhook?fpr=p2hrc6)** - This actor sends you an email notification with a log file
 when one of your other actors fails, succeeds, times out, you name it.
 - **[Email Scraper](https://apify.com/ib4ngz/email-scraper?fpr=p2hrc6)** - This actor scrapes email addresses from a list of provided URLs. It recursively crawls pages, extracts unique emails, and stores them in a dataset. The actor supports DNS validation to ensure domain authenticity and allows filtering based on custom crawling depth.
 - **[Email scraper pro](https://apify.com/scrapingxpert/email-scraper-pro?fpr=p2hrc6)** - The Email Scraper Pro is a powerful tool designed to extract email addresses and social media links from websites It uses advanced web scraping techniques to crawl through web pages, identify social media profiles. This tool is ideal for lead generation, contact harvesting, and business intelligence
@@ -3653,7 +3653,7 @@ extracts contact information from specified web pages, including email addresses
 - **[Facebook Ads Library Scraper](https://apify.com/scrapier/facebook-ads-library-scraper?fpr=p2hrc6)** - Extract ad data with the Facebook Ads Library Scraper. Retrieve active and inactive ads, creatives, targeting info, impressions, and engagement metrics. Perfect for competitor analysis, market research, and ad strategy insights. Fast, reliable, and scalable for bulk ad data extraction.
 - **[Facebook Ads Library Scraper](https://apify.com/taupe_thrush/fb-ads-library-scraper-actor?fpr=p2hrc6)** - This Apify Actor scrapes ads from Facebook's Ad Library based on the provided URL. It will extract ad data, including ad content, page information, and targeting details. It automates the browsing process, handles dynamic content loading, and provides structured data output.
 - **[Facebook Ads Meta Adlibrary Scraper](https://apify.com/bockmurat/facebook-ads-scraper-actor?fpr=p2hrc6)** - Cheapest and fastest Facebook / Meta Adlibrary scraper on Apify. Scrape All ads per Adlibrary Url including creatives and collateral results. Scrapes Full Results for all Ads across Facebook, Instragram, Threads, Whatsapp, Messenger and Audience Network.
-- **[Facebook ADS Report Scraper](https://apify.com/saswave/facebook-ads-report-scraper?fpr=p2hrc6)** - Get facebook ads numbers, money spent, page name and page id. Facebook ADS report scraper will help you automate KPI extraction and allow to you upgrade your lead generation actions. 
+- **[Facebook ADS Report Scraper](https://apify.com/saswave/facebook-ads-report-scraper?fpr=p2hrc6)** - Get facebook ads numbers, money spent, page name and page id. Facebook ADS report scraper will help you automate KPI extraction and allow to you upgrade your lead generation actions.
 You can setup the actor with apify Schedules and get your report automated without any humain intervention
 - **[Facebook Ads Scraper](https://apify.com/shahzeb-king/facebook-ads-scraper?fpr=p2hrc6)** - Facebook Ads Library Scraper - Lightning Fast Edition | Extract Active Facebook Ads Data Instantly. Scrape ads by country & keyword with ultra-fast HTML parsing. Perfect for marketing research, competitor analysis & lead generation. Headless browser automation with Playwright & Apify.
 - **[Facebook Ads Scraper](https://apify.com/founder_futuretech_ai/facebook-ad-scraper?fpr=p2hrc6)** - Scrape Facebook Ad Library ads effortlessly across any niche using custom keywords and locations. Extract ad text, contact info, websites, and social profiles. Perfect for marketers, researchers, agencies, and businesses seeking targeted ad intelligence at scale.
@@ -3813,7 +3813,7 @@ It requires **logged-in cookies** to access search results consistently.
 - **[Facebook Url To Id Scraper](https://apify.com/simpleapi/facebook-url-to-id-scraper?fpr=p2hrc6)** - Facebook URL to ID Scraper converts Facebook profile, page, post, or group URLs into their numeric Facebook IDs. Returns object type, original URL, numeric ID, and basic metadata — supports single or bulk lookups for integrations, data-mapping, analytics, and automation
 - **[Facebook Url To Id Scraper](https://apify.com/scrapio/facebook-url-to-id-scraper?fpr=p2hrc6)** - Converts any Facebook profile, page, group, or post URL into its unique numeric ID. Ideal for automation workflows, API integrations, data mapping, analytics, and tools that require stable Facebook identifiers at scale
 - **[Facebook US Marketplace Scraper Pro](https://apify.com/hello.datawizards/facebook-marketplace-us-scraper-pro?fpr=p2hrc6)** - The Facebook US Marketplace Scraper Pro lets you extract real-time product listings from Facebook Marketplace . Get titles, prices, locations, images, and URLs easily. Perfect for resellers, analysts, and businesses seeking market insights and competitor monitoring.
-- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟 
+- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟
   Access ALL data types easily & fast ✨⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️🖥️
@@ -3837,7 +3837,7 @@ This actor gives you structured metadata, ready-to-use media files in KV storage
 - **[Facebook(Meta) Ad Scraper](https://apify.com/getdataforme/facebook-ad-scraper?fpr=p2hrc6)** - Facebook Ad Scraper lets you extract live ad data from Meta platforms including Facebook, Instagram, Messenger, Threads, and more. Easily search ads by keyword and country and get structured info like ad copy, CTA, format, page details, and platform distribution.
 - **[Failed Runs Monitor](https://apify.com/jannovotny/failed-runs-monitor?fpr=p2hrc6)** - This actor will let you know about failed or time outed runs of your actors and tasks via Slack or email. It can also notice you about successful runs with empty dataset, check JSON schema of dataset items, or about runs that are running for too long.
 - **[FanCode Live Sports Streams Scraper 🏏 🎯](https://apify.com/easyapi/fancode-live-sports-streams-scraper?fpr=p2hrc6)** - Extracts live sports streaming data from FanCode, India's premier sports streaming platform. Get real-time access to cricket, kabaddi, football matches with HLS stream URLs, team information, and match details. Updated every 30 minutes.
-- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields. 
+- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields.
 Very good for lead generation to find new models for your agency.
 - **[Fansly Search scraper](https://apify.com/iskander/fanfix-search-scraper?fpr=p2hrc6)** - Fast Fansly scraper that scrapes search results and output all fields includes socials
 - **[Farmacia Guadalajara (MX) Actor](https://apify.com/kae3nn/guadalajara?fpr=p2hrc6)** - Products, search and category crawler for Farmacia Guadalajara (MX).
@@ -3852,7 +3852,7 @@ Very good for lead generation to find new models for your agency.
 - **[Fast Agoda Scraper](https://apify.com/knagymate/fast-agoda-scraper?fpr=p2hrc6)** - Scrape Agoda.com for hotels, prices, ratings, and reviews. This Agoda scraper is a reliable API alternative for travel apps, competitor research, market analysis, and SEO-friendly content generation with structured hotel datasets.
 - **[Fast Autotrader Uk Scraper - Compact Outputs](https://apify.com/blueorion/fast-autotrader-uk-scraper?fpr=p2hrc6)** - Optimized for speed and low cost, capturing only essential, high-value fields such as title, price, mileage, year, location, seller info, and images. Extract from Autotrader UK search result pages and individual vehicle pages.
 - **[Fast Bulk Email and Social Links Finder / Extractor](https://apify.com/xmiso_scrapers/fast-bulk-email-and-social-links-finder-extractor?fpr=p2hrc6)** - Scrape emails and social links from domains/websites list at blazing speed up to 1000 urls per minute.
-- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder  
+- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder
 Instantly Scrape ⚡public emails for any company domain 🌐 or using first name, last name 👤, and domain. Perfect for cold email outreach 📧 and lead generation 📈 — find high-converting leads 🚀, and scale your campaigns 🌡️ with direct inbox access.
 - **[Fast Google News Scraper](https://apify.com/aymorato/fast-google-news-scraper?fpr=p2hrc6)** - Extract details from Google News articles, such as images, titles, links, and other relevant information.
 - **[Fast Google Search Results Scraper](https://apify.com/6sigmag/fast-google-search-results-scraper?fpr=p2hrc6)** - Paste keywords in bulk → get clean, clickable URLs.
@@ -3908,7 +3908,7 @@ No cookies or login required
 - **[FindLaw Scraper](https://apify.com/jungle_synthesizer/findlaw-scraper?fpr=p2hrc6)** - Scrape attorney and law firm data from FindLaw Lawyer Directory to generate high-quality, targeted legal industry leads
 - **[Finnish Business Finder Scraper](https://apify.com/agenscrape/finnish-business-finder-scraper?fpr=p2hrc6)** - Extract comprehensive business data from Finder.fi, Finland's leading business directory. Get contact details, location information, and social media profiles for Finnish companies.
 - **[FINRA BrokerCheck Scraper](https://apify.com/parseforge/finra-brokercheck-scraper?fpr=p2hrc6)** - Supercharge your financial industry research! Automate collection of detailed broker and investment advisor information including employment history, regulatory actions, licensing details, and firm affiliations. Get complete professional backgrounds, disclosures, and compliance data from FINRA.
-- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies. 
+- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies.
 Finstat scraper na sťahovanie info o slovenských firmách podľa IČO.
 - **[Finviz scraper - financial news and data](https://apify.com/vmscrapers/finviz-scraper?fpr=p2hrc6)** - Finviz scraper will enable you to scrape both news and ticker data from finviz.com efficiently.
 - **[Firebase Firestore Import](https://apify.com/danielwebr/firebase-firestore-import?fpr=p2hrc6)** - This actor is designed to simplify the process of transferring data from an Apify dataset into a Firebase Firestore collection. Simply configure the actor with your Firebase credentials, Firestore collection ID, and dataset ID, and it will handle the rest, including optional data transformations.
@@ -3957,7 +3957,7 @@ Just provide a domain name, and our intelligent actor delivers comprehensive loc
 - **[Free bol.com price scraper - Extract offers EAN/bol.com bpid](https://apify.com/s-r/free-bol-com-price-scraper---extract-offers-ean-bol-com-bpid?fpr=p2hrc6)** - Grab all offers from all sellers on Bol.com for any EAN or BPID. Whether you're comparing competitor prices, optimizing your pricing strategy, or analyzing market trends, this scraper gives you complete, real-time insights at scale.
 - **[Free EAN-to-ASIN Converter – Turn Any EAN Into an Amazon ASIN](https://apify.com/s-r/free-ean-to-asin-converter---turn-any-ean-into-an-amazon-asin?fpr=p2hrc6)** - The AI-powered matching engine that connects Amazon products
   with their universal barcodes. Seamlessly translates between Amazon ASINs and EAN/UPC barcodes, keeping your inventory perfectly aligned across every sales channel.
-- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs. 
+- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs.
 
 Contact discovery, employing a two-pass search strategy, advanced filtering (remove generic and malformed emails), user-agent rotation, and configurable limits per domain. Ideal for lead generation and market research.
 - **[Free Google Maps Scraper - Simplified Version](https://apify.com/blueorion/free-google-maps-scraper-simplified?fpr=p2hrc6)** - Simplified version of "Free Google Maps Scraper - Low-cost & Extensive". FASTER & CHEAPER.
@@ -3972,7 +3972,7 @@ Contact discovery, employing a two-pass search strategy, advanced filtering (rem
 - **[Freeze](https://apify.com/janbuchar/freeze?fpr=p2hrc6)** - Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike. This Actor is wrapper around the popular https://github.com/charmbracelet/freeze open-source repository.
 - **[French License Plate Lookup](https://apify.com/freecamp008/french-license-plate-lookup?fpr=p2hrc6)** - Look up detailed information about French vehicles by license plate. Retrieves structured data such as brand, model, year, specifications, history, and more.
 Obtenez des informations détaillées sur les véhicules immatriculés en France à partir de leur plaque d’immatriculation.
-- **[French Tech Startup Fundraising Newsletter Parser](https://apify.com/saswave/french-tech-startup-fundraising-newsletter-parser?fpr=p2hrc6)** - Aggregate multiple newsletter (Ecap Partners, Avolta ...) and Crunchbase to access latest fundraising data on french tech startup 
+- **[French Tech Startup Fundraising Newsletter Parser](https://apify.com/saswave/french-tech-startup-fundraising-newsletter-parser?fpr=p2hrc6)** - Aggregate multiple newsletter (Ecap Partners, Avolta ...) and Crunchbase to access latest fundraising data on french tech startup
 Leverage multiple sources; weekly and monthly newsletters
 - **[Fresha Local Beauty & Wellness Leads Extractor](https://apify.com/lead.gen.labs/fresha-local-beauty-wellness-leads-extractor?fpr=p2hrc6)** - Extract top-rated beauty and wellness business leads from Fresha.com. This actor scrapes names, services, ratings, addresses, prices, and phone numbers — perfect for lead generation, outreach, or local business insights. Ideal for salons, spas, and beauty professionals.
 - **[From $7/1000 — Gmaps Email & Data Scraper (Google Maps)](https://apify.com/familiar_universality/from-7-1000----gmaps-email-data-scraper-google-maps?fpr=p2hrc6)** - Scrape business data and emails from Google Maps automatically. Supports multiple queries, exports results to Apify dataset or JSON. Perfect for lead generation and business analysis.
@@ -4060,7 +4060,7 @@ Admin Count: Counts the number of admins
 - **[Ghidra MCP Actor](https://apify.com/syntellect_ai/ghidra-mcp-actor?fpr=p2hrc6)** - Apify Actor that integrates the NSA’s Ghidra reverse engineering tool with the Model Context Protocol (MCP) to enable AI-assisted binary analysis. This actor will automatically decompile a provided binary in headless mode and expose a set of tools (functions) that an AI agent can invoke (via MCP)
 - **[Ghost Newsletter Scraper](https://apify.com/barrierefix/ghost-newsletter-scraper?fpr=p2hrc6)** - Extract structured data from any Ghost-powered newsletter - track posts, monitor pricing, analyze publishing patterns, and research the creator economy.
 - **[GIS scraper](https://apify.com/rrroman.usa/gis-scraper?fpr=p2hrc6)** - A scraper for extracting company data from the GIS catalog
-- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**  
+- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**
 
 Let our powerful agent handle it for you! Just enter the details, and it will automatically sync all your repos with their corresponding parent repos—keeping them up-to-date with the latest code, effortlessly. 🚀
 - **[Github emails from commits](https://apify.com/saswave/github-emails-from-commits?fpr=p2hrc6)** - From a Github repository url, extract all emails from commits and their occurence number. Allow you to generate a list of emails from targeted github repositories
@@ -4256,7 +4256,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Google Play Reviews Scraper](https://apify.com/barrierefix/google-play-reviews-scraper?fpr=p2hrc6)** - Scrape Google Play reviews at scale with features competitors don't offer. Perfect for sentiment analysis, competitor research, and automation workflows.
 - **[Google Play Reviews Scraper - Android App Ratings & Sentiment](https://apify.com/benthepythondev/google-play-reviews-scraper?fpr=p2hrc6)** - Scrape customer reviews from any Android app on Google Play Store. Extract ratings (1-5 stars), review text, author names, thumbs up counts, developer replies, and app  versions. Filter by rating, sort by newest or relevance. Perfect for ASO, sentiment analysis, and competitor research
 - **[Google Play Reviews: The Fastest, Cheapest and Most Reliable](https://apify.com/agents/googleplay-reviews?fpr=p2hrc6)** - Fast and efficient Google Play Store review scraper that extracts user feedback with precision. Set app IDs, customize parameters like country and language, and receive detailed review data including ratings, comments, and user info. Priced at $0.1 per 1000 reviews.
-- **[Google Play Scraper](https://apify.com/curious_coder/google-play-scraper?fpr=p2hrc6)** - Scrape google play store to get apps, details, developers, categories and reviews. 
+- **[Google Play Scraper](https://apify.com/curious_coder/google-play-scraper?fpr=p2hrc6)** - Scrape google play store to get apps, details, developers, categories and reviews.
 If you are looking for a reliable google play reviews scraper you should give this tool a try
 - **[Google Play Scraper](https://apify.com/ivanvs/google-play-scraper?fpr=p2hrc6)** - Get application details & reviews from Google Play! Access title, price, ratings, number of downloads, screenshots, version number & developer details for any region or language. Unlimited & fast scraping. Export data in XML, CSV, JSON, Excel, or HTML formats.
 - **[Google Play Scraper](https://apify.com/scraper-engine/google-play-scraper?fpr=p2hrc6)** - Extract complete Google Play app data, including descriptions, ratings, reviews, installs, screenshots, versions, and developer info. Ideal for market research, competitor analysis, ASO, and dataset creation. Fast, reliable, and perfect for automated app intelligence.
@@ -4479,7 +4479,7 @@ Get data like social account, company website, job salary, tech stack, benefits 
 - **[Humanize AI Text - #1 AI Humanizer](https://apify.com/neatrat/humanize-ai-text?fpr=p2hrc6)** - Produce 100% human-like content from ChatGPT, Gemini, Bing, or any other AI text without altering and changing its meaning, tone and context.
 - **[Hybrid Vision Spider | AI-Powered Universal Web Scraper](https://apify.com/tuguidragos/hybrid-vision-spider-ai-powered-universal-web-scraper?fpr=p2hrc6)** - AI-driven hybrid web scraper that merges Playwright and Vision intelligence to extract structured data from any dynamic site. Schema-aware, proxy-ready, budget-safe, and fully compatible with Apify datasets.
 - **[IAAI Vehicles Scraper 🔍🚗 - Cheap](https://apify.com/scrapestorm/iaai-vehicles-scraper---cheap?fpr=p2hrc6)** - Easily collect vehicle listings from IAAI, one of the largest online auto auction platforms in the U.S
-Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more 
+Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more
 Perfect for market analysis or building your own automotive database 📊
 - **[iCIMS Jobs API](https://apify.com/fantastic-jobs/icims-jobs-api?fpr=p2hrc6)** - The perfect iCIMS Job Scraper API! Direct postings from thousands of company career sites. Enriched with AI and LinkedIn company data, with up to 60 fields per job!
 - **[Icodrops Scrapper Pro | ICO Projects & Crypto](https://apify.com/pintxuki/icodrops-scrapper-pro-ico-projects-crypto?fpr=p2hrc6)** - ICODrops Scraper Pro s a powerful web scraping solution that extracts comprehensive data from ICODrops.com. It provides structured data about upcoming, active, and ended ICO projects, perfect for market research, investment analysis, and tracking cryptocurrency trends.
@@ -4511,8 +4511,8 @@ You give it a product URL and max number of reviews, and it returns clean JSON w
 - **[Image Resizer API](https://apify.com/igview-owner/image-resizer-api?fpr=p2hrc6)** - Professional image resizer API for automated batch image processing. Resize images to any dimensions with smart cropping, format conversion (JPEG, PNG, WebP, TIFF), and quality optimization. Perfect for web optimization, e-commerce thumbnails, social media content, and responsive design.
 - **[Image Scraper](https://apify.com/rapidtech1898/image-scraper?fpr=p2hrc6)** - Scrape Image-Links from any website
 - **[Image Text Extractor](https://apify.com/m3web/image-text-extractor?fpr=p2hrc6)** - Extract text from images using OCR (Optical Character Recognition) via direct URLs or uploaded JSON/CSV files. Works with multiple languages and automatically enriches your structured file with the text found inside images.
-- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor. 
-Utilize cutting-edge AI to transform image content into structured JSON data effortlessly. 
+- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor.
+Utilize cutting-edge AI to transform image content into structured JSON data effortlessly.
 Perfect for automating data extraction from visual content and streamlining workflows.
 - **[ImageFX API](https://apify.com/ib4ngz/imagefx-api?fpr=p2hrc6)** - This actor uses the ImageFX API to generate images from a list of text prompts. It supports multiple authentication tokens, configurable image count, choice of file extension (JPEG or PNG), a seed value for reproducibility, and optional ZIP archive creation for the generated images.
 - **[ImagerAI](https://apify.com/kartoffeltoby/auto-image-generator?fpr=p2hrc6)** - ImagerAI create stunning header images for your blog posts and captivating visuals for your social media. Just enter a brief summary of your content, and ImagerAI handles the rest, delivering a perfectly tailored image.
@@ -4841,7 +4841,7 @@ Supports proxies for anonymity. Fast, reliable & perfect for research, marketing
 - **[Instagram Video Scraper Advanced](https://apify.com/neuro-scraper/instagram-video-scraper-advanced?fpr=p2hrc6)** - "📈 Unlock Instagram video insights! Grab likes ❤️, views 👀, comments 💬, hashtags #️⃣ & AI-driven trends 🧠. Fast access to video URLs for smarter decisions 💡💰. Turn social data into growth 🚀."
 - **[Instagram 爬蟲 - 提取貼文���要與媒體下載連結](https://apify.com/futurizerush/instagram-basic-scraper-zh-tw?fpr=p2hrc6)** - 基礎 Instagram 內容爬蟲，從多個公開使用者名稱中提取圖片、影片和輪播封面圖片，附帶下載連結和元資料。支援最多10個使用者，每個使用者12個貼文摘要。取得包含按讚數、留言數、時間戳記的貼文資料。注意：輪播貼文僅提取封面圖片。
 - **[instagram-posts](https://apify.com/rigelbytes/instagram-posts?fpr=p2hrc6)** - Extract all posts from public Instagram profiles. Get captions, likes, comments, images, and carousel details — perfect for social media analysis and research.
-- **[Instant web data scraper - Scrape any website](https://apify.com/curious_coder/instant-web-scraper?fpr=p2hrc6)** - Scrape any public and private website data by providing just URL and optionally cookies and proxy information. 
+- **[Instant web data scraper - Scrape any website](https://apify.com/curious_coder/instant-web-scraper?fpr=p2hrc6)** - Scrape any public and private website data by providing just URL and optionally cookies and proxy information.
 This scraper is similar to instant data scraper but runs on cloud and can be used as API too!
 - **[Instant Website Screenshot API](https://apify.com/hichamrz/screenshot-generator?fpr=p2hrc6)** - Generate high-quality, full-page screenshots of any website URL. Returns a hosted image link. Perfect for monitoring, archiving, and visual testing.
 - **[InstantUnzip](https://apify.com/herodcraperdz/instantunzip?fpr=p2hrc6)** - InstantUnzip downloads any ZIP file from a given URL and extracts its contents automatically. No manual steps or temporary files—just provide the link and get all extracted files saved directly to the Apify Key-Value Store.
@@ -4937,7 +4937,7 @@ JustDial number extractor fast and reliable
 - **[Justjoin Jobs Details Scraper](https://apify.com/stealth_mode/justjoin-jobs-details-scraper?fpr=p2hrc6)** - Efficiently scrape detailed job listings from JustJoin.it, Poland's leading IT job board. Extract comprehensive data including salaries, tech stacks, company details, and remote work options. Perfect for market research, salary analysis, and recruitment intelligence in the Polish tech industry.
 - **[Justjoin Jobs Search Scraper](https://apify.com/stealth_mode/justjoin-jobs-search-scraper?fpr=p2hrc6)** - Streamline your recruitment pipeline with automated job search scraping from JustJoin.it. Extract bulk job listings with filters, categories, and real-time market data. Ideal for tracking hiring trends, competitive analysis, and building comprehensive tech talent databases across Central Europe.
 - **[Kafka Integration](https://apify.com/brasil-scrapers/kafka-integration?fpr=p2hrc6)** - This integration facilitates the processing of data from an Apify dataset and its delivery to a Kafka topic. It is configured via a schema that includes details about the dataset, Kafka configuration, and batch processing size.
-- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -4945,7 +4945,7 @@ JustDial number extractor fast and reliable
 - 🎯 Multiple Scan Modes
 - 📈 Comprehensive Reporting
 - 🔒 Built-in Safeguards**
-- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor ppe](https://apify.com/syntellect_ai/kali-security-tools-actorv2?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -5155,7 +5155,7 @@ Free tier limit: 10 companies per run 50 in total.
 - **[Linkedin Event Scraper](https://apify.com/bhansalisoft/linkedin-event-scraper?fpr=p2hrc6)** - Linkedin Event Scraper : Scrape LinkedIn Events Easily with Our LinkedIn Event Scraper!
 Automatically extract LinkedIn events based on any search URL. Capture event names, dates, hosts, locations, and more in just seconds. Ideal for event marketers, networkers, sales teams, and data analysts.
 - **[Linkedin Events Partecipants Scraper](https://apify.com/giovannibiancia/linkedin-events-partecipants-scraper?fpr=p2hrc6)** - Automatically extracts all participants from LinkedIn events. Joins events, collects complete data (name, title, location) from all pages, then leaves. Perfect for lead generation, networking and market research. Supports multi-page and multi-language.
-- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city 
+- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city
 The scraper is configured for these 10 major US cities and many more:
 - New York
 - Los Angeles
@@ -5308,8 +5308,8 @@ This advanced scraper integrates with tools like Apollo, Hunter, Lusha etc. to e
 - **[Linkedin Sales Navigator Scraper ( No cookies required )](https://apify.com/muhammad_usama/apify-sales-navigator-no-cookies?fpr=p2hrc6)** - Scrapes Linkedin sales navigator data ( People and Companies ).
 - **[LinkedIn Sales Navigator Search Scraper](https://apify.com/noddsolutions/linkedin-sales-navigator-search-scraper?fpr=p2hrc6)** - Crawls sales navigator search results and extracts the available data for you to use for enriching your CRM amongst other things.
 Scrape Company or People data using this one tool.
-- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently. 
-Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers. 
+- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently.
+Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers.
 Customizable, automated, and easy to integrate.
 - **[Linkedin Scraper](https://apify.com/api_massta/linkedin-scraper?fpr=p2hrc6)** - Find the right jobs faster. Tired of LinkedIn’s slow UI and irrelevant listings? Our LinkedIn Job Scraper filters jobs using PUBLIC and PRIVATE scraping, unlocking premium insights and refining results by keywords, post date, and location—so you focus on the best opportunities, not the noise.
 - **[LinkedIn Scraper at Scale Without Cookie](https://apify.com/freshdata/fresh-linkedin-profile-data?fpr=p2hrc6)** - Get real-time LinkedIn profile data, including experience, education, current company and more.
@@ -5441,7 +5441,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Mercadolibre Email Scraper](https://apify.com/scraper-mind/mercadolibre-email-scraper?fpr=p2hrc6)** - The Mercadolibre Email Scraper lets you efficiently extract Mercadolibre email addresses from regional listings. Ideal for lead generation, market research, and targeted marketing campaigns, it supports keyword and location filtering, custom domains, and proxies for smooth data collection.
 - **[Mercadolibre Email Scraper – Advanced, Cheapest & Reliable 📧](https://apify.com/contactminerlabs/mercadolibre-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Mercadolibre Emails
 
-[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info 
+[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
 - **[MercadoLibre Product Detail Scraper 🛍️ - Cheap](https://apify.com/scrapestorm/mercadolibre-product-detail-scraper---cheap?fpr=p2hrc6)** - Discover top MercadoLibre products with ⚡fast data extraction! Sort by 🔥 popularity, 🕒 newest listings, or 💰 price. Get key info like product specs, images, seller details & reviews. Perfect for 📊 market analysis, competitor tracking & finding 🛍️ trending items!
 - **[Mercadolibre Products Spider](https://apify.com/getdataforme/mercadolivrebr-products-scraper?fpr=p2hrc6)** - The Mercadolivrebr Products Spider scrapes product details from Mercado Livre Brazil, extracting name, description, price, SKU, images, and ratings. Input URLs and get structured JSON for price monitoring, market research, or e-commerce integration. Scalable, reliable, and easy to use.
@@ -5488,8 +5488,8 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Mobile.de Scraper](https://apify.com/ivanvs/mobile-de-scraper?fpr=p2hrc6)** - Extract data from mobile.de for data on thousands of car listings. Scrape car listings, extract descriptions, images, prices, mileage, contact number, addresses, names, engine information, the transmission of the car, and all other listing details.
 - **[Modern Manga Colorizer](https://apify.com/parseforge/modern-manga-colorizer?fpr=p2hrc6)** - AI-powered colorization tool for black and white manga panels. Upload manga panel images and get them automatically colorized with vibrant, appropriate colors that match manga art style. Maintains original line art and shading while applying professional colorization.
 - **[Mohito Scraper](https://apify.com/trev0n/mohito-scraper?fpr=p2hrc6)** - Fast and reliable scraper for extracting product data from Mohito.com (LPP Group fashion retailer). Uses Algolia API for lightning-fast data extraction - scrape 100+ products in under 1  second.
-- **[Mon compte formation scraper](https://apify.com/saswave/mon-compte-formation-scraper?fpr=p2hrc6)** - moncompteformation.gouv.fr scraper. 
-Récupérer et extraire les informations des entreprises de formation dans une recherche sur le site Mon Compte Formation Gouv FR. 
+- **[Mon compte formation scraper](https://apify.com/saswave/mon-compte-formation-scraper?fpr=p2hrc6)** - moncompteformation.gouv.fr scraper.
+Récupérer et extraire les informations des entreprises de formation dans une recherche sur le site Mon Compte Formation Gouv FR.
 Information trouvé: prix, nom entreprise, raison social, siret siren, emails, telephones, site internet et plus encore
 - **[Monday.com Exporter (Pay per event)](https://apify.com/odaudlegur/monday-com-exporter-ppe?fpr=p2hrc6)** - Exports items from an Apify dataset to Monday.com as items or subitems. Designed to be triggered automatically when a source actor run succeeds, but can also run manually.
 - **[Monday.com Exporter (Subscription)](https://apify.com/odaudlegur/monday-com-exporter-subscription?fpr=p2hrc6)** - Unlimited exports  of items from an Apify dataset to Monday.com as items or subitems. Designed to be triggered automatically when a source actor run succeeds, but can also run manually. If you want to try it out, please see the pay per event version.
@@ -5562,7 +5562,7 @@ Price 0.25 / 1000 Results.
 - **[Naukri Job Scraper](https://apify.com/louisdeconinck/naukri-job-scraper?fpr=p2hrc6)** - Unlock the power of Naukri.com with our advanced web scraper! Effortlessly extract comprehensive job listings, including titles, descriptions, and company details. Enjoy real-time data, structured JSON output, and flexible search options. Scale your job search with ease and speed. Try it now!
 - **[Naukri Job Scraper](https://apify.com/techupservices/naukri-job-scraper?fpr=p2hrc6)** - A fast, reliable Naukri job scraper powered by Playwright + Crawlee + Apify. Extracts job listings & full job-details, supports keyword + location + experience filters, sorting, and optional application-type detection (Apply on Naukri vs Apply on Company Site).
 - **[Naukri Job Scraper (Latest)](https://apify.com/codemaverick/naukri-job-scraper-latest?fpr=p2hrc6)** - A powerful job scraping tool that automatically collects latest listings from Naukri.com. It gathers job titles, salaries, company details, and skill requirements, delivering clean, organized data. Perfect for recruiters, HR teams, and job seekers who need up-to-date market insights.
-- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets, 
+- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets,
 experience ranges, locations, skills, and apply links—ready for analytics pipelines.
 - **[Naukri Jobs Scraper](https://apify.com/easyapi/naukri-jobs-scraper?fpr=p2hrc6)** - Extract detailed job listings from Naukri.com with this powerful scraper. Collect comprehensive job information including titles, salaries, company details, and full descriptions. Perfect for recruitment analysis, market research, and job market monitoring.
 - **[Naukri Jobs Scraper](https://apify.com/infinity_and_beyond/naukri-jobs-scraper?fpr=p2hrc6)** - Scrape structured job listings from Naukri.com with keyword and location filters. Collect job title, company, description, location, and job URL in clean format. Built-in retries, rate-limit handling, and polite delays ensure reliable scraping for recruitment and analytics workflows.
@@ -5715,7 +5715,7 @@ The PageSource Scraper API is designed for fast and reliable web scraping, SEO a
 - **[Palmerbet sports scraper](https://apify.com/websift/palmerbet-sports-scraper?fpr=p2hrc6)** - Scrapes upcoming sports events and odds from Palmerbet.com with filtering by sport categories.
 - **[PanoramaFirm Company Scraper](https://apify.com/powerai/panoramafirm-company-scraper?fpr=p2hrc6)** - Scrape company information from PanoramaFirm.pl by providing a search URL, with automatic pagination and comprehensive company data extraction.
 - **[PAP Search & Direct URL Scraper](https://apify.com/saswave/pap-search-direct-url-scraper?fpr=p2hrc6)** - PAP web scraper.Automatise l'extraction de donnée immobilière (vente, location)  du site pap.fr . Collecte des informations comme le téléphone, DPE, ville, prix, transports et d'autres information utile. Amélioré votre monitoring, reporting et analyse des opportunité immobilière entre particulier
-- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡ 
+- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡
 Extraire les biens depuis seloger.com rapidement avec les infos détaillées à faible coût, avec exportation en JSON, CSV, EXCEL..
 - **[Pararius Rental Scraper](https://apify.com/hris100/pararius-scraper?fpr=p2hrc6)** - A powerful scraper for Pararius, the largest rental platform in the Netherlands. Extracts comprehensive data from rental listings, including prices, locations, property details, photos. Ideal for market analysis and tracking rental trends.
 - **[Pararius.nl Scraper](https://apify.com/lexis-solutions/pararius?fpr=p2hrc6)** - Scrape property listings from Pararius—including rentals, sales, prices, features, and agent details. Ideal for real estate analysis, market research, and portal development. Fast, structured, and customizable extraction from the Netherlands’ leading property site.
@@ -5727,7 +5727,7 @@ Extraire les biens depuis seloger.com rapidement avec les infos détaillées à 
 - **[Patreon Email Scraper](https://apify.com/scraper-mind/patreon-email-scraper?fpr=p2hrc6)** - Patreon Email Scraper – Quickly extract verified Patreon emails by keywords, location & domain! 🔍 Supports Patreon listings & proxy usage. 📊 Download results in JSON, CSV, Excel. Ideal for lead generation, creator outreach & market research.
 - **[Patreon Premium Creator & Posts Scraper](https://apify.com/radeance/patreon-scraper?fpr=p2hrc6)** - Instantly access creator data including earnings estimates, membership tiers, posts, subscriber counts, Graphtreon content metrics, and social media links from Patreon.com. Specify creators by profile URL or scrape at scale. Download your data as JSON, CSV, Excel for market research or AI automation
 - **[Pattern Scraper Light](https://apify.com/xmiso_scrapers/pattern-scraper-light?fpr=p2hrc6)** - Bulk scrape patterns on websites
-- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[Pchometw Pharser Spider](https://apify.com/getdataforme/pchometw-pharser-spider?fpr=p2hrc6)** - The Pchometw Pharser Spider is an Apify Actor that scrapes product reviews from PChome 24h. Extract ratings, review text, product IDs, and metadata from URLs. Perfect for sentiment analysis, market research, and quality monitoring. Fast, scalable, and delivers structured JSON output.
 - **[PDF AI Extractor MCP](https://apify.com/devaditya/pdf-ai-extractor-mcp?fpr=p2hrc6)** - Extracts text, tables, summaries, and structured data from any PDF using OpenAI, Google Gemini, or Claude. Supports bulk AI processing, clean JSON exports, and an AI-ready MCP mode for agent workflows.
@@ -5849,7 +5849,7 @@ Collect object informations and store contact infos.
 - **[Product Hunt Scraper](https://apify.com/piotrv1001/product-hunt-scraper?fpr=p2hrc6)** - The Product Hunt Scraper extracts data on the latest top products, capturing names, taglines, images, URLs, topics, vote counts, comment counts, and rankings—ideal for trend tracking, competitor analysis, and market research.
 - **[Product Hunt Scraper (/w EMAILS)](https://apify.com/maximedupre/product-hunt-scraper?fpr=p2hrc6)** - Scrapes Product Hunt's launches for a specific date. Extracts the product names, descriptions, makers info (name + links), and emails.
 - **[Product Hunt Scraper | With Emails | $4 / 1K](https://apify.com/fatihtahta/product-hunt-scraper-fast-reliable-4-1k?fpr=p2hrc6)** - Scrape any Product Hunt leaderboard with verified founder emails and social medias. This high-speed scraper delivers rich product launch and maker data. Get a clean, structured dataset of the latest tech products for sales prospecting, deal sourcing, and competitor analysis.
-- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards. 
+- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards.
 Perfect for founders, investors, and researchers to gather product performance insights for market analysis, competitive intelligence, and identifying trending products.
 - **[Product Marketing AI Actor](https://apify.com/mikasagi/product-marketing-ai-actor?fpr=p2hrc6)** - Instantly turn GitHub commits into adoption-driving community content
 - **[Product Matching Vectorizer](https://apify.com/tri_angle/product-matching-vectorizer?fpr=p2hrc6)** - Builds a FAISS vector database from products in an Apify dataset using an ONNX embedding model. The resulting index is saved to a Key-Value Store for fast similarity search. After uploading your dataset to the vector database, use our E-commerce Product Matching Tool to find matching products.
@@ -5968,7 +5968,7 @@ Say goodbye to outdated responses, misinformation, and hallucinations. Now you c
 - **[Realtor.com Scraper by Location](https://apify.com/scraped/realtor-com-scraper-by-location?fpr=p2hrc6)** - Scrape listings from Realtor.com based off location. Data includes typical listing details as well as seller contact information (email and phone).
 - **[Realtytrac Scraper](https://apify.com/getdataforme/realtytrac-scraper?fpr=p2hrc6)** - RealtyTrac Scraper extracts real estate property data, including price, bedrooms, lot size, and agent details. Supports Apify Proxy to prevent blockages. Get structured JSON output for seamless analysis. Ideal for investors, researchers, and real estate professionals.
 - **[Recaptcha Bypass Browser Scraper PRO](https://apify.com/xtech/recaptcha-bypass-browser-scraper?fpr=p2hrc6)** - reCaptcha Bypass Browser Scraper: The ultimate solution for scraping reCaptcha-protected websites. Advanced browser automation with intelligent reCaptcha bypass, automatic challenge resolution, and robust proxy rotation to extract data from the most heavily protected sites
-- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction : 
+- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction :
 Extract structured data from receipt images using advanced OCR technology with support for multiple AI models including Google Vision, OpenAI, Azure, AWS Textract, Gemini, Hugging Face, DeepSeek, and Native OCR.
 - **[Receipt Scanner](https://apify.com/confidential_sand/receipt-scanner?fpr=p2hrc6)** - Extract store name, date, total, items and more from receipt images or PDFs using AI-powered OCR. Ideal for expense tracking, finance automation, and data extraction workflows. Handles messy real-world formats with high accuracy.
 - **[Receive webhooks](https://apify.com/riceman/receive-webhooks?fpr=p2hrc6)** - Receives webhook data and saves it to Apify dataset storage. Ideal for Clay users on the Starter plan who still want or need to build tables that can receive webhooks.
@@ -6164,7 +6164,7 @@ Education Spending: USAspending grant awards data
 and more!
 - **[ScienceDirect Search Scraper](https://apify.com/powerai/sciencedirect-search-scraper?fpr=p2hrc6)** - Scrape academic research articles from ScienceDirect.com with automatic pagination and comprehensive article data extraction.
 - **[Scoot UK Leads Extractor](https://apify.com/lead.gen.labs/scoot-uk-leads-extractor?fpr=p2hrc6)** - Scoot UK Leads Extractor is a powerful Apify actor designed to extract business leads from Scoot.co.uk. It scrapes company details, contact information, and other essential data to help you generate high-quality UK-based B2B leads efficiently
-- **[SCOUTR Nordics (Google Maps Scraper)](https://apify.com/odaudlegur/scoutr-nordics-google-maps-scraper?fpr=p2hrc6)** - Specialized Google Maps scraper for Nordic countries. Geocodes a start address, finds businesses within a radius, and extracts name, address, website, phone. Visits each website to fetch real contact information. 
+- **[SCOUTR Nordics (Google Maps Scraper)](https://apify.com/odaudlegur/scoutr-nordics-google-maps-scraper?fpr=p2hrc6)** - Specialized Google Maps scraper for Nordic countries. Geocodes a start address, finds businesses within a radius, and extracts name, address, website, phone. Visits each website to fetch real contact information.
 Other countries will be added in different actors when the code is fully optimized.
 - **[Scrap Any Website with Source Code](https://apify.com/mikolabs/httrack?fpr=p2hrc6)** - Download complete websites and get them as ZIP archives. Perfect for creating offline backups, archiving websites, or downloading entire sites with all assets. Includes source code. For Research purposes
 - **[Scrap Any Website with Source Code](https://apify.com/mikolabs/web-extractor?fpr=p2hrc6)** - Download complete websites and get them as ZIP archives. Perfect for creating offline backups, archiving websites, or downloading entire sites with all assets. Includes source code. For Research purposes
@@ -6247,8 +6247,8 @@ Fast, reliable data extraction in 40 seconds.
 - **[Sephora.de Scraper (Fast & Light)](https://apify.com/tufantoksoz/sephora-product-scraper?fpr=p2hrc6)** - This scraper extracts sephora.de (not .com) product data prices, availability, images, ratings and more. Fast, reliable, and ideal for price monitoring, market research, and e-commerce analytics.
 - **[SequentialThinking MCP Server](https://apify.com/agentify/sequentialthinking-mcp-server?fpr=p2hrc6)** - An MCP server for structured sequential thinking process - breaking down complex problems, iteratively refining solutions, and exploring multiple reasoning paths
 - **[Serper | Google Places Scraper](https://apify.com/riceman/serper-google-places-scraper?fpr=p2hrc6)** - Serper (serper.dev) makes it incredibly cheap to scrape Google Maps. But while they provide the code, you need to implement it yourself. With this actor, you just need to specify your search parameters & API key, and it'll do the extraction for you. Perfect for integration with tools like Clay.
-- **[Session/Login Extractor](https://apify.com/pragmaticcoders/session-login-extractor?fpr=p2hrc6)** - Automates login flows and extracts session data. 
-Supports MFA with TOTP code. 
+- **[Session/Login Extractor](https://apify.com/pragmaticcoders/session-login-extractor?fpr=p2hrc6)** - Automates login flows and extracts session data.
+Supports MFA with TOTP code.
 You can use this actor if you need to access website with authentication.
 - **[Seznam Scraper](https://apify.com/conduit/seznam-scraper?fpr=p2hrc6)** - Extract search results from Seznam.cz, the leading Czech search engine. Get titles, URLs, and content snippets from any search query with automatic pagination support.
 - **[Sharechat Scraper](https://apify.com/ribtools/sharechat-scraper?fpr=p2hrc6)** - Extract posts, profiles, tags, and comments from ShareChat with engagement metrics, media URLs, and detailed metadata.
@@ -6351,8 +6351,8 @@ Seamlessly integrate with your tools to power mastermind aggregators📈
 - **[Slack Summary Reporter](https://apify.com/marko.kubrachenko/slack-summary-reporter?fpr=p2hrc6)** - A simple Python Actor that fetches recent Slack messages, summarizes them via OpenAI, and posts the summary back to Slack.
 - **[Sletat Hotel Price Scraper](https://apify.com/tufantoksoz/sletat-hotel-price-scraper?fpr=p2hrc6)** - Scrape real-time hotel offers, prices, and comprehensive hotel data from Sletat.ru. This Actor fetches hotel offers from both B2B and B2C endpoints with rich hotel metadata including ratings, reviews, contact info, and descriptions.
 - **[Sletat Review Scraper](https://apify.com/tufantoksoz/sletat-review-scraper?fpr=p2hrc6)** - This scraper collects hotel reviews, ratings, and user feedback from Sletat.ru. Fast, reliable, and ideal for analysis, market research, competitor monitoring, and travel data insights
-- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs. 
-It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats. 
+- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs.
+It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats.
 Pay as you go — per second, per language
 - **[Smart Idealista Scraper](https://apify.com/sian.agency/smart-idealista-scraper?fpr=p2hrc6)** - 🏠 Market's best price: $0.003/property + 33% bonus! Extract 1000+ listings in minutes instead of hours. Stop wasting hours copying Idealista properties manually! 64+filters, clean JSON/CSV. Zero technical skills needed. Real estate pros choose us! 🎯
 - **[Smart Product Scout](https://apify.com/sasi_gandikota/smart-product-scout?fpr=p2hrc6)** - Tell this Actor all your requirements, and we’ll find the perfect product for you from thousands of options across the market quickly and effortlessly
@@ -6443,7 +6443,7 @@ Speech to text converter helps you analyse, build KPI with audio records and byp
 - **[Standby Keep-Alive Actor](https://apify.com/tobice/standby-keep-alive-actor?fpr=p2hrc6)** - Achieve almost 100% availability of your Standby Actor by periodically starting a new run of the Actor.
 - **[Stanford Scraper](https://apify.com/futurizerush/stanford-scraper?fpr=p2hrc6)** - Extract contact information from Stanford public directory including emails, phone numbers, departments, roles and affiliations (~50k)
 - **[Stanford University Scraper](https://apify.com/fatihtahta/stanford-university-scraper?fpr=p2hrc6)** - Scrapes Stanford Profiles directory listings with pagination to gather profile URLs, then extracts detailed data; name, email, departments, affiliations, education, honors, bio, and more. Ideal for academic research, lead generation, or structured datasets.
-- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour. 
+- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour.
 Premier demande et renouvellement de titre de séjour
 
 https://sso.anef.dgef.interieur.gouv.fr
@@ -6493,7 +6493,7 @@ Perfect for building game databases, tracking market trends, or powering gaming 
 - **[Store Screenshot Url](https://apify.com/dainty_screw/store-screenshot-url?fpr=p2hrc6)** - Effortlessly capture and extract URL screenshots with the Store Screenshot URL Extractor. This powerful Apify actor is designed to streamline your data collection process, providing high-quality snapshots of web pages with ease. Ideal for market research, content verification, and SEO analysis, this
 - **[Storeleads Scraper](https://apify.com/saswave/storeleads-scraper?fpr=p2hrc6)** - Storeleads scraper. Extract companies results from a search url. Get data about social network, name, monthly sales, visits, location, product sold, employees, technologies, trustpilot reviews, follower number, keywords, description and more
 - **[Streem Article Scraper](https://apify.com/devninja/streem-article-scraper?fpr=p2hrc6)** - Extract full-text articles and metadata from Streem article links with ease. This actor is built for reliability and scalability—simply provide a list of Streem URLs, and it will crawl each page, clean the content, and return structured results.
-- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates. 
+- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates.
 Address search, monitoring mode, and bypass limits. Complete real estate intelligence platform.
 - **[StreetEasy Real Estate Scraper 📊🏡 - Cheap](https://apify.com/scrapestorm/streeteasy-real-estate-scraper---cheap?fpr=p2hrc6)** - 🏙️ **Easily collect real estate listings from StreetEasy, New York City’s leading property platform 🇺🇸**
 Just enter a search URL to extract key details like price, address, neighborhood & images 🔍
@@ -6705,12 +6705,12 @@ username, ID, and profile picture.
 - **[TikTok Search Profile Scraper](https://apify.com/igview-owner/tiktok-search-user-scraper?fpr=p2hrc6)** - Search and discover TikTok users by any keyword – name, niche or topic – and export clean creator data in seconds.
 - **[Tiktok Search Scraper](https://apify.com/mina_safwat/tiktok-search-scraper?fpr=p2hrc6)** - This TikTok scraper is fast, reliable, and affordable, making it perfect for extracting search results efficiently and accurately. Ideal for tracking trends, analyzing content, or gathering data with ease.
 - **[TikTok Shop Label](https://apify.com/excavator/tiktok-shop-label?fpr=p2hrc6)** - TikTok Shop order label link is only available for 2 hours. This Actor will help you store that label on our server forever and give you a download link that has never expired
-- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 OR https://www.tiktok.com/t/XXXXXXXXX/ which only available for TikTok Shop US. I increased price because TikTok always update their algorithm, 10$/1000 request
 - **[Tiktok Shop Scraper](https://apify.com/pratikdani/tiktok-shop-scraper?fpr=p2hrc6)** - This actor automates TikTok Shop data extraction, gathering product details, pricing, sales, and competitor insights. Scrape crucial e-commerce data directly from TikTok to analyze trends, track performance, and optimize your shop strategy.
 - **[Tiktok Shop Scraper](https://apify.com/barrierefix/tiktok-shop-scraper?fpr=p2hrc6)** - Extract product data from TikTok Shop including prices, sales metrics, ratings, and reviews. Perfect for competitor analysis, market research, and price monitoring.
-- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 These URLs are only available for TikTok Shop US.
 I have pay per request version, you can test it here: https://apify.com/excavator/tiktok-shop-product
@@ -6792,9 +6792,9 @@ Collect a wide range of financial data, trending stock and more
 - **[Traffic Booster! 🚀](https://apify.com/bluebird/traffic-generator?fpr=p2hrc6)** - The solution if you need quick web traffic! quickly get some more visits to test your new google analytics layout, or add some extra views to a webpage to look more professional! Traffic booster does it all!
 - **[Traffic Generator (Youtube, Web, Etsy, Behance and many more!)](https://apify.com/epctex/traffic-generator?fpr=p2hrc6)** - Maximize your website's performance and visibility with our Traffic Generator. Drive targeted traffic, simulate page views, and stress-test against potential threats. With the power to generate millions of visits, it's the ultimate solution for boosting your online presence.
 - **[Traffic Generator pro](https://apify.com/scrapingxpert/traffic-generator-pro?fpr=p2hrc6)** - The Traffic Generator simulates realistic web traffic using Playwright. It generates views, simulates user behavior, and tests website performance, ideal for scalability testing, user behavior analysis, and traffic generation.
-- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription! 
-🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text. 
-🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions! 
+- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription!
+🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text.
+🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions!
 
 💸 Get accurate text versions fast & affordably! ✨
 - **[Transfermarkt Scraper](https://apify.com/data_xplorer/transfermarkt-api-scraper?fpr=p2hrc6)** - 🏃‍♂️ Extract comprehensive football player & club data via our Transfermarkt API scraper. Access market values, transfer history, contract details, and career stats for any player. Perfect for sports analysts, fantasy football managers, and scouting professionals.
@@ -6869,7 +6869,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Tumblr Explorer 3.0](https://apify.com/jupri/tumblr-explorer?fpr=p2hrc6)** - 💫 All-in-One Tumblr.com Scraper
 - **[Tumblr Scraper](https://apify.com/hello.datawizards/tumblr-scraper?fpr=p2hrc6)** - A Tumblr scraper efficiently extracts posts, images, videos, and data from Tumblr for research, content aggregation, and analysis.
 - **[Turbo Search Engines Google Maps Scraper](https://apify.com/awsomedude46/turbo-search-engines-google-maps-scraper?fpr=p2hrc6)** - Overview
-This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online 
+This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online
 Data Extracted
 Company names
 Email addresses
@@ -7037,7 +7037,7 @@ Ideal for scraping product pages, listings, news articles, tech profiles, or uni
 - **[Upwork Job Scraper](https://apify.com/deltaspider/upwork-job-scraper?fpr=p2hrc6)** - Automatically and efficiently scrape Upwork.com job listings.
 - **[Upwork Job Scraper](https://apify.com/matthewjames/upwork-job-scraper?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
 - **[Upwork Job Scraper (Pay Per Result)](https://apify.com/matthewjames/upwork-job-scraper-pay-per-result?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
-- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required. 
+- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required.
 upwork@vistorio.online
 - **[Upwork Job Scraper Realtime Data ($1.5 / 1K Jobs)](https://apify.com/upfindr/live-upwork-job-scraper?fpr=p2hrc6)** - Get structured Upwork job data in real time through an API. Extract titles, descriptions, budgets, skills, categories, and client details. Designed for recruiters, agencies, SaaS platforms, and market research teams that need reliable, up-to-date job insights.
 - **[Upwork Job Scraper-ethum](https://apify.com/hidayat-ethum/upwork-job-scraper-ethum?fpr=p2hrc6)** - The Upwork Job Scraper is a powerful automated tool that extracts targeted freelance opportunities from Upwork based on your specific search criteria. Filter jobs by keywords, hourly rates, client verification status, categories, and experience levels to find the perfect projects for your skills.
@@ -7173,7 +7173,7 @@ Seamlessly integrate with tools like Google Drive, Zapier, and more 🔗 to stre
 - **[Wayfair Scraper](https://apify.com/lexis-solutions/wayfair-v2-scraper?fpr=p2hrc6)** - Scrape product listings from Wayfair - including product names, categories, prices, availability, ratings, and images. Ideal for market research, inventory management, and price monitoring. Fast, structured, and customizable extraction from a leading home goods marketplace.
 - **[WCC Pinecone Integration](https://apify.com/tri_angle/wcc-pinecone-integration?fpr=p2hrc6)** - Crawl any website and store its content in your Pinecone vector database. Enhance the accuracy and reliability of your own AI Assistant with facts fetched from external sources or connect this integration to our Pinecone GPT Chatbot assistant available in Apify Store.
 - **[We Work Remotely Jobs Scraper](https://apify.com/orgupdate/we-work-remotely-jobs-scraper?fpr=p2hrc6)** - The latest and most advanced We Work Remotely Jobs Scraper. Our We Work Remotely Jobs Scraper extracts real-time job postings at scale from all over the world. A new research tool built for recruitment, insights and HR.
-- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.  
+- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.
 Downloadable in JSON/CSV via API with clean table views.
 - **[We Work Remotely Scraper](https://apify.com/piotrv1001/we-work-remotely-scraper?fpr=p2hrc6)** - The We Work Remotely Scraper extracts job listings from search URLs, capturing job titles, company names, logos, categories, and direct links—ideal for remote job tracking and market analysis.
 - **[weather-fetcher](https://apify.com/nocodewithjosh/weather-fetcher?fpr=p2hrc6)** - Gets weather
@@ -7287,7 +7287,7 @@ Seller email (if available), Ratings, Review count, Sold count, Followers, Shop 
 - **[Whatsapp Profiles Scraper](https://apify.com/inutil_labs/wscrp-free?fpr=p2hrc6)** - Scrape the Whatsapp network and fetch profile info of any user, including: Profile picture, About status, or check if it's a Whatsapp for Business or personal account.
 - **[WhatsApp Real-Time Message API - Webhook & Telegram](https://apify.com/clearpath/whatsapp-real-time-message-api?fpr=p2hrc6)** - Real-time WhatsApp message receiver with instant webhook and Telegram forwarding. One-time QR authentication with persistent sessions. Download media (images, audio notes, videos, docs). Filter messages by chat type. Built-in REST API for monitoring and message retrieval.
 - **[Whatsapp Scraper](https://apify.com/inutil_labs/whatsapp-scraper?fpr=p2hrc6)** - Fetch Whatsapp profiles data, including: display picture, name and status.
-- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number. 
+- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number.
 $ 0,01 per request.
 - **[Whatsapp Scraper Profile(unlimited by month)](https://apify.com/antonio_cesar/whatsapp-scraper-profile-unlimited-by-month?fpr=p2hrc6)** - WhatsApp Profile Scraper lets you extract public profile info from any WhatsApp number — unlimited per month.
 - **[Whatsapp Sms](https://apify.com/syntellect_ai/whatsapp-sms?fpr=p2hrc6)** - Integrate your AI systems with WhatsApp Business API using the WhatsApp MCP Actor. This tool connects Model Context Protocol (MCP) servers with WhatsApp, enabling AI agents and applications to manage messages programmatically. send and receive messages in whats app
@@ -7531,7 +7531,7 @@ If you'd like to see more information please contact me at AceEngineer1992@gmail
 - **[Youtube Subtitles](https://apify.com/red.cars/youtube-subtitles?fpr=p2hrc6)** - Extract subtitles from YouTube videos in multiple formats (JSON, SRT,
   VTT, TXT) with support for playlists, channels, and advanced features
   like multi-language extraction and text cleaning.
-- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI 
+- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI
   training data - no quotas or authentication required.
 - **[YouTube Subtitles Scraper](https://apify.com/igview-owner/youtube-subtitles-scraper?fpr=p2hrc6)** - Powerful YouTube subtitles scraper for developers and agencies. Programmatically fetch all caption tracks (including auto‑generated) and export them as SRT, VTT, JSON, or plain text for SEO, analytics, and content repurposing.
 - **[YouTube Summarizer](https://apify.com/piotrv1001/youtube-summarizer?fpr=p2hrc6)** - The YouTube Summarizer extracts key insights from YouTube videos, generating concise summaries, key takeaways, sentiment analysis and actionable insights — ideal for researchers, content creators, and analysts.
@@ -7617,7 +7617,7 @@ To use it, just enter your YouTube video URLs and select the number of views you
 - **[Youtube View Traffic Machine](https://apify.com/bhansalisoft/youtube-view-traffic-machine?fpr=p2hrc6)** - Youtube View Traffic Machine is advance unique pro software that is useful increase YouTube Video View  and Watch time.
 - **[YouTube Word-Level Transcript](https://apify.com/zerrouki-samir/youtube-wordlevel-transcript?fpr=p2hrc6)** - 🎯 **UNPRECEDENTED WORD-LEVEL PRECISION** 🎯
 
-Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD. 
+Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD.
 ✨ **Key Features:**
 • Word-level timestamps with millisecond accuracy
 • 99.9% reliability guaranteed
@@ -7633,7 +7633,7 @@ Automatic language detection with clean segmentation and precise timings generat
 - **[Yumacraigslist Keyword Search Parser Script](https://apify.com/hello.datawizards/yumacraigslist-keyword-search-parser-script?fpr=p2hrc6)** - The YumaCraigslist Keyword Search Parser Script lets you scrape targeted Craigslist Yuma listings by keyword, returning clean JSON with titles, prices, locations, and images. Fast, reliable, and proxy-ready—perfect for research, automation, and marketplace analytics.
 - **[Yupoo Image & Album Downloader - Download Photos as ZIP](https://apify.com/bytebeast/yupoo-album-downloader?fpr=p2hrc6)** - Download all photos from any Yupoo album in full resolution and get them as a ZIP file. Fast, proxy-enabled, and perfect for product sourcing, catalog scraping, and backup.
 - **[Yupoo Images Downloader](https://apify.com/pizani/yupoo-images-downloader?fpr=p2hrc6)** - YuDownloader - Efficiently download and zip all product images from any Yupoo album. Ideal for suppliers, importers, and e-commerce automation.
-- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown. 
+- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown.
 
 Packed with features to ensure high success rate and low cost.
 
@@ -7698,7 +7698,7 @@ Helps with monitorings and improve your analytics efforts
 - **[Zomato Email Scraper](https://apify.com/scraper-mind/zomato-email-scraper?fpr=p2hrc6)** - Zomato Email Scraper – Effortlessly extract Zomato email addresses with this fast, accurate & affordable tool! 🔍 Search by keywords, location & domain to find specific contacts. 📊 Export in JSON, CSV, Excel for lead gen, marketing & outreach!
 - **[Zomato Reviews Scraper](https://apify.com/codingfrontend/zomato-reviews-scraper?fpr=p2hrc6)** - Scrape restaurant reviews from Zomato.com
 - **[Zonaprop Property Listings Scraper](https://apify.com/ecomscrape/zonaprop-property-listings-scraper?fpr=p2hrc6)** - Advanced automated Argentina real estate data extraction tool for Zonaprop platform. Scrapes property listings, prices, locations, market analytics & contact details. JSON export enables seamless CRM integration. Covers major cities with real-time intelligence.
-- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies. 
+- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies.
 Aggregate data about Valuations, Business segements, News, Shareholders.Scale you data analysis
 - **[Zoom Scraper | 🎥Downloader & 📄 Transcript](https://apify.com/dz_omar/zoom-scraper?fpr=p2hrc6)** - Transform Zoom recordings into organized, downloadable archives. Extract videos, transcripts & metadata from meetings, events & clips. Intelligent processing with multi-format support for education, business compliance & content repurposing.
 - **[Zoominfo Companies Scraper](https://apify.com/pratikdani/zoominfo-companies-scraper?fpr=p2hrc6)** - The ZoomInfo Company Profile Scraper is designed to extract detailed information from valid ZoomInfo company profiles. This tool automates the process of gathering essential company data, making it easier for users to analyze and utilize the information for various purposes.
@@ -7948,7 +7948,7 @@ MX Validation: checks the
 - **[Anti Captcha Image](https://apify.com/petr_cermak/anti-captcha-image?fpr=p2hrc6)** - Act for solving image captchas using the anti-captcha.com service.
 - **[Anti Captcha Recaptcha](https://apify.com/petr_cermak/anti-captcha-recaptcha?fpr=p2hrc6)** - 🧰 Actor for solving Google reCAPTCHA using the anti-captcha.com service. You need to have an anti-captcha subscription.
 - **[APEC Jobs Scraper](https://apify.com/shahidirfan/apec-jobs-scraper?fpr=p2hrc6)** - Introducing the APEC Jobs Scraper, a lightweight actor for efficiently scraping executive and professional job listings from APEC.fr. Fast and simple. For best results and reliable data extraction, the use of residential proxies is strongly advised. Get the French executive job data you need!
-- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[API Doc Mcp](https://apify.com/wuyuwen0/api-doc-mcp?fpr=p2hrc6)** - MCP server that scrapes any documentation website and makes it searchable for AI assistants. Configure URLs, then search docs, find code examples, and look up API references directly from Claude.
 - **[Api Rate Limit Orchestrator](https://apify.com/fiery_dream/api-rate-limit-orchestrator?fpr=p2hrc6)** - Never hit rate limits again. Intelligent request queuing, auto-retry, and parallel execution for rate-limited APIs.
@@ -8217,7 +8217,7 @@ You can also use it to generate new website descriptions, keywords, and other si
 - **[CMS Checker](https://apify.com/canadesk/cms-checker?fpr=p2hrc6)** - Get the technology stack and competitors for most websites. It's fast and costs little.
 - **[CMS Checker (Bulk)](https://apify.com/canadesk/cms-checker-bulk?fpr=p2hrc6)** - Get the technology stack and competitors for most websites. It's fast and costs little.
 - **[CNN Business Stock Earnings Per Share](https://apify.com/pintostudio/cnn-business-stock-earnings-per-share?fpr=p2hrc6)** - The CNN Business Stock Earnings Per Share Actor is an Apify actor that retrieves comprehensive earnings per share (EPS) data for US stock tickers from CNN Business.
-- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.  
+- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.
 It provides quarterly and annual net income values, percentage changes, company summaries, and investor-friendly explanations.
 - **[CNN Business Stock Price](https://apify.com/pintostudio/cnn-business-stock-price?fpr=p2hrc6)** - The CNN Business Stock Price Actor is a web scraping tool that fetches real-time stock price data and financial analysis from CNN Business. This actor provides comprehensive stock information including current prices.
 - **[CNN Business Stock Total Revenue](https://apify.com/pintostudio/cnn-business-stock-total-revenue?fpr=p2hrc6)** - A specialized Apify Actor that fetches total revenue data for US stock companies from CNN Business.
@@ -8292,7 +8292,7 @@ Scrape Google Search Results with a single API call. Get structured JSON data fr
 - **[Crypto Losers Tracker](https://apify.com/websift/crypto-losers-tracker?fpr=p2hrc6)** - Discover and analyze the worst performering coins in the cryptocurrency market with the Crypto Losers Tracker.
 - **[Crypto Prices by Finmap.io](https://apify.com/finmap/crypto-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of cryptocurrency pairs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Crypto Quotes](https://apify.com/venshasoft/crypto-quotes?fpr=p2hrc6)** - Fetch real-time data for any cryptocurrencies by symbol. The actor retrieves prices, volume, market cap, and other key metrics, then saves results into an Apify dataset for easy download or integration into your workflows.
@@ -8324,7 +8324,7 @@ Contact us if you have any questions.
 - **[Datapilot V2](https://apify.com/satyamg_py/datapilot-2?fpr=p2hrc6)** - The AI Company & Topic Researcher is a sophisticated web scraping and analysis tool designed for competitive intelligence, market research, and technical deep dives. It automates the entire research pipeline from data collection to AI-powered strategic analysis.
 - **[Dataset Image Downloader & Uploader](https://apify.com/lukaskrivka/images-download-upload?fpr=p2hrc6)** - Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.
 - **[Dataset Processor in Python](https://apify.com/drobnikj/dataset-processor-python?fpr=p2hrc6)** - This actor utilizes Python to process the dataset.
-- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.  
+- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.
 This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results.
 - **[Dataset Schema Super Actor](https://apify.com/zuzka/dataset-schema-super-actor?fpr=p2hrc6)** - Create your Actor dataset schema with one click.
 - **[Dataset Validity Checker](https://apify.com/equidem/dataset-validity-checker?fpr=p2hrc6)** - Automatically checks, whether default datasets created by runs of an actor differ too much from the previously encountered ones, allowing it to warn you about web scraping problems caused by, e.g., a website layout changing, or other significant changes in the resulting data.
@@ -8486,7 +8486,7 @@ Perfect for price monitoring and finding the best deals on eBay.
 - **[ESPN Front Page Scraper](https://apify.com/louisdeconinck/espn-front-page-scraper?fpr=p2hrc6)** - Unlock the power of real-time sports journalism with our ESPN article Scraper! Seamlessly extract comprehensive data from ESPN's homepage, including headlines, descriptions, images, and videos. Perfect for analysts, developers, and sports enthusiasts looking to integrate dynamic content.
 - **[ETF Prices by Finmap.io](https://apify.com/finmap/etf-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of ETFs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Ethereum Account Balance API](https://apify.com/websift/ethereum-account-balance-api?fpr=p2hrc6)** - Retrieve Ethereum wallet token holdings with real-time prices, balances, and 24-hour price changes. Sort by asset, value, or quantity, filter out zero-balance tokens, and customize the number of results. Supports ERC-20 tokens for any ETH wallet. Ideal for investors, developers, and analysts.
@@ -8597,16 +8597,16 @@ Merge Pages: Creates a new PDF containing only the specific pages selected by th
 - **[Fast Scraper](https://apify.com/danielherman/fast-scraper?fpr=p2hrc6)** - Fast Scraper is a blazingly fast web scraper powered by Rust on the backend. It allows you to scrape static HTML pages extremely quickly while using only <128 MB of memory. With this scraper, you can maximize the efficiency of your credits on Apify.
 - **[Fast URL Content Crawler](https://apify.com/6sigmag/fast-url-content-crawler?fpr=p2hrc6)** - A high-performance web scraper that rapidly extracts and analyzes content from multiple URLs simultaneously. Perfect for competitive research, content aggregation, and website structure analysis.
 - **[Fast Vin Decoder](https://apify.com/trev0n/fast-vin-decoder?fpr=p2hrc6)** - Fast and efficient VIN decoder. Decodes vehicle identification numbers using freevindecoder.eu. Extracts make, model, year, body style, engine specs, transmission and more. Supports batch  processing of multiple VINs. Perfect for vehicle research, fleet management and automotive market analysis.
-- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
 - **[Fathom Quote Extractor](https://apify.com/synkco/fathom-quote-extractor?fpr=p2hrc6)** - Extract video download  URL from fathom meeting recordings for given quotes from the meeting recordings which you could use to create a video meeting highlight from different clips or use for other kinds of analysis and LLM usage.
@@ -8646,7 +8646,7 @@ Extracts athlete profiles, horse information, competition results, and performan
 - **[Forebet Predictions Scraper](https://apify.com/locos08/forebet-predictions-scraper?fpr=p2hrc6)** - The ultimate 6-in-1 Forebet scraper. Automatically loads ALL matches and extracts a complete dataset: 1X2, Halftime, Under/Over, BTTS, Corners, and Cards predictions, plus final scores. Perfect for deep statistical analysis.
 - **[Forex Rates by Finmap.io](https://apify.com/finmap/forex-rates?fpr=p2hrc6)** - Generate the current rate and historical rates of any FX currency pair.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data at the best rates straight from the robust finmap.io API.
 
 Contact us if you have any questions.
@@ -8720,7 +8720,7 @@ An asynchronous web crawler that mirrors websites into a single organized markdo
 Enter your search parameters to collect verified contact emails from public Ghost profiles, along with profile title, bio, source URL & platform info ✉️📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs⚡🧩
 - **[Gimmie Dat Shyt](https://apify.com/caring_dizi/gimmie-dat-shyt?fpr=p2hrc6)** - The Ultimate All-in-One Web Scraping Solution - Extract ANY media from ANY website with professional-grade precision and speed.
-- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**  
+- **[GitAgent](https://apify.com/matrixy/gitagent?fpr=p2hrc6)** - **Tired of manually syncing your open-source repos?**
 
 Let our powerful agent handle it for you! Just enter the details, and it will automatically sync all your repos with their corresponding parent repos—keeping them up-to-date with the latest code, effortlessly. 🚀
 - **[GitHub Email Scraper – Advanced, Cheapest & Reliable 📧⚡📷](https://apify.com/contactminerlabs/my-actor-2?fpr=p2hrc6)** - 🔍 Scrape GitHub Emails
@@ -8772,10 +8772,10 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Gofundme Search By Keyword](https://apify.com/datacach/gofundme-search-by-keyword?fpr=p2hrc6)** - Search and scrape GoFundMe fundraising campaigns by keyword, location, and category. Extract campaign data including donations, progress, beneficiary info, and URLs. Perfect for market research and competitive analysis. Pay-per-result pricing.
 - **[GOG.com Game Scraper](https://apify.com/louisdeconinck/gogcom-game-scraper?fpr=p2hrc6)** - Unlock the power of data with our GOG Scraper! Seamlessly extract detailed game information from GOG.com, including prices, descriptions, and system requirements. Perfect for analytics, marketing, and database integration. Automate your game data collection and stay ahead in the gaming industry!
 - **[Gold Price by Finmap.io](https://apify.com/finmap/gold-price?fpr=p2hrc6)** - Generates the accurate current and historical Gold Price data for any timeframe.
- 
+
 Historical intervals: Daily, weekly, and monthly.
 Currencies supported: USD, EUR, and GBP.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 - **[Goldenpages Be Scraper](https://apify.com/agenscrape/goldenpages-be-scraper?fpr=p2hrc6)** - Extract comprehensive business information from Golden Pages Belgium (goldenpages.be). Get contact details, addresses, ratings, and company information for any business category.
 - **[Good n' Natural Advice Scraper](https://apify.com/yourapiservice/goodnnatural-advice-scraper?fpr=p2hrc6)** - Good n' Natural Advice Scraper (shop.goodnnatural.ca) lets you extract advice content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -8966,8 +8966,8 @@ You give it a product URL and max number of reviews, and it returns clean JSON w
 - **[Image format converter JPG PNG WEBP](https://apify.com/akash9078/image-format-converter?fpr=p2hrc6)** - Effortlessly convert and optimize images between formats like JPEG, PNG, WebP, AVIF, and more. Maintain high quality while reducing file size for faster websites, stunning social media visuals, and print-ready graphics.
 - **[Image Moderation API](https://apify.com/sentinel-moderation/image-moderation-api?fpr=p2hrc6)** - Uses advanced AI models to analyze and classify user-generated content in real time. It detects harmful or inappropriate content, providing category-level flags and confidence scores to help you enforce community guidelines and keep your platform safe.
 - **[Image Resizer API](https://apify.com/igview-owner/image-resizer-api?fpr=p2hrc6)** - Professional image resizer API for automated batch image processing. Resize images to any dimensions with smart cropping, format conversion (JPEG, PNG, WebP, TIFF), and quality optimization. Perfect for web optimization, e-commerce thumbnails, social media content, and responsive design.
-- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor. 
-Utilize cutting-edge AI to transform image content into structured JSON data effortlessly. 
+- **[Image To Json Extractor](https://apify.com/apitale/image-to-json-extractor?fpr=p2hrc6)** - AI-Powered Image to JSON Data Extractor.
+Utilize cutting-edge AI to transform image content into structured JSON data effortlessly.
 Perfect for automating data extraction from visual content and streamlining workflows.
 - **[Imagecompressor Scraper](https://apify.com/yourapiservice/imagecompressor-scraper?fpr=p2hrc6)** - Imagecompressor.com uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG, GIF and PNG images to the minimum possible size while keeping the required level of quality.
 - **[IMDb Charts Scraper – Movies, Series, Trending & Box Office](https://apify.com/coder_zoro/imdb-charts-scraper---movies-series-trending-box-office?fpr=p2hrc6)** - Scrape IMDb charts including top-rated movies, top TV series, most popular titles, trending shows, and box office results. Get structured IMDb ranking data for research, analytics, or app integration.
@@ -9076,11 +9076,11 @@ The reason for splitting is that after obtaining a cookie, it can be used for mu
 - **[Instagram Story Details Scraper](https://apify.com/louisdeconinck/instagram-story-details-scraper?fpr=p2hrc6)** - Extract detailed Instagram stories data for data analysis, content monitoring, and competitor research. Does not require authentication or login. Fast & easy to use. Supports photo & video stories.
 - **[Instagram Story Scraper](https://apify.com/codenest/instagram-story-scraper?fpr=p2hrc6)** - Download Instagram Stories instantly with our scraper! Extract high-quality images/videos with full metadata. Get secure, downloadable URLs with automatic clean up. 📊 Perfect for marketers, researchers, and developers needing reliable story data. 👌Instagram Story Scraper.
 - **[Instagram_Comments_Scrapper](https://apify.com/om.shinde/instagram-comments-scrapper?fpr=p2hrc6)** - This actor scrapes comments from public Instagram posts For each comment, it extracts:
-- Username  
-- Comment text  
-- Likes count  
-- Replies count  
-- Verified status  
+- Username
+- Comment text
+- Likes count
+- Replies count
+- Verified status
 Just provide a list of Instagram post URLs, and the actor returns structured data ideal for analysis or monitoring public opinion
 - **[Instant Website Screenshot API](https://apify.com/hichamrz/screenshot-generator?fpr=p2hrc6)** - Generate high-quality, full-page screenshots of any website URL. Returns a hosted image link. Perfect for monitoring, archiving, and visual testing.
 - **[InstantUnzip](https://apify.com/herodcraperdz/instantunzip?fpr=p2hrc6)** - InstantUnzip downloads any ZIP file from a given URL and extracts its contents automatically. No manual steps or temporary files—just provide the link and get all extracted files saved directly to the Apify Key-Value Store.
@@ -9168,7 +9168,7 @@ Effortlessly transform JSON data into CSV with our Apify actor. Handle nested st
 - **[Justdial Business Search Scraper](https://apify.com/codingfrontend/justdial-business-search-scraper?fpr=p2hrc6)** - Scrape business listings from JustDial.com based on search URLs.
 - **[Justia Scraper | $4 / 1k | Fast & Reliable](https://apify.com/fatihtahta/justia-scraper?fpr=p2hrc6)** - Scrape verified US attorney, lawyer profiles from Justia.com including names, contacts, firms, ratings, practice areas, and locations. Build lead lists or power research tools with clean, structured data. $4 / 1k listings.
 - **[Kaggle Scraper](https://apify.com/muhammetakkurtt/kaggle-scraper?fpr=p2hrc6)** - Efficiently extracts dataset information from Kaggle based on user-defined search terms. Collects datasets metadata, categories, usability ratings and file information. Customizable scraping depth. Ideal for researchers and data scientists seeking quick insights into Kaggle datasets.
-- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud 
+- **[Kali Security Tools Actor](https://apify.com/syntellect_ai/kali-security-tools-actor?fpr=p2hrc6)** - The **Kali Security Tools Actor**  Run penetration testing, vulnerability assessments, and security research directly in the cloud
 - 🛡️ 600+ Security Tools
 - 🤖 AI Integration
 - ☁️ Cloud-Native
@@ -9267,7 +9267,7 @@ Paste multiple lines of text into the input, and this actor will identify the la
 - **[Linkedin Company Scraper](https://apify.com/rigelbytes/linkedin-company-scraper?fpr=p2hrc6)** - Extract UNLIMITED LinkedIn company profiles for just $30/month. Get name, website, followers, employees, description, posts & more. Perfect for B2B research, outreach, and competitive analysis.
 - **[Linkedin Company Scraper](https://apify.com/freshdata/linkedin-company-scraper?fpr=p2hrc6)** - Get real-time LinkedIn company data, including funding info, domain, follower count, specialties and more.
 - **[Linkedin Email Sniper](https://apify.com/mohamedgb00714/linkedin-email-sniper?fpr=p2hrc6)** - Scrapes linkedin profiles for publicly available data, including usernames and potentially emails
-- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city 
+- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city
 The scraper is configured for these 10 major US cities and many more:
 - New York
 - Los Angeles
@@ -9329,7 +9329,7 @@ https://www.loom.com/share/30f2e1a109d84a32a198b3f91418eeb6
 - **[Linkedin-company-scraper](https://apify.com/logical_scrapers/linkedin-company-scraper?fpr=p2hrc6)** - FASTEST LinkedIn company scraper. BULK Pull 50,000+ enriched company profiles in under 10 minutes. Company name, address, description, employee count, logo URL, website, industry, company size/type, headquarters, founding year, specialties, similar/affiliated pages, stock info and more.
 - **[Liquid Noble Blog Scraper](https://apify.com/yourapiservice/liquidnoble-blog-scraper?fpr=p2hrc6)** - Liquid Noble (liquidnoble.com) Blog Scraper lets you easily extract blog content in HTML, JSON and plaintext formats. Get authors, create date, update date, images, readtime, RSS, titles, Seo Titles, Featured Images & Videos, keywords
 - **[Llm Response Evaluator](https://apify.com/fiery_dream/llm-response-evaluator?fpr=p2hrc6)** - Evaluate LLM outputs with comprehensive quality metrics and A/B testing capabilities. Free alternative to Confident AI ($99/mo).
-- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset 
+- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset
 — so you can always choose the best model for your task with best price daily.
 - **[Load Stress Test & Traffic Generator](https://apify.com/onidivo/load-stress-test?fpr=p2hrc6)** - Perform load and stress tests against your website. Drive traffic and test your website tools and integrations.
 - **[Log Scanner](https://apify.com/lukaskrivka/log-scanner?fpr=p2hrc6)** - Log scanner helps you to find particular text in your log files. It can scan [Apify](https://apify.com/) runs, tasks, or actors but also arbitrary text files. If you ever had a problem finding that one error in a thousand runs, this is a tool to use.
@@ -9604,7 +9604,7 @@ The PageSource Scraper API is designed for fast and reliable web scraping, SEO a
 - **[Pattern Scraper Light](https://apify.com/xmiso_scrapers/pattern-scraper-light?fpr=p2hrc6)** - Bulk scrape patterns on websites
 - **[Pay per event example](https://apify.com/mhamas/pay-per-event-example?fpr=p2hrc6)** - This is an example pay-per-event Actor. When running it, you don't pay for the underlying platform usage, just for the Actor start event, and trivia facts it generates.
 - **[Pay Per Event Example](https://apify.com/lukaskrivka/pay-per-event-example?fpr=p2hrc6)** - Example usage of the new Pay-per-event billing model.
-- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[Paylogics Blog Scraper](https://apify.com/yourapiservice/paylogics-blog-scraper?fpr=p2hrc6)** - PayLogics Blog Scraper (paylogics.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[PBS Physical Balance Solution Blog Scraper](https://apify.com/yourapiservice/pbsbalance-blog-scraper?fpr=p2hrc6)** - PBS Physical Balance Solution Blog Scraper (pbsbalance.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -9748,7 +9748,7 @@ Run GPT-4 prompts for automation, summarization, and data analysis with no token
 - **[Rebirth failed requests](https://apify.com/lukaskrivka/rebirth-failed-requests?fpr=p2hrc6)** - Rebirth failed requests of past runs into a pristine state with no retries so you can rescrape them by resurrecting the run.
 - **[Rebuilder](https://apify.com/mnmkng/rebuilder?fpr=p2hrc6)** - Rebuild your actors easily with a simple regular expression. This actor will fetch all your existing actors and match their names. Those that pass will be rebuilt. Schedule this for maximum effectiveness. It can also rebuild itself!
 - **[Recaptcha Bypass Browser Scraper PRO](https://apify.com/xtech/recaptcha-bypass-browser-scraper?fpr=p2hrc6)** - reCaptcha Bypass Browser Scraper: The ultimate solution for scraping reCaptcha-protected websites. Advanced browser automation with intelligent reCaptcha bypass, automatic challenge resolution, and robust proxy rotation to extract data from the most heavily protected sites
-- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction : 
+- **[Receipt OCR API](https://apify.com/happitap/receipt-ocr-api?fpr=p2hrc6)** - Receipt OCR API - Multi-Model Text Extraction :
 Extract structured data from receipt images using advanced OCR technology with support for multiple AI models including Google Vision, OpenAI, Azure, AWS Textract, Gemini, Hugging Face, DeepSeek, and Native OCR.
 - **[Receive webhooks](https://apify.com/riceman/receive-webhooks?fpr=p2hrc6)** - Receives webhook data and saves it to Apify dataset storage. Ideal for Clay users on the Starter plan who still want or need to build tables that can receive webhooks.
 - **[Recherche Entreprises Scraper](https://apify.com/corent1robert/recherche-entreprises-scraper?fpr=p2hrc6)** - Extract comprehensive French company data from data-gouv.fr. Search companies using filters (activity, creation date, revenue, location) with automatic pagination. Enriches data with additional information from annuaire-entreprises.data.gouv.fr including legal details, directors, and financial data.
@@ -9908,8 +9908,8 @@ Fast, reliable data extraction in 40 seconds.
 - **[Sephora.de Scraper (Fast & Light)](https://apify.com/tufantoksoz/sephora-product-scraper?fpr=p2hrc6)** - This scraper extracts sephora.de (not .com) product data prices, availability, images, ratings and more. Fast, reliable, and ideal for price monitoring, market research, and e-commerce analytics.
 - **[Sepiasearch Scraper](https://apify.com/conduit/sepiasearch-scraper?fpr=p2hrc6)** - Extract search results from SepiaSearch.org, the leading search engine for PeerTube videos, playlists, and channels. Get titles, URLs, descriptions, and metadata from any search query with automatic pagination support.
 - **[Serp Events Scraper](https://apify.com/payai/serp-events-scraper?fpr=p2hrc6)** - 🚀 Scrape professional networking events, conferences & business meetups from Google Events via SerpAPI. Get 400+ real events across 10 major US cities in minutes!
-- **[Session/Login Extractor](https://apify.com/pragmaticcoders/session-login-extractor?fpr=p2hrc6)** - Automates login flows and extracts session data. 
-Supports MFA with TOTP code. 
+- **[Session/Login Extractor](https://apify.com/pragmaticcoders/session-login-extractor?fpr=p2hrc6)** - Automates login flows and extracts session data.
+Supports MFA with TOTP code.
 You can use this actor if you need to access website with authentication.
 - **[Sever Hosting and Tools](https://apify.com/am_production/instagram-dm-seeker?fpr=p2hrc6)**
 - **[Seznam Scraper](https://apify.com/conduit/seznam-scraper?fpr=p2hrc6)** - Extract search results from Seznam.cz, the leading Czech search engine. Get titles, URLs, and content snippets from any search query with automatic pagination support.
@@ -10039,7 +10039,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Stock Market Scrapper](https://apify.com/coder_zoro/stock-market-scrapper?fpr=p2hrc6)** - A fast Apify Actor that scrapes real-time stock data from Yahoo Finance. Get trending stocks, most actives, gainers/losers, and 52-week leaders with pagination and detailed metrics like price, volume, market cap, and P/E. Perfect for analysts, traders, and automation workflows.
 - **[Stock Prices by Finmap.io](https://apify.com/finmap/stock-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of stocks, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Stock Profile (Investing.com)](https://apify.com/pintostudio/stock-profile-investing-com?fpr=p2hrc6)** - The Stock Profile Data (Investing.com) Actor is a powerful web scraping tool that retrieves comprehensive company profile information for publicly traded stocks from Investing.com.
@@ -10177,10 +10177,10 @@ To get the Output, which is a MP3 Data file, you have to go to Storage, in there
 - **[Tiktok Search (With Page Cursor)](https://apify.com/novi/tiktok-search-support-cursor?fpr=p2hrc6)** - TikTok Search Scraper: Extract search results with page cursors for in-depth analysis. Specify keywords, sort type, region, and time. Fast, efficient, and cost-effective data extraction.
 - **[Tiktok Shop Creators](https://apify.com/lemur/tiktok-shop-creators?fpr=p2hrc6)** - TikTok Shop Creators - Gain powerful insights into TikTok Shop creators — their performance (GMV, units sold, engagement), audience, and content trends — all in one request.
 - **[TikTok Shop Label](https://apify.com/excavator/tiktok-shop-label?fpr=p2hrc6)** - TikTok Shop order label link is only available for 2 hours. This Actor will help you store that label on our server forever and give you a download link that has never expired
-- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 OR https://www.tiktok.com/t/XXXXXXXXX/ which only available for TikTok Shop US. I increased price because TikTok always update their algorithm, 10$/1000 request
-- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 These URLs are only available for TikTok Shop US.
 I have pay per request version, you can test it here: https://apify.com/excavator/tiktok-shop-product
@@ -10471,7 +10471,7 @@ Ideal for quick insights, SEO analysis, or data extraction without complex setup
 - **[WhatsApp Number Validator](https://apify.com/devscrapper/whatsapp-number-validator?fpr=p2hrc6)** - Instantly verify if a phone number is active on WhatsApp. Fast, secure, and reliable validation service.
 - **[WhatsApp Product Image Resizer (Carousel, Catalog, Templates)](https://apify.com/treplit/whatsapp-product-image-resizer-carousel-catalog-templates?fpr=p2hrc6)** - Prepare inventory for WhatsApp sales actions & catalogs. Smart padding ensures fashion products are never cropped in Carousels or Thumbnails. Automate formatting for bulk marketing pushes. Supports all API specs (1125x600, <5MB) to maximize conversion rates.
 - **[Whatsapp Profiles Scraper](https://apify.com/inutil_labs/wscrp-free?fpr=p2hrc6)** - Scrape the Whatsapp network and fetch profile info of any user, including: Profile picture, About status, or check if it's a Whatsapp for Business or personal account.
-- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to 
+- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to
 Send WhatsApp messages using Twilio's official WhatsApp Business API - the most reliable and legitimate way to send WhatsApp messages programmatically.
 - **[Whois Domain Lookup](https://apify.com/agenscrape/whois-domain-lookup?fpr=p2hrc6)** - Fast WHOIS domain lookup. Get domain registration data including status, nameservers, registrar info, expiration dates, DNSSEC, and contacts. Supports all major TLDs (.com, .org, .io, .uk, etc). $0.001 per result.
 - **[Whois Scraper](https://apify.com/salman_bareesh/whois-scraper?fpr=p2hrc6)** - This Apify actor retrieves Whois information for a list of domains provided as input. It is built with Python and leverages the `whois` library to perform lookups.
@@ -10597,7 +10597,7 @@ Extract phone numbers, ratings, working hours, and addresses instantly exportabl
 - **[Youtube Subtitles](https://apify.com/red.cars/youtube-subtitles?fpr=p2hrc6)** - Extract subtitles from YouTube videos in multiple formats (JSON, SRT,
   VTT, TXT) with support for playlists, channels, and advanced features
   like multi-language extraction and text cleaning.
-- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI 
+- **[Youtube Subtitles Pro](https://apify.com/red.cars/youtube-subtitles-pro?fpr=p2hrc6)** - Extract YouTube subtitles & transcripts without API keys - get SRT, VTT, JSON formats instantly. Perfect for accessibility compliance, content creation & AI
   training data - no quotas or authentication required.
 - **[YouTube Subtitles Scraper](https://apify.com/igview-owner/youtube-subtitles-scraper?fpr=p2hrc6)** - Powerful YouTube subtitles scraper for developers and agencies. Programmatically fetch all caption tracks (including auto‑generated) and export them as SRT, VTT, JSON, or plain text for SEO, analytics, and content repurposing.
 - **[YouTube Suggested Videos](https://apify.com/arrontaylor/youtube-suggested-videos?fpr=p2hrc6)**
@@ -10622,9 +10622,9 @@ This tool extracts full YouTube video transcripts (captions) in seconds — even
 - **[Youtube Video Actor](https://apify.com/pintostudio/youtube-video-actor?fpr=p2hrc6)** - This Apify Actor allows you to extract detailed information from YouTube videos. You can fetch video details, comments, transcripts, and recommendations with just a video URL.
 - **[YouTube Video Comments Scraper](https://apify.com/donjuan_mime/youtubecomments?fpr=p2hrc6)** - Scrape public comments from any YouTube video. Fast, lightweight, and compliant with YouTube's public data policies.
 - **[YouTube Video Details Scraper](https://apify.com/igview-owner/youtube-video-details-scraper?fpr=p2hrc6)** - Scrape complete YouTube video details from just video IDs. This actor extracts rich video metadata, statistics, thumbnails, captions and more – perfect for SEO research, content analysis, reporting, and automation.
-- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop. 
+- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop.
 
-Download in any format - 1080p (Full HD) to mp3 (audio only). 
+Download in any format - 1080p (Full HD) to mp3 (audio only).
 
 Pay per Download - No commitments, No server costs, No bandwidth charges.
 
@@ -10643,7 +10643,7 @@ Supports all YouTube Links -  Videos, YouTube Shorts, YouTube Live & Short Links
 - **[Youtube Video Transcript Super Scraper](https://apify.com/muhammad_noman_riaz/youtube-video-transcript-super-scraper?fpr=p2hrc6)** - Unlock the power of in-depth YouTube video analytics with our Video Transcript Super Scraper. Extract comprehensive metadata, engagement metrics, and full video transcripts in any language you want.
 - **[YouTube Word-Level Transcript](https://apify.com/zerrouki-samir/youtube-wordlevel-transcript?fpr=p2hrc6)** - 🎯 **UNPRECEDENTED WORD-LEVEL PRECISION** 🎯
 
-Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD. 
+Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD.
 ✨ **Key Features:**
 • Word-level timestamps with millisecond accuracy
 • 99.9% reliability guaranteed
@@ -10758,7 +10758,7 @@ Transform any YouTube video into precise transcripts with timestamps for EVERY S
 - **[Action.com Search Scraper](https://apify.com/powerai/action-com-search-scraper?fpr=p2hrc6)** - Scrape products from Action.com by providing a search URL, with automatic pagination and comprehensive product information extraction.
 - **[ADAY Scraper](https://apify.com/mshopik/aday-scraper?fpr=p2hrc6)** - Scrape ADAY and extract data on apparel from thisisaday.com. Our ADAY API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Adidas Store Scraper](https://apify.com/eneiromatos/adidas-store-scraper?fpr=p2hrc6)** - Unlock a wealth of product data from the official Adidas US online store (adidas.com/us). This powerful scraper extracts detailed information—like pricing, media, all kind of general data, and ratings—using product URLs, categories, or keywords.
-- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie). 
+- **[Adlibrary Scraper](https://apify.com/bockmurat/adlibrary-scraper?fpr=p2hrc6)** - Gets all adlibrary.com ads results including reach and creative (without account and without cookie).
 Results are combined ads and statistics from all social media platforms adlibrary.com supports (currently Meta and Google, so all Ads across Instagram, Facebook, Threads, Whatsapp, Google, Youtube)
 - **[Adorama Product Review Scraper](https://apify.com/scraped/adorama-product-review-scraper?fpr=p2hrc6)** - Scrape product reviews from Adorama
 - **[Advanceautoparts.com Scraper](https://apify.com/lexis-solutions/advanceautoparts-scraper?fpr=p2hrc6)** - Scrape product data from AdvanceAutoParts.com - including part names, SKUs, prices, availability, specifications, and images. Ideal for market research, price monitoring, and inventory analytics. Fast, structured, and customizable extraction.
@@ -11357,13 +11357,13 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 
 Enter a keyword & extract relevant Crunchbase Company, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
-- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub 
+- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub
 
 Enter a keyword & extract relevant Crunchbase Hub, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
 - **[Crunchbase Unlimited Export – No Pro Login Needed](https://apify.com/davidsharadbhatt/crunchbase-scraper-company-search-results?fpr=p2hrc6)** - This will give comprehensive data of Crunchbase companies containing over 100+ data points per company, such as URL, name, description, website, location, founders, Number of employees, industries, funding details, Top investors, funding history
 social urls, contact email, phone and more..
-- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture 
+- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture
 
 Enter a keyword & extract relevant Crunchbase Venture, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
@@ -11621,7 +11621,7 @@ You can use actor: `shareze001/facebook-ads` to obtain ads placed by advertisers
 - **[Facebook Marketplace Scraper](https://apify.com/getdataforme/facebook-marketplace-scraper?fpr=p2hrc6)** - Scrape Facebook marketplace, our advanced scraper is designed to collect comprehensive details of products and listings from Facebook Marketplace. It effortlessly extract all relevant information about items listed for sale, including product descriptions, prices, seller details, and more.
 - **[Facebook Marketplace Scraper](https://apify.com/pratikdani/facebook-marketplace-scraper?fpr=p2hrc6)** - The Facebook Marketplace Scraper extracts detailed product data from Marketplace URLs, including prices, descriptions, images, and seller details. Perfect for market research, price monitoring, and inventory tracking.
 - **[Facebook Marketplace Scraper](https://apify.com/scraper-engine/facebook-marketplace-scraper?fpr=p2hrc6)** - Extract product listings from Facebook Marketplace with ease! This actor scrapes titles, prices, descriptions, seller info, locations, images, and post URLs. Perfect for market research, price monitoring, competitor analysis, or lead generation from Facebook Marketplace listings.
-- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page. 
+- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page.
 Collect informations at scale about: phone, email, page id, name, description, industry category, likes, followers, followings, ratings, website, social network links
 - **[Facebook Phone Number Scraper – Cheapest & Reliable 📧⚡📷](https://apify.com/contactminerlabs/facebook-phone-number-scraper---cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Facebook Phone Numbers
 
@@ -11701,7 +11701,7 @@ Perfect for lead generation and contact enrichment in tools like Google Sheetsor
   with their universal barcodes. Seamlessly translates between Amazon ASINs and EAN/UPC barcodes, keeping your inventory perfectly aligned across every sales channel.
 - **[Free EAN-to-bol.com product id Converter](https://apify.com/s-r/free-ean-to-bol-com-product-id-converter?fpr=p2hrc6)** - The AI-powered matching engine that connects bol.com products
   with their universal barcodes. Seamlessly translates between bol.com  product ids and EAN/UPC barcodes, keeping your inventory perfectly aligned across every sales channel.
-- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs. 
+- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs.
 
 Contact discovery, employing a two-pass search strategy, advanced filtering (remove generic and malformed emails), user-agent rotation, and configurable limits per domain. Ideal for lead generation and market research.
 - **[Free Google Shopping Scraper - Extract offers from any EAN/SKU](https://apify.com/s-r/free-google-shopping-scraper---extract-offers-from-any-ean-sku?fpr=p2hrc6)** - Grab all offers from all sellers of a Google Shopping EAN/SKU. Whether you're monitoring competitor prices, optimizing your pricing strategy, or tracking market trends, this scraper delivers the insights you need at scale.
@@ -11709,7 +11709,7 @@ Contact discovery, employing a two-pass search strategy, advanced filtering (rem
 - **[Fresh Water Systems Scraper](https://apify.com/mshopik/fresh-water-systems-scraper?fpr=p2hrc6)** - Scrape Fresh Water Systems and extract data on home appliances from freshwatersystems.com. Our Fresh Water Systems API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[FSSAI FoSCoS Scraper](https://apify.com/codingfrontend/fssai-foscos-scraper?fpr=p2hrc6)** - Verify FSSAI license numbers using FoSCoS portal
 - **[FUEL Scraper](https://apify.com/mshopik/g-fuel-scraper?fpr=p2hrc6)** - Scrape FUEL and extract data on soft drinks from gfuel.com. Our FUEL API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
-- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.  
+- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.
 Pay per usage: no setup, no minimums, no subscriptions.
 - **[Fungi Perfecti Scraper](https://apify.com/mshopik/fungi-perfecti-scraper?fpr=p2hrc6)** - Scrape Fungi Perfecti and extract data on biological sciences from fungi.com. Our Fungi Perfecti API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Funnel Sniper](https://apify.com/moehefner/funnel-sniper-actor?fpr=p2hrc6)** - Detect CTAs, pricing signals, promotions, and basic product/category info from e‑commerce sites.
@@ -11917,7 +11917,7 @@ Ensure your email campaigns render perfectly everywhere before hitting send. Thi
 - **[Iaai Link Scraper](https://apify.com/ovular_ice/iaai-link-scraper-1?fpr=p2hrc6)** - 🚀 IAAI Enhanced Data Scraper collects detailed vehicle auction data (year, make, model, VIN, damage, prices, mileage, auction date, media) directly from IAAI. Handles pagination, cookies, and saves results to Apify Dataset for easy analysis.
 - **[IAAI Vehicle Detail Scraper](https://apify.com/easyapi/iaai-vehicle-detail-scraper?fpr=p2hrc6)** - Scrape detailed vehicle information and high-resolution images from IAAI (Insurance Auto Auctions) vehicle listings. Get comprehensive data including vehicle specs, damage details, auction info, and HD photos.
 - **[IAAI Vehicles Scraper 🔍🚗 - Cheap](https://apify.com/scrapestorm/iaai-vehicles-scraper---cheap?fpr=p2hrc6)** - Easily collect vehicle listings from IAAI, one of the largest online auto auction platforms in the U.S
-Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more 
+Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more
 Perfect for market analysis or building your own automotive database 📊
 - **[Icraft Gifts Scraper Pro](https://apify.com/xtech/icraft-scraper-pro?fpr=p2hrc6)** - Professional-grade scraper for comprehensive ICraft Gifts handmade product data with enterprise features, infinite scroll support, and data validation
 - **[Idealo Listing Scraper](https://apify.com/powerai/idealo-listing-scraper?fpr=p2hrc6)** - Extract product listings from Idealo.de price comparison website with automatic pagination and comprehensive product information.
@@ -12328,7 +12328,7 @@ Designed for mass crawling with smallest resource and proxy.
 - **[Mercadolibre Email Scraper](https://apify.com/scraper-mind/mercadolibre-email-scraper?fpr=p2hrc6)** - The Mercadolibre Email Scraper lets you efficiently extract Mercadolibre email addresses from regional listings. Ideal for lead generation, market research, and targeted marketing campaigns, it supports keyword and location filtering, custom domains, and proxies for smooth data collection.
 - **[Mercadolibre Email Scraper – Advanced, Cheapest & Reliable 📧](https://apify.com/contactminerlabs/mercadolibre-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Mercadolibre Emails
 
-[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info 
+[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
 - **[MercadoLibre Product Detail Scraper 🛍️](https://apify.com/easyapi/mercadolibre-product-detail-scraper?fpr=p2hrc6)** - 🛍️ Extract detailed product information from MercadoLibre listings including prices, reviews, specifications, and seller details. Perfect for e-commerce analytics, price monitoring, and market research in Latin American markets.
 - **[MercadoLibre Product Detail Scraper 🛍️ - Cheap](https://apify.com/scrapestorm/mercadolibre-product-detail-scraper---cheap?fpr=p2hrc6)** - Discover top MercadoLibre products with ⚡fast data extraction! Sort by 🔥 popularity, 🕒 newest listings, or 💰 price. Get key info like product specs, images, seller details & reviews. Perfect for 📊 market analysis, competitor tracking & finding 🛍️ trending items!
@@ -12709,7 +12709,7 @@ Price monitoring, follow trends
 Get leads and contact details for over 450k active small businesses
 - **[Scandinavian Designs Scraper](https://apify.com/mshopik/scandinavian-designs-scraper?fpr=p2hrc6)** - Scrape Scandinavian Designs and extract data on home furnishings from scandinaviandesigns.com. Our Scandinavian Designs API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Scania Parts Catalog](https://apify.com/making-data-meaningful/scania-parts-catalog?fpr=p2hrc6)** - Access the Scania Parts Catalog featuring genuine OEM and heavy-duty aftermarket components. From engines and transmissions to braking and electrical systems, find reliable parts built for trucks, buses, and industrial power.
-- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords. 
+- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords.
 
 The search URL can either be assembled manually or copied directly from the browser’s address bar.
 
@@ -13024,7 +13024,7 @@ Perfect for lead generation and contact enrichment in tools like Google Sheetsor
 - **[Tides Urls Spider](https://apify.com/getdataforme/tides-urls-spider?fpr=p2hrc6)** - The Tides Urls Spider is an Apify Actor that scrapes comprehensive product data from Tide's website, including titles, descriptions, ratings, images, and metadata....
 - **[TIKI scraper](https://apify.com/dtrungtin/tiki-scraper?fpr=p2hrc6)** - TIKI Scraper extracts all and any items from any category page on TIKI or by the specific keyword, provided you copy & paste the search URL
 - **[TikTok Comments Scraper ✅ No cookies ✅](https://apify.com/scraping_solutions/tiktok-comments-scraper-no-cookies?fpr=p2hrc6)** - Extract Commenters from Tiktok Posts – 100% Public Data, No Login or Cookies! Boost your Tiktok engagement analysis with this powerful tool that scrapes commenters from public Instagram posts without using cookies. Perfect for marketers, recruiters, analysts.
-- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center. 
+- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center.
 Reliably extract high-value data on Top Ads, Trending Videos, Trending Creators, Trending Songs, and Trending Hashtags. Delivering structured JSON data for your marketing intelligence and competitive analysis.
 - **[Tiktok Free Scraper](https://apify.com/wudizhangzhi/tiktok-free-scraper?fpr=p2hrc6)** - Extract data about videos, users, products and More.
 - **[Tiktok Handle Resolver](https://apify.com/immortal_orthodontist/tiktok-handle-resolver?fpr=p2hrc6)** - Frustrated trying to scrape Tiktok?  Fix the #1 issue you've likely run across. This actor converts any TikTok User URL into a clean @handle that other Apify tiktok scrapers can use. Works with share links, redirects, and IDs. Essential for influencer marketing, lead gen, and CRM workflows.
@@ -13038,7 +13038,7 @@ Perfect for lead generation and contact enrichment in tools like Google Sheetsor
 - **[TikTok Shop Label](https://apify.com/excavator/tiktok-shop-label?fpr=p2hrc6)** - TikTok Shop order label link is only available for 2 hours. This Actor will help you store that label on our server forever and give you a download link that has never expired
 - **[Tiktok Shop Scraper](https://apify.com/pratikdani/tiktok-shop-scraper?fpr=p2hrc6)** - This actor automates TikTok Shop data extraction, gathering product details, pricing, sales, and competitor insights. Scrape crucial e-commerce data directly from TikTok to analyze trends, track performance, and optimize your shop strategy.
 - **[Tiktok Shop Scraper](https://apify.com/barrierefix/tiktok-shop-scraper?fpr=p2hrc6)** - Extract product data from TikTok Shop including prices, sales metrics, ratings, and reviews. Perfect for competitor analysis, market research, and price monitoring.
-- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Scraper](https://apify.com/excavator/tiktok-shop-scraper?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 These URLs are only available for TikTok Shop US.
 I have pay per request version, you can test it here: https://apify.com/excavator/tiktok-shop-product
@@ -13540,7 +13540,7 @@ It allows you to extract detailed pricing data, seller information, and product 
 - **[Amazon Tracker](https://apify.com/vivid.travelogue/amazon-tracker?fpr=p2hrc6)** - Amazon Tracker collects product data from Amazon based on any keyword or category and returns structured results in JSON or CSV. It works across multiple Amazon marketplaces and can be connected directly to n8n, Make, Zapier, or any workflow tool.
 - **[Anime Wallpaper Scraper](https://apify.com/easyapi/anime-wallpaper-scraper?fpr=p2hrc6)** - 🖼️ Discover and collect stunning anime wallpapers from multiple sources! This actor searches WallHaven, ZeroChan, and Wallpapers.com to bring you high-quality images of your favorite anime characters and series. Perfect for fans, collectors, and developers building wallpaper applications. 🌟🎨
 - **[APEC Jobs Scraper 🎯](https://apify.com/easyapi/apec-jobs-scraper?fpr=p2hrc6)** - Extract detailed job listings from APEC.fr with comprehensive information including job titles, salaries, locations, and company details. Perfect for job market analysis, recruitment research, and tracking employment opportunities in France. 🇫🇷
-- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[API / JSON scraper](https://apify.com/pocesar/json-downloader?fpr=p2hrc6)** - Scrape any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[API Response Watcher](https://apify.com/marco.gullo/api-response-watcher?fpr=p2hrc6)** - Checks if some API endpoint's response has changed. Works by creating and storing a JSON schema from the endpoint's response and using it to validate the next response. Depending on the configuration, the stored JSON schema can be updated every time the response changes.
 - **[api-gw-lite](https://apify.com/amernas/api-gw-lite?fpr=p2hrc6)** - This actor serves as a proxy that accepts requests with custom field names and translates them to standard HTTP requests to target APIs. It's designed to work seamlessly on the Apify platform while also supporting local testing
@@ -13850,7 +13850,7 @@ With filters based on language spoken, code language, sponsorable status and dat
 - **[HTTP API - Flexible Client for Prototyping and Automation](https://apify.com/xyzzy/http-api?fpr=p2hrc6)** - Easily test, integrate, and automate APIs—configure method, headers, query params, body, timeout, and retries, no code or setup required. Ideal for rapid prototyping, endpoint monitoring, workflows, and sales & marketing automation.
 - **[Hyundai Parts Catalog](https://apify.com/making-data-meaningful/hyundai-parts-catalog?fpr=p2hrc6)** - Discover the Hyundai Parts Catalog featuring genuine OEM and certified aftermarket parts. From engines and hybrid systems to interiors and electronics, find precision-fit Hyundai components built for efficiency, style, and performance.
 - **[IAAI Vehicles Scraper 🔍🚗 - Cheap](https://apify.com/scrapestorm/iaai-vehicles-scraper---cheap?fpr=p2hrc6)** - Easily collect vehicle listings from IAAI, one of the largest online auto auction platforms in the U.S
-Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more 
+Just enter a valid IAAI search results URL to extract detailed vehicle data, including title damage type transmission & more
 Perfect for market analysis or building your own automotive database 📊
 - **[Icodrops Scrapper Pro | ICO Projects & Crypto](https://apify.com/pintxuki/icodrops-scrapper-pro-ico-projects-crypto?fpr=p2hrc6)** - ICODrops Scraper Pro s a powerful web scraping solution that extracts comprehensive data from ICODrops.com. It provides structured data about upcoming, active, and ended ICO projects, perfect for market research, investment analysis, and tracking cryptocurrency trends.
 - **[iFunny Video Downloader 🎥](https://apify.com/easyapi/ifunny-video-downloader?fpr=p2hrc6)** - Download videos from iFunny.co with ease. Extract video URLs, titles, and metadata from iFunny posts. Perfect for content creators and social media managers who need to save iFunny videos in bulk.
@@ -13943,7 +13943,7 @@ Turn any PDF or image (invoices, receipts, IDs, forms, contracts, passports) int
 - **[Linkedin Profile URL Finder](https://apify.com/mishkat-ai/linkedin-profile-url-finder?fpr=p2hrc6)** - Quickly and reliably locate a professional's LinkedIn URL. Simply provide the person's name and their company for a direct link to their LinkedIn URL.
 - **[Linkedin Search Groups Scraper ($0.8 / 1K)](https://apify.com/memo23/linkedin-search-groups-scraper?fpr=p2hrc6)** - Gain structured LinkedIn group insights including IDs, public names, direct URLs, logos, member counts, and rich summaries, ready for analytics dashboards or CRM enrichment.
 - **[Linkedin-company-detail-scraper](https://apify.com/logical_scrapers/linkedin-company-scraper-deep?fpr=p2hrc6)** - A powerful scraper that extracts comprehensive company data from LinkedIn company pages. Gives you authenticated access through cookies to retrieve detailed business information including name, description, industry, size, headquarters, phone, website, logo, employee count, follower count and more.
-- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset 
+- **[LM Bench](https://apify.com/artful_sleep/lm-bench?fpr=p2hrc6)** - A daily-updated intelligence feed that merges LLM quality (LMArena ELO) and LLM pricing (OpenRouter) into one clean, normalized dataset
 — so you can always choose the best model for your task with best price daily.
 - **[local.ch search results scraper ($4/1K)](https://apify.com/azzouzana/local-ch-search-results-scraper-ppr?fpr=p2hrc6)** - ⚡ Scrape local.ch businesses in seconds 📊 Get names, phones, emails, addresses, opening hours, reviews, and more. Export to Excel, CSV, HTML, or via API. Fast, simple, and super affordable! Grab your search URL & you're good to go 🙌
 - **[Lowes Product Lookup](https://apify.com/maplerope44/lowes-product-lookup?fpr=p2hrc6)** - Quickly look up Lowes product prices and availability by entering a product ID and zip code. Get real-time stock and pricing details from nearby stores, making it easy to compare locations and plan your purchase efficiently.
@@ -14031,7 +14031,7 @@ Turn any PDF or image (invoices, receipts, IDs, forms, contracts, passports) int
 - **[PanoramaFirm Company Scraper](https://apify.com/powerai/panoramafirm-company-scraper?fpr=p2hrc6)** - Scrape company information from PanoramaFirm.pl by providing a search URL, with automatic pagination and comprehensive company data extraction.
 - **[Password Generator](https://apify.com/pulse_automation/password-generator?fpr=p2hrc6)** - Password Generator with Hashing is a highly customizable Apify actor designed for generating strong passwords at scale. Whether you need a handful of user-friendly passwords orhundreds of cryptographically secure secrets, this actor provides full control over options.
 - **[Patreon Monthly Top Creators Scraper 📊](https://apify.com/easyapi/patreon-monthly-top-creators-scraper?fpr=p2hrc6)** - Extract detailed rankings and earnings data for top Patreon creators across 30+ categories. Track historical performance, monitor competitor growth, and gain valuable insights into the creator economy. 🚀
-- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output. 
+- **[Pay-as-you-go API / JSON scraper](https://apify.com/pocesar/pay-as-you-go-api-json-scraper?fpr=p2hrc6)** - Scrape as pay-as-you-go any API / JSON URLs directly to the dataset, and return them in CSV, XML, HTML, or Excel formats. Transform and filter the output.
 Enables you to follow pagination recursively from the payload without the need to visit the HTML page.
 - **[Pdf Power Tools](https://apify.com/agenscrape/pdf-power-tools?fpr=p2hrc6)** - Split, merge, compress, convert & OCR PDFs via API. Extract text from scanned documents in 14 languages. Compress files for email, convert pages to PNG/JPEG/WebP, split by pages or ranges, merge multiple PDFs. Perfect for document automation & data extraction workflows.
 - **[PDF Text Extractor](https://apify.com/jirimoravcik/pdf-text-extractor?fpr=p2hrc6)** - PDF Text Extractor allows you to extract text from PDF files. It also supports chunking of the text to prepare the data for usage with large language models.
@@ -14134,7 +14134,7 @@ Déclenchement régulier avec le Schedule de Apify
 - **[Scrape Alibaba Products](https://apify.com/shareze001/scrape-alibaba-item?fpr=p2hrc6)** - Scrape product information from the product details page, product category page. The product category page includes `productgrouplist`, `featureproductlist`, `productlist`, etc.
 
 Currently using an excellent proxy tool, making data scraping more stable.
-- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords. 
+- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords.
 
 The search URL can either be assembled manually or copied directly from the browser’s address bar.
 
@@ -14334,7 +14334,7 @@ Seamlessly integrate with tools like Google Drive, Zapier, and more 🔗 to stre
 - **[Whatsapp Cloud API MCP](https://apify.com/mdbm/whatsapp-cloud-api-mcp?fpr=p2hrc6)** - Give your AI agents a phone number! The easiest way to integrate WhatsApp Business API with Claude and other MCP-compliant tools. Supports text, media, and interactive buttons.
 - **[WhatsApp Fitness Studio Leads – Powered by Mindbody Scraper](https://apify.com/lead.gen.labs/whatsapp-fitness-studio-leads---powered-by-mindbody-scraper?fpr=p2hrc6)** - Scrape fitness studio contact details from Mindbody, validate phone numbers, and convert them into WhatsApp-ready leads for outreach or automation
 - **[WhatsApp Real-Time Message API - Webhook & Telegram](https://apify.com/clearpath/whatsapp-real-time-message-api?fpr=p2hrc6)** - Real-time WhatsApp message receiver with instant webhook and Telegram forwarding. One-time QR authentication with persistent sessions. Download media (images, audio notes, videos, docs). Filter messages by chat type. Built-in REST API for monitoring and message retrieval.
-- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to 
+- **[Whatsapp Twilio](https://apify.com/syntellect_ai/whatsapp-twilio?fpr=p2hrc6)** - Twilio WhatsApp Message Sender allow the agent to
 Send WhatsApp messages using Twilio's official WhatsApp Business API - the most reliable and legitimate way to send WhatsApp messages programmatically.
 - **[Whop.com Leaderboards Scraper [$1.75 / 1K] [PPR]](https://apify.com/memo23/whop-leaderboards-scraper?fpr=p2hrc6)** - Unlock comprehensive insights from Whop.com leaderboards effortlessly with our scraper. Extract user rankings, statistics, reviews, profiles, and more for accurate, up-to-date market research, competitor analysis, and performance tracking. Save time and resources while gaining a competitive edge.
 - **[WikiHow Article Scraper](https://apify.com/easyapi/wikihow-article-scraper?fpr=p2hrc6)** - Scrape WikiHow articles based on search queries. Extract article titles, dates, views, and detailed step-by-step content. Perfect for content analysis, research, and knowledge base building.
@@ -14416,7 +14416,7 @@ Seamlessly integrate with tools like Google Drive to automate workflows and boos
 - **[⚡Linkedin Jobs Scraper with Company Insights (No Cookies)](https://apify.com/microtrica/linkedin-jobs-scraper-with-company-insights?fpr=p2hrc6)** - Scrape LinkedIn Jobs with detailed insights, including 💰 Pay Range, 🏢 Company Size, 🌐 Industries, 🔗 Website URL, and more, without using cookies.
 - **[⚡️Rapid Linkedin Jobs Scraper | Free Jobs Scraper](https://apify.com/worldunboxer/rapid-linkedin-scraper?fpr=p2hrc6)** - Free LinkedIn job scraper tool to extract job listings, company details, and complete job information instantly. Scrape LinkedIn jobs by keywords, location, or company. Get structured data including titles, descriptions, salaries, requirements, and employer info. Fast, efficient job data extraction.
 - **[🇳🇱 Recognised Sponsors for Highly Skilled Migrants](https://apify.com/jason_1bps/kmcrawler?fpr=p2hrc6)** - 11000+ records in seconds.
-⚡️ Efficiently gathers structured data from the Recognised Sponsors for Regular Labour and Highly Skilled Migrants in the Netherlands. 
+⚡️ Efficiently gathers structured data from the Recognised Sponsors for Regular Labour and Highly Skilled Migrants in the Netherlands.
 🔍 Access up-to-date information on sponsors authorized to employ foreign workers, streamlining your search for reputable sponsors.
 - **[✨ Y Combinator Scraper Apify](https://apify.com/damilo/y-combinator-scraper-apify?fpr=p2hrc6)** - ⚡ Scrape Y Combinator’s startup directory with rich data: company info, founders, job postings, batch, team size, social links, and more. Filter by industry, region, or hiring status. Ideal for lead gen, VC scouting, and recruiting. Clean JSON output ready for Airtable, Notion, or Excel.
 - **[🌍All Jobs Scraper - LinkedIn, Indeed, Glassdoor](https://apify.com/agentx/all-jobs-scraper?fpr=p2hrc6)** - Unified job scraper for Indeed, LinkedIn, Glassdoor & ZipRecruiter — extract 40+ data fields from 70+ countries in one API call.
@@ -14454,7 +14454,7 @@ The API is designed to deliver fresh data every 10 minutes, ensuring you always 
 - **[🔥 LinkedIn Jobs Scraper](https://apify.com/bebity/linkedin-jobs-scraper?fpr=p2hrc6)** - ℹ️ Designed for both personal and professional use, simply enter your desired job title and location to receive a tailored list of job opportunities. Try it today!
 - **[🔥 LinkedIn Jobs Scraper](https://apify.com/yka_6789/linkedin-jobs-scraper?fpr=p2hrc6)** - A fast, login-free LinkedIn job scraper built using the public LinkedIn API.
 This Actor allows job seekers, analysts, and automation users to collect fresh job listings with powerful filters and export them to CSV + JSON.
-- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations: 
+- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations:
 🔍 Key Features:
 Input multiple job titles (e.g. "Software Engineer", "Data Analyst")
 Input multiple locations (e.g. "London", "New York", "Berlin")
@@ -14506,7 +14506,7 @@ Whether you're an investor, founder, researcher, or developer, this tool helps y
 - **[Advanced LinkedIn Job Search API](https://apify.com/fantastic-jobs/advanced-linkedin-job-search-api?fpr=p2hrc6)** - Access our real-time LinkedIn Jobs database with over 10 million new jobs per month. With detailed company data, recruiter data, and AI enrichments! Get exact results with our advanced filters on title, description, location, company description, no. of employees, industry, seniority, and easyapply.
 - **[Advanced Wellfound Companies & Jobs Scraper](https://apify.com/saswave/advanced-wellfound-companies-jobs-scraper?fpr=p2hrc6)** - Wellfound job listing scraper. Runtime and consumption optimised. Extract job details and company details from a wellfound.com job search url. Collect companies data about: social network accounts, website, employee count, location, funding, total jobs and more
 - **[Adzuna Contact Extractor](https://apify.com/websift/adzuna-contact-extractor?fpr=p2hrc6)** - Boost your job data collection with the Adzuna Job Scraper Actor, a high-performance Apify actor designed to scrape job listings from Adzuna Australia. This powerful tool offers advanced filtering options, salary insights, and detailed contact information extraction.
-- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform 
+- **[Adzuna Job Scraper 🔍💼 - Rental](https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=p2hrc6)** - 💼 Easily collect job listings from Adzuna, biggest leading job search platform
 Just enter a job search URL to extract key details like job title, company, location, and description 🔍
 Seamlessly integrate with your tools for job aggregation, market analysis, or recruitment automation! ⚡📊
 - **[Affordable Linkedin Jobs Scraper by url (No cookies)](https://apify.com/sbzh/affordable-linkedin-jobs-scraper-by-url-no-cookies?fpr=p2hrc6)** - With this LinkedIn jobs scraper, get available LinkedIn jobs offers in real-time, including publishers information when available. Simply paste the URL of your LinkedIn search and the scraper will retrieve all the offers by browsing through the different pages. Very affordable LinkedIn jobs scraper.
@@ -14588,7 +14588,7 @@ The Buildabear Parser Spider extracts detailed product data from Build-A-Bear’
 - **[BuiltIn Jobs Scraper](https://apify.com/shahidirfan/builtin-jobs-scraper?fpr=p2hrc6)** - Extract tech job listings effortlessly with the BuiltIn Jobs Scraper. Designed for speed and efficiency, this lightweight actor parses job data accurately from BuiltIn. For optimal performance and to avoid IP bans, the use of residential proxies is highly recommended.
 - **[BuiltIn Jobs Scraper 🔍](https://apify.com/easyapi/builtin-jobs-scraper?fpr=p2hrc6)** - A powerful scraper for BuiltIn.com job listings that extracts comprehensive job data including company details, salaries, work types, and skill requirements. Perfect for job market analysis, recruitment research, and tracking employment trends in tech and startup sectors. 🔍💼
 - **[Builtin Jobs Scraper 🔍💼 - Cheap](https://apify.com/scrapestorm/builtin-jobs-scraper---cheap?fpr=p2hrc6)** - Easily gather job listing data from Builtin’s tech-focused job platform across the United States 💼 Just enter a search URL to retrieve key details like job title, company, salary, location & levelrequired skills 🔍 Seamlessly integrate with your tools to market analysis or job board automation! ⚡📊
-- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de. 
+- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de.
 
 Pulls jobs by keyword 🔎 and location 📍, returns employer details, dates, emails 📧 and phones 📱, and supports precise radius filtering 📏
 
@@ -14647,11 +14647,11 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 
 Enter a keyword & extract relevant Crunchbase Company, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
-- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub 
+- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub
 
 Enter a keyword & extract relevant Crunchbase Hub, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
-- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture 
+- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture
 
 Enter a keyword & extract relevant Crunchbase Venture, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
@@ -14833,7 +14833,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Guru Jobs Freelancer Scraper](https://apify.com/getdataforme/guru-jobs-scraper?fpr=p2hrc6)** - Scrape the freelancers profile of Guru Jobs
 - **[Hacker News Intelligence - Tech Jobs Startups Trends API](https://apify.com/benthepythondev/hacker-news-intelligence?fpr=p2hrc6)** - Extract trending tech stories, job postings, startup launches (Show HN), discussions (Ask HN) from Hacker News with AI engagement scoring (0-100). Monitor tech trends, recruit developers, discover startups. Filter by score, comments, time, keywords.
 - **[Hackernews Job Scraper](https://apify.com/kutaui/hackernews-job-scraper?fpr=p2hrc6)** - Automatically scrapes and extracts structured job listings from Hacker News 'Who is hiring?' monthly posts. Uses Algolia search to find recent posts, fetches job comments from the Hacker News API, and leverages OpenAI to parse unstructured job postings into structured data.
-- **[HeadHunter Russia Job Scraper 💼 hh.ru 🇷🇺 - Cheap](https://apify.com/scrapestorm/headhunter-russia-job-scraper-hh-ru---cheap?fpr=p2hrc6)** - HeadHunter Jobs Scraper 🎯💼 lets you extract job data from hh.ru: titles, companies, salaries, locations, experience & more. Ideal for job market analysis, recruitment insights & trend tracking in Russia 
+- **[HeadHunter Russia Job Scraper 💼 hh.ru 🇷🇺 - Cheap](https://apify.com/scrapestorm/headhunter-russia-job-scraper-hh-ru---cheap?fpr=p2hrc6)** - HeadHunter Jobs Scraper 🎯💼 lets you extract job data from hh.ru: titles, companies, salaries, locations, experience & more. Ideal for job market analysis, recruitment insights & trend tracking in Russia
 Ideal for analyzing Russian job market trends or enriching your talent acquisition pipeline
 - **[Healthecareers Jobs Scraper](https://apify.com/shahidirfan/healthecareers-job-scraper?fpr=p2hrc6)** - Introducing the Healthecareers Jobs Scraper, a lightweight actor for efficiently scraping job listings from Healthecareers. Fast and simple. For best results and reliable data extraction, the use of residential proxies is strongly advised. Get the healthcare job data you need!
 - **[Hellobello Reviews Spider](https://apify.com/getdataforme/hellobello-reviews-spider?fpr=p2hrc6)** - The Hellobello Reviews Spider is an Apify Actor that scrapes customer reviews from Hellobello.com product pages. Extract ratings, titles, content, and author details in structured JSON. Perfect for sentiment analysis, market research, or e-commerce insights. Fast, reliable, and easy to use.
@@ -14943,11 +14943,11 @@ Perfect for job market research, recruitment, competitor analysis, and data enri
 
 This scraper extracts job listings from hk.jobsdb, pulling key information such as:
 
-- `company_name`  
-- `job_title`  
-- `salary`  
-- `work_type`  
-- `job_description`  
+- `company_name`
+- `job_title`
+- `salary`
+- `work_type`
+- `job_description`
 - `job_responsibilities`
 - **[Jobsdb.com Scraper](https://apify.com/lexis-solutions/jobsdb?fpr=p2hrc6)** - Scrape job listings from JobsDB - including titles, companies, locations, salaries, and requirements. Ideal for building job boards, market analysis, and trend tracking. Fast, structured, and customizable extraction from a leading Asia job portal.
 - **[JobServe > Pay Per Result](https://apify.com/fetchclub/jobserve-pay-per-result?fpr=p2hrc6)** - Actively Maintained - Jobs Scraper to extract job listings using keywords and filters from jobserve.com, gathering all details for each role. Works for all countries. Export results for analysis, connect via API or Python & integrate with other apps. Save hours searching.
@@ -15143,7 +15143,7 @@ Perfect for market research, B2B lead generation, competitor analysis, product d
 - **[Naukri Job Scraper](https://apify.com/louisdeconinck/naukri-job-scraper?fpr=p2hrc6)** - Unlock the power of Naukri.com with our advanced web scraper! Effortlessly extract comprehensive job listings, including titles, descriptions, and company details. Enjoy real-time data, structured JSON output, and flexible search options. Scale your job search with ease and speed. Try it now!
 - **[Naukri Job Scraper](https://apify.com/techupservices/naukri-job-scraper?fpr=p2hrc6)** - A fast, reliable Naukri job scraper powered by Playwright + Crawlee + Apify. Extracts job listings & full job-details, supports keyword + location + experience filters, sorting, and optional application-type detection (Apply on Naukri vs Apply on Company Site).
 - **[Naukri Job Scraper (Latest)](https://apify.com/codemaverick/naukri-job-scraper-latest?fpr=p2hrc6)** - A powerful job scraping tool that automatically collects latest listings from Naukri.com. It gathers job titles, salaries, company details, and skill requirements, delivering clean, organized data. Perfect for recruiters, HR teams, and job seekers who need up-to-date market insights.
-- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets, 
+- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets,
 experience ranges, locations, skills, and apply links—ready for analytics pipelines.
 - **[Naukri Jobs Scraper](https://apify.com/easyapi/naukri-jobs-scraper?fpr=p2hrc6)** - Extract detailed job listings from Naukri.com with this powerful scraper. Collect comprehensive job information including titles, salaries, company details, and full descriptions. Perfect for recruitment analysis, market research, and job market monitoring.
 - **[Naukri Jobs Scraper](https://apify.com/infinity_and_beyond/naukri-jobs-scraper?fpr=p2hrc6)** - Scrape structured job listings from Naukri.com with keyword and location filters. Collect job title, company, description, location, and job URL in clean format. Built-in retries, rate-limit handling, and polite delays ensure reliable scraping for recruitment and analytics workflows.
@@ -15329,7 +15329,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Upwork Auto Applier](https://apify.com/philberhane/upwork-auto-applier?fpr=p2hrc6)** - Automatically apply to multiple Upwork jobs with customized cover letters and intelligent preferences.
 - **[Upwork Details Scraper](https://apify.com/corpusculus/upwork-details-scraper?fpr=p2hrc6)** - Search for jobs on upwork.
 - **[Upwork Extractor](https://apify.com/jupri/upwork?fpr=p2hrc6)** - 💫 Scrape Upwork.com Jobs
-- **[Upwork Job Extractor](https://apify.com/ninz/upwork-job-extractor?fpr=p2hrc6)** - This actor searches Upwork for jobs based on your keywords and returns a list of matching job postings with details like title, type, price, and experience level. 
+- **[Upwork Job Extractor](https://apify.com/ninz/upwork-job-extractor?fpr=p2hrc6)** - This actor searches Upwork for jobs based on your keywords and returns a list of matching job postings with details like title, type, price, and experience level.
 Please let me know if any extra features are needed or improvement
 - **[Upwork Job Extractor ⚡](https://apify.com/flash_mage/upwork?fpr=p2hrc6)** - upwork job extractor ⚡| 0.001 | fast, cheap, cost-effective, reliable, up-to-date, and highly stable data scraping service, optimized for long-term use with the fastest crawling speeds, low container usage, and  pricing to boost your upwork job scraper performance!
 - **[Upwork Job Finder](https://apify.com/nahom.network/upwork-job-finder?fpr=p2hrc6)** - Scrapes job listings from Upwork based on a search query. Returns job title, link, description, type, experience level, and duration. Useful for freelancers to track new opportunities matching their skills.
@@ -15338,7 +15338,7 @@ Please let me know if any extra features are needed or improvement
 - **[Upwork Job Scraper](https://apify.com/matthewjames/upwork-job-scraper?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
 - **[Upwork Job Scraper](https://apify.com/getdataforme/upwork-actor?fpr=p2hrc6)** - Effortlessly scrape Upwork jobs and receive instant alerts when new jobs matching your profile and skills are posted in upwork.
 - **[Upwork Job Scraper (Pay Per Result)](https://apify.com/matthewjames/upwork-job-scraper-pay-per-result?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
-- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required. 
+- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required.
 upwork@vistorio.online
 - **[Upwork Job Scraper Realtime Data ($1.5 / 1K Jobs)](https://apify.com/upfindr/live-upwork-job-scraper?fpr=p2hrc6)** - Get structured Upwork job data in real time through an API. Extract titles, descriptions, budgets, skills, categories, and client details. Designed for recruiters, agencies, SaaS platforms, and market research teams that need reliable, up-to-date job insights.
 - **[Upwork Job Scraper🔥](https://apify.com/nec/upwork-job-scraper?fpr=p2hrc6)** - Streamline your Upwork.com job search
@@ -15361,7 +15361,7 @@ upwork@vistorio.online
 - **[Viewstats.com Search Results and Channel Details Scraper](https://apify.com/memo23/apify-viewstats-cheerio?fpr=p2hrc6)** - Unlock powerful insights from YouTube channels with the Viewstats Search Results and Channel Details Scraper. Get in-depth analytics, growth metrics, and channel comparisons effortlessly.
 - **[VK People Scraper 🔍 (вконтакте)](https://apify.com/scrapestorm/vk-people-scraper-vkontakte?fpr=p2hrc6)** - Scrape VK profiles based on a specific keyword 🔑 to discover targeted users. Filter by gender 👩 & retrieve valuable data like profile names 🧑‍🤝‍🧑 location 🌍 and education 🎓. Boost your marketing research with VK data🚀 Perfect for analyzing VK аудитория. Извлечение профилей по ключевому слову
 - **[We Work Remotely Jobs Scraper](https://apify.com/orgupdate/we-work-remotely-jobs-scraper?fpr=p2hrc6)** - The latest and most advanced We Work Remotely Jobs Scraper. Our We Work Remotely Jobs Scraper extracts real-time job postings at scale from all over the world. A new research tool built for recruitment, insights and HR.
-- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.  
+- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.
 Downloadable in JSON/CSV via API with clean table views.
 - **[We Work Remotely Scraper](https://apify.com/piotrv1001/we-work-remotely-scraper?fpr=p2hrc6)** - The We Work Remotely Scraper extracts job listings from search URLs, capturing job titles, company names, logos, categories, and direct links—ideal for remote job tracking and market analysis.
 - **[Web Scraper Pro](https://apify.com/autonova/web-scraper-pro?fpr=p2hrc6)**
@@ -15449,7 +15449,7 @@ Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enrich
 - **[⚡Linkedin Jobs Scraper with Company Insights (No Cookies)](https://apify.com/microtrica/linkedin-jobs-scraper-with-company-insights?fpr=p2hrc6)** - Scrape LinkedIn Jobs with detailed insights, including 💰 Pay Range, 🏢 Company Size, 🌐 Industries, 🔗 Website URL, and more, without using cookies.
 - **[⚡️Linkedin Profile Scraper ✅ No cookie ✅ $2 per 1k profiles](https://apify.com/dataweave/linkedin-profile-scraper?fpr=p2hrc6)** - Scrape unlimited LinkedIn profiles at the lowest price on the market. Extract complete work history, education, skills & certifications without account risk. Live data, 99% success rate, enterprise-grade speed.
 - **[⚡️Rapid Linkedin Jobs Scraper | Free Jobs Scraper](https://apify.com/worldunboxer/rapid-linkedin-scraper?fpr=p2hrc6)** - Free LinkedIn job scraper tool to extract job listings, company details, and complete job information instantly. Scrape LinkedIn jobs by keywords, location, or company. Get structured data including titles, descriptions, salaries, requirements, and employer info. Fast, efficient job data extraction.
-- **[✅🔥Leads Finder-$1.5/1k Leads with Emails & Desc (Apollo Alt)](https://apify.com/amr-mando/lead-scraper?fpr=p2hrc6)** - $1.5/1000, with email & description (WITHOUT PAYING FOR DUPLICATES). 
+- **[✅🔥Leads Finder-$1.5/1k Leads with Emails & Desc (Apollo Alt)](https://apify.com/amr-mando/lead-scraper?fpr=p2hrc6)** - $1.5/1000, with email & description (WITHOUT PAYING FOR DUPLICATES).
 New Scraper, so give it a try and let us know if you have any issues, looking forward your replies
 🔎 Full transparency, we show the actor URL visits & scrape source.
 🍪Cookies are required of the B2B platform tab for this scraper
@@ -15479,7 +15479,7 @@ New Scraper, so give it a try and let us know if you have any issues, looking fo
 - **[🎯 Real Estate Lead Generator + Market Analysis | Zonaprop](https://apify.com/expanditumarca/real-estate-lead-generator-market-analysis-zonaprop?fpr=p2hrc6)** - 🚀 3-in-1: Leads + Property Data + Market Analysis with this exclusive Real Estate system | 3-en-1: Leads + Datos + Análisis con este sistema inmobiliario exclusivo | ONLY complete tool
 - **[🎯 Shine.com Jobs Scraper](https://apify.com/easyapi/shine-com-jobs-scraper?fpr=p2hrc6)** - Extract detailed job listings from Shine.com with this powerful scraper. Collect comprehensive job data including titles, company details, locations, and recruiter contact information. Perfect for job market analysis, recruitment research, and competitive intelligence. 🎯
 - **[🏆 Multi-Source Dubai Property Crawler](https://apify.com/n.nobar/multi-source-dubai-property-crawler?fpr=p2hrc6)** - This multi-source crawler equips real estate agents with a competitive advantage. Instantly access and analyze a comprehensive, live database of Dubai residential properties from multiple top portals, enabling you to identify trends, value properties, and secure the best leads before the competition
-- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API. 
+- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API.
 
 Just paste properties URLs and get your data. Blazing speed, affordable pricing, and effortless insights await. Start today and supercharge your workflow! ⚡
 - **[🏘️immobilienscout24.de search results scraper (By search URL)](https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=p2hrc6)** - 🔥 #1 Fastest & cheapest immobilienscout24.de search results pages scraper across the internet! Scrape and monitor search results for new or delisted ads, easily exportable to JSON, CSV, Excel, or as an API... Simply enter the search page URL and get your data! Blazing fast & affordable ⚡
@@ -15567,14 +15567,14 @@ The API is designed to deliver fresh data every 10 minutes, ensuring you always 
 Get comprehensive profiles of individuals and companies based on your keywords and filters.
 Unleash the power of data! 🌐🔍
 - **[🔥 Linkedin Job Scraper](https://apify.com/bhansalisoft/linkedin-job-search-api?fpr=p2hrc6)** - Scrape LinkedIn job listings with ease. Extract job titles, companies, locations, and more in real-time. Automate job data collection for recruiting, analysis, or lead generation.
-- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations: 
+- **[🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!](https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=p2hrc6)** - This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations:
 🔍 Key Features:
 Input multiple job titles (e.g. "Software Engineer", "Data Analyst")
 Input multiple locations (e.g. "London", "New York", "Berlin")
 Filters by work type: On-site, Remote, Hybrid
 - **[🔥 Linkedin Profile Scraper [Cheapst+ Fastest]](https://apify.com/scraper-engine/linkedin-profile-scraper-cheapst-fastest?fpr=p2hrc6)** - LinkedIn Profile Scraper extracts public profile data at scale, including names, headlines, experiences, skills, education, and connections. Perfect for lead generation, recruitment, and market research. Get structured, reliable LinkedIn data quickly with customizable scraping options.
 - **[🔥 Smart Email Finder & Verifier | CSV Support](https://apify.com/clearpath/email-finder-api?fpr=p2hrc6)** - Find 100% verified emails using intelligent pattern discovery. Input name + domain, get validated professional emails. Tests up to 10 patterns, stops on first match (80% credit savings). Bulk CSV support. Perfect for sales outreach & recruiting.
-- **[🔥 Trustpilot reviews scraper](https://apify.com/nikita-sviridenko/trustpilot-reviews-scraper?fpr=p2hrc6)** - ✅ FREE to use ✅ 
+- **[🔥 Trustpilot reviews scraper](https://apify.com/nikita-sviridenko/trustpilot-reviews-scraper?fpr=p2hrc6)** - ✅ FREE to use ✅
 Easily filter and extract thousands of reviews with data such as title, description, score, reviewer, country, company response, and much more from companies on Trustpilot.com and download them to multiple file formats.
 - **[🔥 Unlimited SocialBlade YouTube API](https://apify.com/wantweg/socialblade-youtube-api?fpr=p2hrc6)** - Easily get daily, weekly, or monthly historical subscriber, view and video counts for YouTube channels. Combined with comprehensive channel metadata, including social media (Instagram, TikTok, X (Twitter)) usernames, ranking, content category and country. Blazing fast and unlimited API!
 - **[🔥 Upwork Jobs Scraper](https://apify.com/kobimantzur/upwork-jobs-scraper?fpr=p2hrc6)** - Designed for both personal and professional use, simply enter your desired job title or keyword to receive a tailored list of job opportunities and how much much money you'll get for them. Try it today!
@@ -16053,7 +16053,7 @@ Bringfido Url search can be from category: Hotels, Restaurants, Activities, Even
 - **[BuiltWith Scraper -  Bulk Domain Analysis API](https://apify.com/datavoyantlab/builtwith-bulk-scraper?fpr=p2hrc6)** - BuiltWith scraper for bulk technology stack analysis. Extract CMS, frameworks, analytics, CDN, and payment processors from 1000+ domains. Perfect for competitor intelligence, market research, and lead generation.
 - **[Bulk BBB](https://apify.com/canadesk/bulk-bbb?fpr=p2hrc6)** - Get Company reviews and complaints from Better Business Bureau (BBB) in bulk. It's fast and costs little!
 - **[Bulk company domain finder](https://apify.com/unlimitedleadtestinbox/domainapify?fpr=p2hrc6)** - Find company domain url from company name with our company domain finder with bulk or individual search.
-- **[Bulk Decision makers Email finder📧 💲$0.8/1K Emails, cheap.](https://apify.com/snipercoder/bulk-decision-makers-email-finder?fpr=p2hrc6)** - |Input: Domain|  |Output: Name, Email, Title, Company, etc of Decision makers In Bulk.| Perfect for Lead Generation, Email campaigns, and Data Enrichment. 
+- **[Bulk Decision makers Email finder📧 💲$0.8/1K Emails, cheap.](https://apify.com/snipercoder/bulk-decision-makers-email-finder?fpr=p2hrc6)** - |Input: Domain|  |Output: Name, Email, Title, Company, etc of Decision makers In Bulk.| Perfect for Lead Generation, Email campaigns, and Data Enrichment.
 ✅Forget AnymailFinder, apollo.io, hunter.io, they are all to break the Bank.
 - **[Bulk email finder](https://apify.com/unlimited-leads/bulkemailfinder?fpr=p2hrc6)** - Bulk email finder powered by UnlimitedLeads. Upload a list of prospects (up to 500) with their first name, last name and company domain to find their professional email addresses. Supports CSV. Returns verified emails. Perfect for sales teams and recruiters.
 - **[Bulk Email Finder](https://apify.com/icypeas_official/bulk-email-finder?fpr=p2hrc6)** - Bulk email finder powered by Icypeas API.
@@ -16082,7 +16082,7 @@ Quick and reliable email validation for AI tools, MCP servers, and budget-consci
 
 Enter your search parameters to collect verified contact emails from Bumble profiles, along with profile title, bio, source URL & platform info 📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
-- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de. 
+- **[Bundesagentur für Arbeit ($2.00/1k) - 🇩🇪 Arbeitsagentur](https://apify.com/signalflow/arbeitsagentur-scraper?fpr=p2hrc6)** - Arbeitsagentur Scraper 🇩🇪 – extracts public job listings from Arbeitsagentur.de.
 
 Pulls jobs by keyword 🔎 and location 📍, returns employer details, dates, emails 📧 and phones 📱, and supports precise radius filtering 📏
 
@@ -16253,7 +16253,7 @@ Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enrich
 
 Enter your search parameters to collect verified contact emails from Crunchbase profiles, along with profile title, bio, source URL & platform info 📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
-- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub 
+- **[Crunchbase Hub Scraper -  Cheap 💼🌐](https://apify.com/contactminerlabs/my-actor-4?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Hub
 
 Enter a keyword & extract relevant Crunchbase Hub, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
@@ -16264,7 +16264,7 @@ Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enrich
 Before each run, we test previous session cookies generated from last run. If still valid, they are returned, else we generate new cookies
 - **[Crunchbase Unlimited Export – No Pro Login Needed](https://apify.com/davidsharadbhatt/crunchbase-scraper-company-search-results?fpr=p2hrc6)** - This will give comprehensive data of Crunchbase companies containing over 100+ data points per company, such as URL, name, description, website, location, founders, Number of employees, industries, funding details, Top investors, funding history
 social urls, contact email, phone and more..
-- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture 
+- **[Crunchbase Venture Scraper 💼🌐 - Cheap](https://apify.com/contactminerlabs/crunchbase-venture-scraper---cheap?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Crunchbase Venture
 
 Enter a keyword & extract relevant Crunchbase Venture, including full name, headline, company, bio & URL 📊
 Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools
@@ -16640,7 +16640,7 @@ Perfect for content research, trend analysis, dataset creation, and enriching yo
 - **[Facebook Page Posts Scraper](https://apify.com/scraper-engine/facebook-page-posts-scraper?fpr=p2hrc6)** - Scrape Facebook page posts with text, images, reactions, comments, and timestamps. Ideal for research, analytics, content tracking, and competitor insights with clean structured output.
 - **[Facebook Page Posts Scraper](https://apify.com/scrapio/facebook-page-posts-scraper?fpr=p2hrc6)** - Extract posts from any public Facebook page, including captions, media links, engagement metrics, and posting dates. Perfect for marketers, analysts, and researchers.
 - **[Facebook Page Posts Scraper](https://apify.com/api-empire/facebook-page-posts-scraper?fpr=p2hrc6)** - Collect Facebook page posts at scale. Get post text, images, reactions, shares, and comment counts. Great for monitoring brand activity, trends, and audience engagement
-- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page. 
+- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page.
 Collect informations at scale about: phone, email, page id, name, description, industry category, likes, followers, followings, ratings, website, social network links
 - **[Facebook Page Search Results Scraper](https://apify.com/memo23/apify-facebook-page-search-scraper?fpr=p2hrc6)** - Scrape facebook pages from search results and get important details such as page name, description, photo url, is verified, tag or category, reviews, price range, location, hours open, number of followers and page link.
 - **[Facebook Page Search Results with Details(About Tab) Scraper](https://apify.com/memo23/facebook-pages-and-contacts-scraper?fpr=p2hrc6)** - This actor allows you to scrape Facebook pages from search results and retrieve important details such as page name, description, photo URL, verification status, tags or categories, reviews, price range, location, hours of operation, number of followers, page slug, and page link.
@@ -16685,7 +16685,7 @@ Perfect for lead generation and contact enrichment in tools like Google Sheetsor
 - **[Facebook Posts Search](https://apify.com/scraper_one/facebook-posts-search?fpr=p2hrc6)** - ✨ Search for Facebook posts using keywords or hashtags. Retrieve post URLs, content, publication dates, author details, and engagement metrics. Ideal for monitoring brand mentions on Facebook over time.
 - **[Facebook Profile Email Scraper](https://apify.com/scraper-mind/facebook-profile-email-scraper?fpr=p2hrc6)** - Generate targeted B2B & B2C leads instantly with the Facebook Profile Email Scraper🔍📧. Extract real emails, profile data, and niche contacts by keyword and country. Fast, accurate, and perfect for outreach, marketing, and growth. 🚀
 - **[Facebook Profile Poster](https://apify.com/bhansalisoft/facebook-profile-poster?fpr=p2hrc6)** - Facebook Profile Poster- Auto post to  your facebook profile home feed.  Boost your Facebook marketing with ourFacebook Profile Poster Tool. Easily schedule, auto-post, and manage content across multiple pages. Save time and grow your reach.
-- **[Facebook Profile Scraper](https://apify.com/lazyscraper/facebook-profile-scraper?fpr=p2hrc6)** - This tool efficiently extracts public profile data from specified Facebook accounts, including: 
+- **[Facebook Profile Scraper](https://apify.com/lazyscraper/facebook-profile-scraper?fpr=p2hrc6)** - This tool efficiently extracts public profile data from specified Facebook accounts, including:
 Email addresses (if publicly listed) 、Bio、User ID、Profile URL.
 Key Advantage: For public profiles, it delivers accurate follower/fan counts – a critical metric most competitors fail to provide reliably.
 - **[Facebook Profile Scraper – Cheap & Fast 📸🔍✨](https://apify.com/contactminerlabs/facebook-profile-scraper---cheap-fast?fpr=p2hrc6)** - 🔍 Scrape Facebook Profiles Instantly
@@ -16741,7 +16741,7 @@ Perfect for content research, trend analysis, dataset creation & enriching your 
 - **[Faire Brand Scraper](https://apify.com/saswave/faire-brand-scraper?fpr=p2hrc6)** - Faire.com scraper. Extract brands information listing and similar brands. Provide lists of brands urls to monitor. Stay updated on your competition. Get data about social accounts, product count, business VAT, country, minimum order amount, is selling on amazon, discounts and more
 - **[Faire Product Scraper](https://apify.com/saswave/faire-product-scraper?fpr=p2hrc6)** - $1.75 / results. Extract product item data from brand or direct url in website faire.com Collect informations at scale. About item, brand, price, GTIN, SKU, attributes, description and more
 - **[Fake Followers Checker](https://apify.com/datadoping/fake-followers-checker?fpr=p2hrc6)** - For $1.5 per 1000 Profiles. Note: This actor is designed to analyze profiles of influencers and large public pages. It does not support all accounts, particularly private profiles or those not present in the public dataset.
-- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields. 
+- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields.
 Very good for lead generation to find new models for your agency.
 - **[Fansly Full Profile Scraper](https://apify.com/powerai/fansly-full-profile-scraper?fpr=p2hrc6)** - Extract complete profile information from Fansly creators by providing their usernames, including subscription tiers, statistics, and media content details.
 - **[Fansly Profile Scraper](https://apify.com/iskander/fansly-profile-scraper?fpr=p2hrc6)** - Super fast Fansly.com  profile scraper, no account required
@@ -16749,7 +16749,7 @@ Very good for lead generation to find new models for your agency.
 - **[Fansly Search Scraper](https://apify.com/powerai/fansly-search-scraper?fpr=p2hrc6)** - Search and discover Fansly creators by keyword, automatically extracting account information including profiles, statistics, and subscription details.
 - **[Fast & Cheap Funda.nl Scraper | $0.75 / 1K | (Richest output)](https://apify.com/memo23/funda-scraper?fpr=p2hrc6)** - The Funda.nl Scraper is a comprehensive and reliable tool for extracting real estate data. With its advanced customization, retry mechanisms, and detailed output, it simplifies the data collection process and provides actionable insights for real estate professionals, investors, and researchers.
 - **[Fast Bulk Email and Social Links Finder / Extractor](https://apify.com/xmiso_scrapers/fast-bulk-email-and-social-links-finder-extractor?fpr=p2hrc6)** - Scrape emails and social links from domains/websites list at blazing speed up to 1000 urls per minute.
-- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder  
+- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder
 Instantly Scrape ⚡public emails for any company domain 🌐 or using first name, last name 👤, and domain. Perfect for cold email outreach 📧 and lead generation 📈 — find high-converting leads 🚀, and scale your campaigns 🌡️ with direct inbox access.
 - **[Fast Facebook Pages Scraper](https://apify.com/oussemafr/fast-facebook-pages-scraper?fpr=p2hrc6)** - Use this fast and reliable unofficial Facebook API to efficiently scrape detailed Facebook page information. Extract valuable data such as page names, URLs, contact details, addresses, likes, and followers. Perfect for competitive analysis, market research, trend monitoring and social media analysis
 - **[Fast Google News Scraper](https://apify.com/aymorato/fast-google-news-scraper?fpr=p2hrc6)** - Extract details from Google News articles, such as images, titles, links, and other relevant information.
@@ -16788,7 +16788,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Findajob.dwp.gov.uk Scraper](https://apify.com/lexis-solutions/findajob-dwp-gov-uk-scraper?fpr=p2hrc6)** - Scrape job listings from the UK Government’s FindAJob portal—collect titles, companies, locations, employment types, salaries, and posting dates. Ideal for job aggregation, labor market research, recruitment intelligence, and competitive monitoring. Fast, reliable, customizable.
 - **[FindLaw Scraper](https://apify.com/jungle_synthesizer/findlaw-scraper?fpr=p2hrc6)** - Scrape attorney and law firm data from FindLaw Lawyer Directory to generate high-quality, targeted legal industry leads
 - **[Finnish Business Finder Scraper](https://apify.com/agenscrape/finnish-business-finder-scraper?fpr=p2hrc6)** - Extract comprehensive business data from Finder.fi, Finland's leading business directory. Get contact details, location information, and social media profiles for Finnish companies.
-- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies. 
+- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies.
 Finstat scraper na sťahovanie info o slovenských firmách podľa IČO.
 - **[Firmy Scraper 2.0](https://apify.com/jupri/firmy?fpr=p2hrc6)** - 💼 Scrape Firmy.cz Business data
 - **[Firmy Search Scraper](https://apify.com/powerai/firmy-search-scraper?fpr=p2hrc6)** - Scrape business listings from Firmy.cz with automatic pagination and comprehensive company data extraction including contact information, ratings, and location details.
@@ -16824,7 +16824,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 Just provide a domain name, and our intelligent actor delivers comprehensive location data - perfect for sales teams, market researchers, and data analysts.
 - **[Free EAN-to-bol.com product id Converter](https://apify.com/s-r/free-ean-to-bol-com-product-id-converter?fpr=p2hrc6)** - The AI-powered matching engine that connects bol.com products
   with their universal barcodes. Seamlessly translates between bol.com  product ids and EAN/UPC barcodes, keeping your inventory perfectly aligned across every sales channel.
-- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs. 
+- **[Free Email Domain Scraper - Extract Emails From Any Website](https://apify.com/s-r/free-email-domain-scraper?fpr=p2hrc6)** - Extract Emails From Any Website. No monthly costs.
 
 Contact discovery, employing a two-pass search strategy, advanced filtering (remove generic and malformed emails), user-agent rotation, and configurable limits per domain. Ideal for lead generation and market research.
 - **[Free Google Maps Scraper - Low-cost & Extensive](https://apify.com/blueorion/free-google-maps-scraper-extensive?fpr=p2hrc6)** - Reliable Actor to Extract Google Maps data using Free Credit or $3 per 1000 results. Extensive Data Outputs include `addresses`, `coordinates`, `reviews`, `menus`, `opening hours`, `gas station info`, `EV charging station info`, `tours and activities`, `admission and tickets`, and `hotel deals`
@@ -16834,7 +16834,7 @@ Contact discovery, employing a two-pass search strategy, advanced filtering (rem
 - **[Freelancer Jobs Search Actor](https://apify.com/hello.datawizards/freelancer-jobs-search-actor?fpr=p2hrc6)** - The Freelancer Jobs Search Actor scrapes job listings from Freelancer.com, delivering structured JSON data with titles, descriptions, tags, prices, and more. Ideal for job market analysis and opportunity tracking, it supports custom queries and Apify Proxy for reliable, scalable scraping.
 - **[Freelancermap](https://apify.com/andinfinity/freelancermap?fpr=p2hrc6)** - Freelancermap is a platform for freelancers to find projects and clients. This scraper allows you to extract project listings from the site.
 - **[Freelancermap.de Profile Scraper](https://apify.com/alkausari_mujahid/freelancermap-de-profile-scraper?fpr=p2hrc6)** - This scraper crawls freelancers profiles at scale; It extracts all details including basic profile data, contact info, skills, project history and certifications into clean JSON, CSV etc— fast, reliable, and production-ready. Perfect for lead lists, analytics, and integration into any workflow.
-- **[French Tech Startup Fundraising Newsletter Parser](https://apify.com/saswave/french-tech-startup-fundraising-newsletter-parser?fpr=p2hrc6)** - Aggregate multiple newsletter (Ecap Partners, Avolta ...) and Crunchbase to access latest fundraising data on french tech startup 
+- **[French Tech Startup Fundraising Newsletter Parser](https://apify.com/saswave/french-tech-startup-fundraising-newsletter-parser?fpr=p2hrc6)** - Aggregate multiple newsletter (Ecap Partners, Avolta ...) and Crunchbase to access latest fundraising data on french tech startup
 Leverage multiple sources; weekly and monthly newsletters
 - **[Fresh Linkedin Profile Data](https://apify.com/bestscrapers/fresh-linkedin-profile-data?fpr=p2hrc6)** - The **Fresh LinkedIn Profile Data Scraper** is a powerful tool designed to extract detailed profile information from public LinkedIn URLs — without the need for cookies or login.
 - **[Fresha Local Beauty & Wellness Leads Extractor](https://apify.com/lead.gen.labs/fresha-local-beauty-wellness-leads-extractor?fpr=p2hrc6)** - Extract top-rated beauty and wellness business leads from Fresha.com. This actor scrapes names, services, ratings, addresses, prices, and phone numbers — perfect for lead generation, outreach, or local business insights. Ideal for salons, spas, and beauty professionals.
@@ -17145,7 +17145,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 
 Enter your search parameters to collect verified contact emails from public Hashnode profiles, along with profile title, bio, source URL & platform info ✉️📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs⚡🧩
-- **[HeadHunter Russia Job Scraper 💼 hh.ru 🇷🇺 - Cheap](https://apify.com/scrapestorm/headhunter-russia-job-scraper-hh-ru---cheap?fpr=p2hrc6)** - HeadHunter Jobs Scraper 🎯💼 lets you extract job data from hh.ru: titles, companies, salaries, locations, experience & more. Ideal for job market analysis, recruitment insights & trend tracking in Russia 
+- **[HeadHunter Russia Job Scraper 💼 hh.ru 🇷🇺 - Cheap](https://apify.com/scrapestorm/headhunter-russia-job-scraper-hh-ru---cheap?fpr=p2hrc6)** - HeadHunter Jobs Scraper 🎯💼 lets you extract job data from hh.ru: titles, companies, salaries, locations, experience & more. Ideal for job market analysis, recruitment insights & trend tracking in Russia
 Ideal for analyzing Russian job market trends or enriching your talent acquisition pipeline
 - **[Healthgrades Scraper](https://apify.com/jaybird/healthgrades-scraper?fpr=p2hrc6)** - Extract detailed doctor listings from Healthgrades.com using Playwright and Crawlee. Supports specialty/location filtering, pagination, and proxy rotation. Ideal for healthcare marketing, lead generation, and physician data enrichment.
 - **[HealthGrades Scraper | $4 /  1k | US Doctors & Hospitals](https://apify.com/fatihtahta/healthgrades-scraper?fpr=p2hrc6)** - Get US Healthcare provider and facility listings from HealthGrades including doctors, hospitals, group practices and pharmacies. Capture specialties, ratings, review counts, addresses, phone numbers, biographies, and more. ideal for mapping, market research, and outreach. $4 / 1,000 listings.
@@ -17226,7 +17226,7 @@ Ensure your email campaigns render perfectly everywhere before hitting send. Thi
 - **[Immobiliensuche Pro](https://apify.com/barrierefix/immobiliensuche-pro?fpr=p2hrc6)** - Professioneller Immobilien-Aggregator für deutsche Portale mit blitzschneller Standortauflösung
 
 Extrahiert Anzeigen von ImmobilienScout24 & Immowelt mit 100% Abdeckung aller deutschen Städte. Perfekt für Immobilienprofis, Investoren und Marktanalysten.
-- **[immobilier.notaires.fr scraper](https://apify.com/saswave/immobilier-notaires-fr-scraper?fpr=p2hrc6)** - Immobilier notaires FR scraper. 
+- **[immobilier.notaires.fr scraper](https://apify.com/saswave/immobilier-notaires-fr-scraper?fpr=p2hrc6)** - Immobilier notaires FR scraper.
 Trouver les informations du bien en vente ainsi que les informations de l'office notarial.
 Ainsi que l'equipe de notaire (avec email et téléphone)
 - **[Immoweb Scraper](https://apify.com/ivanvs/immoweb-scraper?fpr=p2hrc6)** - Extract data from immoweb.be for data on thousands of apartments and house listings. Scrape house location, extract descriptions, images, prices, contact number, addresses, names, and all other listing details. Unlimited and extremely fast!
@@ -17585,7 +17585,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
   and market research.
 - **[Kwai Profile Scraper](https://apify.com/luan.r.dev/kwai-profile-scraper?fpr=p2hrc6)** - KwaiScraper Profile
 
-Extract detailed data from public Kwai profiles with speed and accuracy. 
+Extract detailed data from public Kwai profiles with speed and accuracy.
 Perfect for influencer analysis, content tracking, or building data pipelines.
 
 Price:
@@ -17741,7 +17741,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Linkedin Event Scraper](https://apify.com/bhansalisoft/linkedin-event-scraper?fpr=p2hrc6)** - Linkedin Event Scraper : Scrape LinkedIn Events Easily with Our LinkedIn Event Scraper!
 Automatically extract LinkedIn events based on any search URL. Capture event names, dates, hosts, locations, and more in just seconds. Ideal for event marketers, networkers, sales teams, and data analysts.
 - **[Linkedin Events Partecipants Scraper](https://apify.com/giovannibiancia/linkedin-events-partecipants-scraper?fpr=p2hrc6)** - Automatically extracts all participants from LinkedIn events. Joins events, collects complete data (name, title, location) from all pages, then leaves. Perfect for lead generation, networking and market research. Supports multi-page and multi-language.
-- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city 
+- **[Linkedin Events Scraper](https://apify.com/payai/linkedin-events-scraper?fpr=p2hrc6)** - Linkedin Event Scraper source all events by city
 The scraper is configured for these 10 major US cities and many more:
 - New York
 - Los Angeles
@@ -17952,8 +17952,8 @@ This advanced scraper integrates with tools like Apollo, Hunter, Lusha etc. to e
 - **[Linkedin Sales Navigator Scraper ( Everything )](https://apify.com/muhammad_usama/apify-sales-navifgator?fpr=p2hrc6)** - This scraper can scrape anything from linkedin sales navigator. All it need is your linkedin sales navigator account cookies.
 - **[LinkedIn Sales Navigator Search Scraper](https://apify.com/noddsolutions/linkedin-sales-navigator-search-scraper?fpr=p2hrc6)** - Crawls sales navigator search results and extracts the available data for you to use for enriching your CRM amongst other things.
 Scrape Company or People data using this one tool.
-- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently. 
-Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers. 
+- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently.
+Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers.
 Customizable, automated, and easy to integrate.
 - **[Linkedin Scraper](https://apify.com/api_massta/linkedin-scraper?fpr=p2hrc6)** - Find the right jobs faster. Tired of LinkedIn’s slow UI and irrelevant listings? Our LinkedIn Job Scraper filters jobs using PUBLIC and PRIVATE scraping, unlocking premium insights and refining results by keywords, post date, and location—so you focus on the best opportunities, not the noise.
 - **[LinkedIn Scraper at Scale Without Cookie](https://apify.com/freshdata/fresh-linkedin-profile-data?fpr=p2hrc6)** - Get real-time LinkedIn profile data, including experience, education, current company and more.
@@ -18072,7 +18072,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Mercadolibre Email Scraper](https://apify.com/scraper-mind/mercadolibre-email-scraper?fpr=p2hrc6)** - The Mercadolibre Email Scraper lets you efficiently extract Mercadolibre email addresses from regional listings. Ideal for lead generation, market research, and targeted marketing campaigns, it supports keyword and location filtering, custom domains, and proxies for smooth data collection.
 - **[Mercadolibre Email Scraper – Advanced, Cheapest & Reliable 📧](https://apify.com/contactminerlabs/mercadolibre-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Mass/Bulk Mercadolibre Emails
 
-[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info 
+[Cheapest] Enter your search parameters to collect verified contact emails from Mercadolibre profiles, along with profile title, bio, URL & platform info
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
 - **[Mercadolibre Product Scraper](https://apify.com/saswave/mercadolibre-product-scraper?fpr=p2hrc6)** - $0.5 / 1000 results , no proxies needed. Fast and reliable scraper for MercadoLibre product pages and search results. Support all domains. Perfect for competitive analysis, price monitoring, e-commerce intelligence, catalog enrichment, and high-volume data extraction.
 - **[Mercadolibre Reviews Scraper](https://apify.com/saswave/mercadolibre-reviews-scraper?fpr=p2hrc6)** - $0.6 / 1000 results, no proxies needed. A fast and reliable scraper that extracts customer reviews from any MercadoLibre website domain name. Get title, content, rating, date, information about reviews
@@ -18082,7 +18082,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper?fpr=p2hrc6)** - Simple web scraper for extracting exhibitor data from Messe Frankfurt trade show exhibitor lists. Extract company details using this scraping tool for B2B lead generation, event networking, and market research. Supports multiple Messe Frankfurt trade fair websites with a consistent HTML structure.
 - **[Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper?fpr=p2hrc6)** - Simple web scraper for extracting exhibitor data from Messe Muenchen trade show exhibitor lists. Extract company details using this scraping tool for B2B lead generation, event networking, and market research. Supports multiple Messe Muenchen trade fair websites with a consistent HTML structure.
 - **[Messe Stuttgart Exhibitor List Scraper](https://apify.com/skython/messe-stuttgart-exhibitor-list-scraper?fpr=p2hrc6)** - Simple web scraper for extracting exhibitor data from Messe Stuttgart trade show exhibitor lists. Extract company details using this scraping tool for B2B lead generation, event networking, and market research. Supports multiple Messe Stuttgart trade fair websites with a consistent HTML structure.
-- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need. 
+- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need.
 
 Get detailed ad information including title, description, images, videos, CTA, Social platform and metadata
 - **[Meta Ad Scraper](https://apify.com/hello.datawizards/facebook-ad-scraper?fpr=p2hrc6)** - Meta Ad Scraper is an Apify Actor that extracts detailed ad data from the Meta (Facebook) Ad Library, including titles, creatives, CTAs, and advertiser info. Ideal for marketing analytics, ad intelligence, and competitor research with full proxy support and clean JSON output.
@@ -18096,8 +18096,8 @@ Get detailed ad information including title, description, images, videos, CTA, S
 - **[Mobile.de Reviews Scraper](https://apify.com/lexis-solutions/mobile-de-reviews-scraper?fpr=p2hrc6)** - Collect comprehensive reviews of auto sellers from Mobile.de for in-depth market analysis and competitor insights. | Sammeln Sie umfassende Bewertungen von Autoverkäufern auf Mobile.de für eine gründliche Marktanalyse und Wettbewerbsinformationen.
 - **[Mobile.de Scraper](https://apify.com/ivanvs/mobile-de-scraper?fpr=p2hrc6)** - Extract data from mobile.de for data on thousands of car listings. Scrape car listings, extract descriptions, images, prices, mileage, contact number, addresses, names, engine information, the transmission of the car, and all other listing details.
 - **[Mobile.de Scraper](https://apify.com/real_spidery/mobile-de-scraper?fpr=p2hrc6)** - [Contact for replacement solution] Mobile.de is the leading classifieds platform for motors/cars/vehicles in Germany and Europe. Mobile.de Scraper is specially made for millions motors/cars/vehicles in EU. Custom solution is available, just drop us an email!
-- **[Mon compte formation scraper](https://apify.com/saswave/mon-compte-formation-scraper?fpr=p2hrc6)** - moncompteformation.gouv.fr scraper. 
-Récupérer et extraire les informations des entreprises de formation dans une recherche sur le site Mon Compte Formation Gouv FR. 
+- **[Mon compte formation scraper](https://apify.com/saswave/mon-compte-formation-scraper?fpr=p2hrc6)** - moncompteformation.gouv.fr scraper.
+Récupérer et extraire les informations des entreprises de formation dans une recherche sur le site Mon Compte Formation Gouv FR.
 Information trouvé: prix, nom entreprise, raison social, siret siren, emails, telephones, site internet et plus encore
 - **[Monday Marketplace Scraper](https://apify.com/needy_hammock/monday-marketplace-scraper?fpr=p2hrc6)** - Extract comprehensive data from the Monday.com marketplace including app details, pricing, reviews, ratings, and installation counts. Scrape multiple categories for market research, competitive analysis, or app development insights.
 - **[Monster | Search | Details | Scraper (PPE) (Richest Output)](https://apify.com/memo23/monster-scraper?fpr=p2hrc6)** - Collects Monster.com job data including IDs, titles, company metadata, salary ranges, employment types, posting dates, HTML descriptions, normalized locations, and apply URLs for recruitment analytics.
@@ -18131,7 +18131,7 @@ Information trouvé: prix, nom entreprise, raison social, siret siren, emails, t
 - **[NAR Directory Member Scraper](https://apify.com/scraped/nar-directory-member-scraper?fpr=p2hrc6)** - Scrape profile details of specific agents from the NAR directory.
 - **[Naukri Job Scraper](https://apify.com/muhammetakkurtt/naukri-job-scraper?fpr=p2hrc6)** - Naukri Job Scraper is an actor that automatically scrapes job postings from Naukri.com. It scrapes details such as job title, company name, experience and salary based on the specified keyword and maximum number of jobs. The collected data can be used for recruitment analysis and market research.
 - **[Naukri Job Scraper](https://apify.com/louisdeconinck/naukri-job-scraper?fpr=p2hrc6)** - Unlock the power of Naukri.com with our advanced web scraper! Effortlessly extract comprehensive job listings, including titles, descriptions, and company details. Enjoy real-time data, structured JSON output, and flexible search options. Scale your job search with ease and speed. Try it now!
-- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets, 
+- **[Naukri Jobs | Search | Detail | Richest Scraper [$0.99/1K]](https://apify.com/memo23/naukri-scraper?fpr=p2hrc6)** - Scrape Naukri job listings with full details: jobIds, company data, work mode, education, salary brackets,
 experience ranges, locations, skills, and apply links—ready for analytics pipelines.
 - **[Naukri.com Job Scraper](https://apify.com/bhansalisoft/naukri-com-job-scraper?fpr=p2hrc6)** - Naukri.com Job Scraper :  Scrap Unlimited jobs detail from Naukri.
 - **[Naukrigulf Jobs Scraper 🌟](https://apify.com/easyapi/naukrigulf-jobs-scraper?fpr=p2hrc6)** - A powerful web scraper for extracting detailed job listings from Naukrigulf.com. Collect comprehensive job data including titles, descriptions, company details, and requirements. Perfect for recruitment analysis, market research, and HR analytics.
@@ -18206,7 +18206,7 @@ experience ranges, locations, skills, and apply links—ready for analytics pipe
 - **[Pakwheels Scraper](https://apify.com/voyn/pakwheels-scraper?fpr=p2hrc6)** - The Pakwheels Scraper lets you easily extract used car listings from Pakwheels.com whether you’re a car dealer, market analyst, or hobbyist, this scraper helps you collect structured data about vehicles directly into an Apify dataset.
 - **[PanoramaFirm Company Scraper](https://apify.com/powerai/panoramafirm-company-scraper?fpr=p2hrc6)** - Scrape company information from PanoramaFirm.pl by providing a search URL, with automatic pagination and comprehensive company data extraction.
 - **[PAP Search & Direct URL Scraper](https://apify.com/saswave/pap-search-direct-url-scraper?fpr=p2hrc6)** - PAP web scraper.Automatise l'extraction de donnée immobilière (vente, location)  du site pap.fr . Collecte des informations comme le téléphone, DPE, ville, prix, transports et d'autres information utile. Amélioré votre monitoring, reporting et analyse des opportunité immobilière entre particulier
-- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡ 
+- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡
 Extraire les biens depuis seloger.com rapidement avec les infos détaillées à faible coût, avec exportation en JSON, CSV, EXCEL..
 - **[Pap.fr mass products scraper (by search URL)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-search-url?fpr=p2hrc6)** - 🔥Très simple! Entrez le lien vers la page de recherche pap.fr et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, EXCEL..
 - **[Pap.fr Scraper](https://apify.com/devnaz/pap-fr-scraper?fpr=p2hrc6)** - Scraper d'annonces immobilières du site **PAP.fr** (De Particulier à Particulier) qui permet de récupérer des annonces de vente, location et leasing avec des critères de recherche structurés.
@@ -18290,7 +18290,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Product Hunt Scraper - Comprehensive Data Extraction Actor](https://apify.com/cloudcharlestom/producthunt-scraper?fpr=p2hrc6)** - It is capable of efficiently extracting data from the Product Hunt website within daily, weekly, monthly and annual time periods, including various metadata such as names, descriptions, categories, likes, multiple manufacturers, contact links, etc. It contains comprehensive data.
 - **[Product Hunt Scraper (/w EMAILS)](https://apify.com/maximedupre/product-hunt-scraper?fpr=p2hrc6)** - Scrapes Product Hunt's launches for a specific date. Extracts the product names, descriptions, makers info (name + links), and emails.
 - **[Product Hunt Scraper | With Emails | $4 / 1K](https://apify.com/fatihtahta/product-hunt-scraper-fast-reliable-4-1k?fpr=p2hrc6)** - Scrape any Product Hunt leaderboard with verified founder emails and social medias. This high-speed scraper delivers rich product launch and maker data. Get a clean, structured dataset of the latest tech products for sales prospecting, deal sourcing, and competitor analysis.
-- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards. 
+- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards.
 Perfect for founders, investors, and researchers to gather product performance insights for market analysis, competitive intelligence, and identifying trending products.
 - **[Product Hunt Scraper(PPR) - Comprehensive Data Extraction Actor](https://apify.com/cloudcharlestom/producthunt-per-result-scraper?fpr=p2hrc6)** - It is capable of efficiently extracting data from the Product Hunt website within daily, weekly, monthly and annual time periods, including various metadata such as names, descriptions, categories, likes, multiple manufacturers, contact links, etc. It contains comprehensive data.
 - **[Product Hunt Upcoming Launches Fetcher](https://apify.com/profilehunt/product-hunt-upcoming-launches-fetcher?fpr=p2hrc6)** - Fetches upcoming Product Hunt launches with detailed maker profiles, including LinkedIn and Twitter information. Perfect for networking, market research, and staying ahead of new product launches.
@@ -18478,7 +18478,7 @@ Get leads and contact details for over 450k active small businesses
 - **[SBA.GOV Scraper | $5 / 1k | US Small Business Directory](https://apify.com/fatihtahta/sba-gov-scraper?fpr=p2hrc6)** - Scrape verified U.S. small-business data from SBA.gov including company names, certifications, NAICS, contacts, and capability statements. Perfect for vendor vetting, compliance sourcing, and lead generation. $5 per 1000 results.
 - **[Scale Google Maps Scraper](https://apify.com/huncho/google-maps-scraper?fpr=p2hrc6)** - The most efficient way to scrape Google Maps at scale - $0.0004/result
 - **[Scoot UK Leads Extractor](https://apify.com/lead.gen.labs/scoot-uk-leads-extractor?fpr=p2hrc6)** - Scoot UK Leads Extractor is a powerful Apify actor designed to extract business leads from Scoot.co.uk. It scrapes company details, contact information, and other essential data to help you generate high-quality UK-based B2B leads efficiently
-- **[SCOUTR Nordics (Google Maps Scraper)](https://apify.com/odaudlegur/scoutr-nordics-google-maps-scraper?fpr=p2hrc6)** - Specialized Google Maps scraper for Nordic countries. Geocodes a start address, finds businesses within a radius, and extracts name, address, website, phone. Visits each website to fetch real contact information. 
+- **[SCOUTR Nordics (Google Maps Scraper)](https://apify.com/odaudlegur/scoutr-nordics-google-maps-scraper?fpr=p2hrc6)** - Specialized Google Maps scraper for Nordic countries. Geocodes a start address, finds businesses within a radius, and extracts name, address, website, phone. Visits each website to fetch real contact information.
 Other countries will be added in different actors when the code is fully optimized.
 - **[Scrape business emails from Google Maps](https://apify.com/easyapi/scrape-business-emails-from-google-maps?fpr=p2hrc6)** - 🌍 Extract business email addresses from Google Maps search results without using any third-party APIs. Perfect for lead generation, sales outreach, and market research. Supports multiple search queries and delivers clean, structured data. Built with advanced scraping technology.
 - **[Scrape Emails And Social Media Links With Just a Query](https://apify.com/lead.gen.labs/scrape-emails-and-social-media-links-with-just-a-query?fpr=p2hrc6)** - Get Emails And Social Media Links With Just a Query !!!!! The actor will take a query and some parameter as input and scrape contact details with just a query. ACTOR IS FREE FOR LIMITED TIME.
@@ -18496,7 +18496,7 @@ Other countries will be added in different actors when the code is fully optimiz
 - **[Seek Job Scraper(Pay As You Go)](https://apify.com/powerai/seek-job-scraper-ppr?fpr=p2hrc6)** - Scrape job listings from Seek.com.au with advanced stealth techniques and pay-per-result billing
 - **[Seek Scraper](https://apify.com/saswave/seek-scraper?fpr=p2hrc6)** - Australian jobboard scraper. Collect data at scale from seek.com.au to boost your analytics. Finds signals from companies hiring and create your intent based outbond strategy. Extract job and company listing information
 - **[SeLoger bureaux-commerces scraper (by search URL) 💙](https://apify.com/azzouzana/seloger-bureaux-commerces-scraper-by-search-url?fpr=p2hrc6)** - 🔥 Scraping des annonces SeLoger bureaux-commerces ! ⚡ Rapide et économique, il permet d'extraire titres, descriptions, photos, prix, contacts, évaluation énergétique et bien plus. Exportez en JSON, CSV, HTML, EXCEL ouAPI. Entrez  l’URL de la page de recherche et laissez-nous faire le reste ! 🚀
-- **[seloger mass products scraper (by ads URLs) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 🔥Très simple! Entrez les URL des biens pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡ 
+- **[seloger mass products scraper (by ads URLs) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 🔥Très simple! Entrez les URL des biens pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡
 Extraire les biens depuis seloger.com rapidement avec les infos détaillées à faible coût, avec exportation en JSON, CSV, EXCEL, etc.
 - **[seloger mass products scraper (by search URL) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-search-url?fpr=p2hrc6)** - 🔥Très simple! Entrez le lien vers la page de recherche et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, HTML, EXCEL...
 - **[Seloger Scraper Ppr](https://apify.com/silentflow/seloger-scraper-ppr?fpr=p2hrc6)** - Scrape SeLoger.com real estate listings - apartments, houses, rentals in Paris, Lyon, Marseille. Extract prices, DPE energy ratings, photos, agent contacts. Pay-per-result with residential proxies. Export to Excel, CSV, JSON. Perfect for market analysis & lead generation.
@@ -18677,7 +18677,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[StockX Listings Scraper](https://apify.com/piotrv1001/stockx-listings-scraper?fpr=p2hrc6)** - The StockX Listings Scraper extracts product data from StockX based on search keywords and categories, capturing names, URLs, images, detailed pricing, condition, model, and category—ideal for market research and resale analysis.
 - **[StockX Product Search Scraper](https://apify.com/ecomscrape/stockx-product-search-scraper?fpr=p2hrc6)** - The StockX Product Search Scraper extracts detailed product data from StockX, including name, title, brand, description, condition, market statistics, etc., using search query URLs. This tool is perfect for market research, trend analysis, lead generation, and campaign planning.
 - **[Storeleads Scraper](https://apify.com/saswave/storeleads-scraper?fpr=p2hrc6)** - Storeleads scraper. Extract companies results from a search url. Get data about social network, name, monthly sales, visits, location, product sold, employees, technologies, trustpilot reviews, follower number, keywords, description and more
-- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates. 
+- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates.
 Address search, monitoring mode, and bypass limits. Complete real estate intelligence platform.
 - **[Streeteasy.com Scraper](https://apify.com/memo23/apify-streeteasy-cheerio?fpr=p2hrc6)** - Unlock the NYC real estate market with instant access to detailed property data, pricing trends, and neighborhood insights. Our StreetEasy scraper delivers comprehensive listing information across all boroughs, helping you make data-driven decisions faster than your competition.
 - **[Subdomain Finder & Reverse IP](https://apify.com/canadesk/subdomain-finder-reverse-ip?fpr=p2hrc6)** - Enumerate Subdomains and Reverse IPs with RapidDNS, Anubis, AlienVault and crt.sh! It's fast and costs little.
@@ -18917,15 +18917,15 @@ Perfect for lead generation, influencer outreach & enriching your data pipelines
 - **[TikTok Video Scraper](https://apify.com/scraper-engine/tiktok-video-scraper?fpr=p2hrc6)** - TikTok Video Scraper gathers video details like captions, hashtags, stats (views, likes, comments, shares), music info, and creator profiles from any TikTok link or search. Ideal for trend analysis, research, or marketing. Export clean structured data in JSON, CSV, or Excel formats.
 - **[TikTok Video Scraper](https://apify.com/simpleapi/tiktok-video-scraper?fpr=p2hrc6)** - TikTok Video Scraper extracts detailed data from any TikTok video, including captions, creators, hashtags, sounds, metrics, comments count, share count, and timestamps. Ideal for trend tracking, content research, influencer analysis, and automating structured TikTok video data collection at scale.
 - **[TikTok Views Scraper](https://apify.com/eddiepogerzz/tiktok-views-scraper?fpr=p2hrc6)** - This scraper is mainly for tiktok views scraping when given a list of profiles and brand tags.
-- **[Tiktok-Profile-Scraper](https://apify.com/lazyscraper/tiktok-profile-scraper?fpr=p2hrc6)** - This tool extracts public TikTok profile data with speed and accuracy.  
-It collects key attributes including:  
-- Username  
-- Display Name  
-- Bio  
-- Profile Image URLs  
-- Region  
-- Profile Link  
-- Verification Status  
+- **[Tiktok-Profile-Scraper](https://apify.com/lazyscraper/tiktok-profile-scraper?fpr=p2hrc6)** - This tool extracts public TikTok profile data with speed and accuracy.
+It collects key attributes including:
+- Username
+- Display Name
+- Bio
+- Profile Image URLs
+- Region
+- Profile Link
+- Verification Status
 - Engagement stats: Follower Count, Total Likes, Video Count
 - **[Tinder Email Scraper – Advanced, Cheapest & Reliable 📧🎟️](https://apify.com/contactminerlabs/tinder-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Tinder Emails
 
@@ -19013,7 +19013,7 @@ Enter your search parameters to collect verified contact emails from public Tumb
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs⚡🧩
 - **[Turbo Linkedin Jobs Scraper (No Cookies)](https://apify.com/perfectscrape/turbo-linkedin-jobs-scraper?fpr=p2hrc6)** - Scrape LinkedIn jobs instantly - no logins or cookies! Super fast https scraping upto 300+ listings/minute! Geo, distance and time targeting with proxy support. Extract salaries, locations, company insights, and more fields at lightning speed. Perfect for recruiters, applicants, or job dashboards.
 - **[Turbo Search Engines Google Maps Scraper](https://apify.com/awsomedude46/turbo-search-engines-google-maps-scraper?fpr=p2hrc6)** - Overview
-This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online 
+This Apify actor is a powerful business information scraper that extracts comprehensive business data from multiple online
 Data Extracted
 Company names
 Email addresses
@@ -19184,7 +19184,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Upwork Job Scraper](https://apify.com/neatrat/upwork-job-scraper?fpr=p2hrc6)** - Scrape Upwork jobs without limits 🌟 Bypass CAPTCHAs & apply custom filters.
 - **[Upwork Job Scraper](https://apify.com/matthewjames/upwork-job-scraper?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
 - **[Upwork Job Scraper (Pay Per Result)](https://apify.com/matthewjames/upwork-job-scraper-pay-per-result?fpr=p2hrc6)** - Scrape recent and relevant Upwork.com jobs, bypasses captchas.
-- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required. 
+- **[Upwork Job Scraper | Scrape up to 10k Jobs ✨](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=p2hrc6)** - Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required.
 upwork@vistorio.online
 - **[Upwork Job Scraper🔥](https://apify.com/nec/upwork-job-scraper?fpr=p2hrc6)** - Streamline your Upwork.com job search
 - **[Upwork Jobs](https://apify.com/hello.datawizards/upwork-jobs?fpr=p2hrc6)** - Upwork-Jobs-Bulk-Scraper: Scrape Upwork job listings by keywords for structured data on titles, rates, and skills. Ideal for job market analysis and tracking freelance gigs. Use Apify Proxy to avoid blocks. Gain insights into freelance trends and rates.
@@ -19263,7 +19263,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 Enter your search parameters to collect verified contact emails from Wattpad profiles, along with profile title, bio, source URL & platform info 📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
 - **[Wayfair Email Scraper](https://apify.com/scraper-mind/wayfair-email-scraper?fpr=p2hrc6)** - Wayfair Email Scraper – Extract Wayfair emails quickly & accurately! 🎯 Search by keywords, location & domain to find targeted contacts. Supports Wayfair listings ✅ Proxy support for uninterrupted scraping. 📊 Export in JSON, CSV, Excel – ideal for lead gen, e-commerce & market research! 🚀
-- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.  
+- **[We Work Remotely Jobs Scraper with Company Details](https://apify.com/crawlpilot/weworkremotely-job-scraper?fpr=p2hrc6)** - Scrapes all remote jobs from We Work Remotely with full job & company data (job, website, HQ, etc.) and job details.
 Downloadable in JSON/CSV via API with clean table views.
 - **[We Work Remotely Scraper](https://apify.com/piotrv1001/we-work-remotely-scraper?fpr=p2hrc6)** - The We Work Remotely Scraper extracts job listings from search URLs, capturing job titles, company names, logos, categories, and direct links—ideal for remote job tracking and market analysis.
 - **[Web Auto Scraper](https://apify.com/ribtools/web-auto-scraper?fpr=p2hrc6)** - Extract vehicle listings from WebAuto.com.py including cars and motorcycles with comprehensive details like pricing, specifications, seller information, and images. Supports search across different brands and automatically handles pagination to collect complete datasets.
@@ -19553,7 +19553,7 @@ Plus: Download complete video transcripts in any available or auto-translated la
 - **[Youtube Video Transcript Super Scraper](https://apify.com/muhammad_noman_riaz/youtube-video-transcript-super-scraper?fpr=p2hrc6)** - Unlock the power of in-depth YouTube video analytics with our Video Transcript Super Scraper. Extract comprehensive metadata, engagement metrics, and full video transcripts in any language you want.
 - **[Yuma Craigslist Urls Parser Script](https://apify.com/hello.datawizards/yuma-craigslist-urls-parser-script?fpr=p2hrc6)** - The Yuma Craigslist URLs Parser Script extracts complete, structured data from any Yuma Craigslist listing, including titles, images, and full body content. Fast, reliable, and proxy-ready, it’s ideal for research, automation, job analysis, and data extraction workflows.
 - **[Yumacraigslist Keyword Search Parser Script](https://apify.com/hello.datawizards/yumacraigslist-keyword-search-parser-script?fpr=p2hrc6)** - The YumaCraigslist Keyword Search Parser Script lets you scrape targeted Craigslist Yuma listings by keyword, returning clean JSON with titles, prices, locations, and images. Fast, reliable, and proxy-ready—perfect for research, automation, and marketplace analytics.
-- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown. 
+- **[Zach's "Webpage Content To Markdown" Scraper](https://apify.com/dyf/webpage-to-markdown?fpr=p2hrc6)** - Scrape a webpage and parse to markdown.
 
 Packed with features to ensure high success rate and low cost.
 
@@ -19575,7 +19575,7 @@ No need for proxy!
 - **[Zillow (Find a Real Estate Agent) 🏡📧📞](https://apify.com/scrapestorm/zillow-find-a-real-estate-agent?fpr=p2hrc6)** - Unlock the power of Zillow with automated agent profile scraping – effortlessly gather key insights and data on real estate agents, with the ability to customize your advanced queries! 🏡📊💻✨
 No need for proxy !
 - **[Zillow Active Listing Actor](https://apify.com/jwkwjw/zillow-active-listing-actor?fpr=p2hrc6)** - Gets Up To 50 Active listings without pagination
-- **[Zillow Agent Scraper](https://apify.com/scraped/zillow-agent-scraper?fpr=p2hrc6)** - Scrapes agent details from Zillow (zillow.com/professionals/real-estate-agent-reviews/). 
+- **[Zillow Agent Scraper](https://apify.com/scraped/zillow-agent-scraper?fpr=p2hrc6)** - Scrapes agent details from Zillow (zillow.com/professionals/real-estate-agent-reviews/).
 
 Free users will receive limited results, while paid users can access up to 25 pages of data.
 - **[Zillow Agent Scraper (All-in-one) 🏡📧📞🤖](https://apify.com/scrapestorm/zillow-agent-scraper-all-in-one?fpr=p2hrc6)** - Unlock the power of Zillow with automated agent profile scraping (All-in-one) – effortlessly gather insights on Real Estate Agents, Home Improvement Pros, Property Managers, Inspectors, and Photographers 📸🏡🔑. Customize advanced queries 📈. No proxy needed for fast, efficient scraping! ⚡
@@ -19671,7 +19671,7 @@ Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enrich
 - **[Brute Froce Actor](https://apify.com/wheat_jiminy/brute-froce-actor?fpr=p2hrc6)**
 - **[Calculator MCP server](https://apify.com/agentify/calculator-mcp-server?fpr=p2hrc6)** - A Model Context Protocol server for calculating. This server enables LLMs to use calculator for precise numerical calculations.
 - **[Check Available Domain Names](https://apify.com/exporter24/check-available-domain-names?fpr=p2hrc6)** - Check domain names and expire date
-- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.  
+- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.
 It is designed for developers, growth hackers, analysts, and campaign managers who need to filter or target users based on their DM availability.
 - **[CVE Search MCP Server](https://apify.com/vulnv/cve-search?fpr=p2hrc6)** - Model Context Protocol (MCP) server for searching and retrieving CVE (Common Vulnerabilities and Exposures) information from the CVE-Search API. Provides tools to search CVEs by vendor, product, CVE ID, and get latest vulnerabilities with CAPEC, CWE and CPE expansions.
 - **[DeepL MCP Server](https://apify.com/agentify/deepl-mcp-server?fpr=p2hrc6)** - A Model Context Protocol (MCP) server that provides translation capabilities using the DeepL API.
@@ -19834,7 +19834,7 @@ Identifier facilement les créations d'entreprise ou les fermetures par exemple
 - **[Articles Extractor](https://apify.com/web.harvester/articles-extractor?fpr=p2hrc6)** - The Article Extractor is an enterprise-grade web scraping solution designed specifically for extracting structured data from news articles, blog posts, and online publications. Our advanced HTML parsing engine delivers unmatched accuracy in content extraction across thousands of websites.
 - **[Artsper Scraper](https://apify.com/saswave/artsper-scraper?fpr=p2hrc6)** - Artprice web crawler. With this art website scraper, extract art product details from a search url. Help you for monitoring artists or create analysis at scale.
 - **[Atlanta Black Star Scraper](https://apify.com/hanatsai/atlanta-black-star-scraper?fpr=p2hrc6)** - Scrape news data from atlantablackstar.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.
-- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales. 
+- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales.
 Extracts destination, price, discount, and dates. Uses Selenium. Saves data to Apify dataset.
 Hot ticket page example for Moscow: https://www.aviasales.ru/?params=MOW1&service=hottickets&marker=70279
 - **[AVT Masterclass Blog Scraper](https://apify.com/yourapiservice/avtmasterclass-blog-scraper?fpr=p2hrc6)** - AVT Masterclass Blog Scraper (avtmasterclass.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -19898,7 +19898,7 @@ Bringfido Url search can be from category: Hotels, Restaurants, Activities, Even
 - **[Crypto Price Fetcher](https://apify.com/ar_scraper/crypto-price-fetch?fpr=p2hrc6)** - Get real time cryptocurrency prices and live market data for Bitcoin, Ethereum, and other popular coins using the Crypto price Fetcher API. Track up-to-date crypto values instantly with this simple Apify API.
 - **[Crypto Prices by Finmap.io](https://apify.com/finmap/crypto-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of cryptocurrency pairs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Crypto Twitter Tracker](https://apify.com/muhammetakkurtt/crypto-twitter-tracker?fpr=p2hrc6)** - Stream real-time Twitter events from 1000+ market-moving accounts, including crypto VCs, traders, tech leaders & news outlets. Get instant social signals and market sentiment via SSE to detect alpha and inform trading strategies. The ultimate tool for real-time crypto intelligence.
@@ -19938,7 +19938,7 @@ Political alignment: Right-wing, conservative, liberal conservative, economic li
 - **[ESPN NBA Scraper (Current Season Stats)](https://apify.com/scraped/espn-nba-scraper-current-season-stats?fpr=p2hrc6)** - This actor provides NBA player statistics sourced from ESPN, including performance data such as points, rebounds, assists, and more.
 - **[ETF Prices by Finmap.io](https://apify.com/finmap/etf-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of ETFs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Etoro Scraper](https://apify.com/saswave/etoro-scraper?fpr=p2hrc6)** - Etoro web scraper collects and extract data about stock, investor, post content, comment. Scrap data from discovery & screener page to use in analytics
@@ -19970,7 +19970,7 @@ Contact us if you have any questions.
 - **[Forbes Scraper](https://apify.com/natasha.lekh/forbes-scraper?fpr=p2hrc6)** - Scrape news data from forbes.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.
 - **[Forex Rates by Finmap.io](https://apify.com/finmap/forex-rates?fpr=p2hrc6)** - Generate the current rate and historical rates of any FX currency pair.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data at the best rates straight from the robust finmap.io API.
 
 Contact us if you have any questions.
@@ -19979,7 +19979,7 @@ Contact us if you have any questions.
 - **[Fox News Scraper](https://apify.com/harvest/fox-news-scraper?fpr=p2hrc6)** - Extracts the latest news articles from Fox News, categorized by different feeds (e.g., Latest, World News, Politics, Technology, etc.). The scraper returns structured data including article titles, links, publication dates, and content.
 - **[Franceinfo Scraper](https://apify.com/zuzka/franceinfo-scraper?fpr=p2hrc6)** - Scrape news data from francetvinfo.fr with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.
 - **[Frost Protek Plant Covers Blog Scraper](https://apify.com/yourapiservice/frostprotek-blog-scraper?fpr=p2hrc6)** - Frost Protek Plant Covers Blog Scraper (frostprotek.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
-- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.  
+- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.
 Pay per usage: no setup, no minimums, no subscriptions.
 - **[Full Court Tennis Blog Scraper](https://apify.com/yourapiservice/fullcourttennis-blog-scraper?fpr=p2hrc6)** - Full Court Tennis Blog Scraper (fullcourttennis.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Game of Thrones Characters API](https://apify.com/kodyitson23n/game-of-thrones-characters-api?fpr=p2hrc6)** - Game of Thrones Characters API
@@ -19999,10 +19999,10 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Global](https://apify.com/variety/global?fpr=p2hrc6)**
 - **[Global Markets & Financial News AI](https://apify.com/visita/global-markets-intelligence?fpr=p2hrc6)** - Turn raw news into alpha. Scrape top financial sources, analyze with AI for Sentiment (Bullish/Bearish), Impact Scores (0-100), and Tickers ($BTC). Features "Scrape-First" reliability, Alpha Vantage integration, and instant Discord trading alerts.
 - **[Gold Price by Finmap.io](https://apify.com/finmap/gold-price?fpr=p2hrc6)** - Generates the accurate current and historical Gold Price data for any timeframe.
- 
+
 Historical intervals: Daily, weekly, and monthly.
 Currencies supported: USD, EUR, and GBP.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 - **[Good n' Natural Advice Scraper](https://apify.com/yourapiservice/goodnnatural-advice-scraper?fpr=p2hrc6)** - Good n' Natural Advice Scraper (shop.goodnnatural.ca) lets you extract advice content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Goodreads Book Scraper](https://apify.com/runtime/goodreads-book-scraper?fpr=p2hrc6)** - Goodreads Book Scraper is an Apify Actor that extracts book details from Goodreads search results. It retrieves the title, author, rating, ratings count, published year, editions count, book URL, and cover image URL, outputting the data in structured JSON format.
@@ -20190,7 +20190,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Newsweek Scraper](https://apify.com/mtrunkatova/newsweek-scraper?fpr=p2hrc6)** - Scrape news data from newsweek.com with this unofficial API. Extract articles, monitor their popularity and performance and automate the fight against fake news. Filter the results by authors, topics, categories, or publication dates. Preview or download the results in your preferred format.
 - **[Nfl Data Collector](https://apify.com/syntellect_ai/nfl-data-collector?fpr=p2hrc6)** - NFL Data Collector system with complete integration for Apify Actor and MCP server all the stats you will ever need
 - **[Nfl Dfs Intelligence Monitor](https://apify.com/scionicdev/nfl-dfs-intelligence-monitor?fpr=p2hrc6)** - Comprehensive NFL player injury tracker and Daily Fantasy Sports (DFS) intelligence tool that monitors official injury reports, practice participation, and player news from ESPN, CBS Sports, and Yahoo Sports.
-- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving. 
+- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving.
 
 Dutch, Nederland, Holland, Nieuws, Nederlandse Omroep Stichting.
 - **[Nova Oil Training Scraper](https://apify.com/yourapiservice/novaoil-training-scraper?fpr=p2hrc6)** - Nova Oil Training Scraper (novaoil.io) lets you extract training content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -20231,7 +20231,7 @@ Collect informations of search markets, profiles,  leaderboard, global activity 
 - **[Product Hunt Scraper](https://apify.com/michael.g/product-hunt-scraper?fpr=p2hrc6)** - Scrape data on products and their team members from Product Hunt, which features new launches every day.
 - **[Product Hunt Scraper](https://apify.com/piotrv1001/product-hunt-scraper?fpr=p2hrc6)** - The Product Hunt Scraper extracts data on the latest top products, capturing names, taglines, images, URLs, topics, vote counts, comment counts, and rankings—ideal for trend tracking, competitor analysis, and market research.
 - **[Product Hunt Scraper - Comprehensive Data Extraction Actor](https://apify.com/cloudcharlestom/producthunt-scraper?fpr=p2hrc6)** - It is capable of efficiently extracting data from the Product Hunt website within daily, weekly, monthly and annual time periods, including various metadata such as names, descriptions, categories, likes, multiple manufacturers, contact links, etc. It contains comprehensive data.
-- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards. 
+- **[Product Hunt Scraper by day/week/month/year + product + makers](https://apify.com/deltaspider/product-hunt-scraper?fpr=p2hrc6)** - A high-performance web scraper for extracting comprehensive product launch data from Product Hunt leaderboards.
 Perfect for founders, investors, and researchers to gather product performance insights for market analysis, competitive intelligence, and identifying trending products.
 - **[Product Hunt Scraper(PPR) - Comprehensive Data Extraction Actor](https://apify.com/cloudcharlestom/producthunt-per-result-scraper?fpr=p2hrc6)** - It is capable of efficiently extracting data from the Product Hunt website within daily, weekly, monthly and annual time periods, including various metadata such as names, descriptions, categories, likes, multiple manufacturers, contact links, etc. It contains comprehensive data.
 - **[Producthunt Scraper](https://apify.com/runtime/producthunt-scraper?fpr=p2hrc6)** - A web scraper that extracts comprehensive product information from Product Hunt using Apify.
@@ -20307,7 +20307,7 @@ PE, PB, PS, FCF, Employees, Insiders buying selling, valuation score, analyst fo
 - **[Sportsline Picks Scraper](https://apify.com/harvest/sportsline-picks-scraper?fpr=p2hrc6)** - Scrapes Sportsline's model picks across multiple leagues and outputs fully structured game + pick data, including spreads, totals, moneylines, projection scores, simulation probabilities, consensus probabilities, and narrative explanations.
 - **[Stack Overflow](https://apify.com/jupri/stackexchange?fpr=p2hrc6)**
 - **[Star City Coaching Blog Scraper](https://apify.com/yourapiservice/starcitycoaching-blog-scraper?fpr=p2hrc6)** - Star City Coaching Blog Scraper (starcitycoaching.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
-- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour. 
+- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour.
 Premier demande et renouvellement de titre de séjour
 
 https://sso.anef.dgef.interieur.gouv.fr
@@ -20318,7 +20318,7 @@ https://administration-etrangers-en-france.interieur.gouv.fr
 - **[Stock Market Movers Scraper Pro](https://apify.com/xtech/market-movers-scraper-pro?fpr=p2hrc6)** - Scrape real-time market movers (top gainers and losers) for major stock indices including Dow Jones, NASDAQ 100, S&P 500, FTSE 100, ESTOXX, and DAX. Get comprehensive stock data with prices, changes, and performance metrics.
 - **[Stock Prices by Finmap.io](https://apify.com/finmap/stock-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of stocks, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Stock Sentiment Data Scraper](https://apify.com/scraped/stock-sentiment-data-scraper?fpr=p2hrc6)** - Scrape sentiment data from Stocktwits
@@ -20365,7 +20365,7 @@ Get data about author, subscriptions plans details, number of subscriber, catego
 輸出 CSV / JSON，可接 Make.com、n8n，直接送至 Google Sheets、CRM、Slack、Email。
 適用社群監測、KOL 搜尋、競品分析、自動化行銷。
 - **[TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=p2hrc6)** - Super Fast TikTok Comment API. Seamlessly retrieve comments with speed and efficiency. You don't need to pay for proxy because we use our own.
-- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center. 
+- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center.
 Reliably extract high-value data on Top Ads, Trending Videos, Trending Creators, Trending Songs, and Trending Hashtags. Delivering structured JSON data for your marketing intelligence and competitive analysis.
 - **[TipRanks News Scraper](https://apify.com/mscraper/tipranks-news-scraper?fpr=p2hrc6)** - TipRanks News Scraper is a specialized web scraping tool designed to extract news from TipRanks. The scraper exports the accumulated data to various formats like JSON, XML, CSV, or Excel.
 - **[Tipranks Scraper](https://apify.com/saswave/tipranks-scraper?fpr=p2hrc6)** - Tipranks scraper extract data about stock, analyst or screener page.
@@ -20464,7 +20464,7 @@ Fast, reliable data extraction for content aggregation & research.
 
 Helps with monitorings and improve your analytics efforts
 - **[Ziprecruiter Jobs Scraper](https://apify.com/orgupdate/ziprecruiter-jobs-scraper?fpr=p2hrc6)** - The latest and most advanced Ziprecruiter Jobs Scraper. Our Ziprecruiter extracts real-time job postings at scale from all over the world. A new research tool built for recruitment, insights and HR.
-- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies. 
+- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies.
 Aggregate data about Valuations, Business segements, News, Shareholders.Scale you data analysis
 
 ## OPEN_SOURCE
@@ -20653,7 +20653,7 @@ It extracts detailed information such as company profiles, funding rounds, execu
 - **[Darn Tough Scraper](https://apify.com/mshopik/darn-tough-scraper?fpr=p2hrc6)** - Scrape Darn Tough and extract data on footwear from darntough.com. Our Darn Tough API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Dataset Image Downloader & Uploader](https://apify.com/lukaskrivka/images-download-upload?fpr=p2hrc6)** - Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.
 - **[Dataset Processor in Python](https://apify.com/drobnikj/dataset-processor-python?fpr=p2hrc6)** - This actor utilizes Python to process the dataset.
-- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.  
+- **[Dataset Query Engine](https://apify.com/jiri.spilka/dataset-query-engine?fpr=p2hrc6)** - Use natural language queries to retrieve results from an Apify dataset.
 This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results.
 - **[Dataset Toolbox](https://apify.com/cyberfly/dataset-toolbox?fpr=p2hrc6)** - Perform common actions on datasets - merge, unify, validate, transform, order fields etc.
 - **[Dataset(s) To Schema](https://apify.com/zuzka/dataset-to-schema?fpr=p2hrc6)** - Takes a Dataset ID(s) and outputs a JSON schema of the contents of the dataset into key value store.
@@ -20701,7 +20701,7 @@ This can also be used to output only changed items, using a compound key
 - **[Email](https://apify.com/contact2353/my-actor-2?fpr=p2hrc6)**
 - **[Email Enrichment](https://apify.com/tomba-io/email-enrichment?fpr=p2hrc6)** - Enrichment lets you find the current job title, company,location and social profiles of the person behind the email. 💡
 - **[Email Finder](https://apify.com/tomba-io/email-finder?fpr=p2hrc6)** - Email Finder tool helps you discover verified professional email addresses using just a person's name and their company domain.
-- **[Email Notification Webhook](https://apify.com/mnmkng/email-notification-webhook?fpr=p2hrc6)** - This actor sends you an email notification with a log file 
+- **[Email Notification Webhook](https://apify.com/mnmkng/email-notification-webhook?fpr=p2hrc6)** - This actor sends you an email notification with a log file
 when one of your other actors fails, succeeds, times out, you name it.
 - **[Email Verifier](https://apify.com/tomba-io/email-verifier?fpr=p2hrc6)** - Verify email addresses effortlessly by clicking the verification icon. Enhance communication accuracy
 - **[Enjoy Life Foods Scraper](https://apify.com/mshopik/enjoy-life-foods-scraper?fpr=p2hrc6)** - Scrape Enjoy Life Foods and extract data on special and restricted diets from enjoylifefoods.com. Our Enjoy Life Foods API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
@@ -20736,7 +20736,7 @@ when one of your other actors fails, succeeds, times out, you name it.
 - **[FetchSERP MCP Server](https://apify.com/agentify/fetchserp-mcp-server?fpr=p2hrc6)** - A Model Context Protocol (MCP) server that exposes the FetchSERP API for SEO, SERP analysis, web scraping, and keyword research.
 - **[Finance Monitoring Agent](https://apify.com/jakub.kopecky/finance-monitoring-agent?fpr=p2hrc6)** - The Finance Monitoring AI Agent 📊💹 analyzes specific tickers, gathering, and processing data to generate insightful reports 📈📉. Designed for investors and analysts, this agent provides detailed performance analysis and trends. The agent is built using LangGraph and Python.
 - **[Find IPs from Proxy Groups](https://apify.com/lukaskrivka/find-ips-from-proxy-groups?fpr=p2hrc6)** - Simple actor to list IPs that you have allocated in any of your proxy groups. You have to specify the total count of the IPs you have in the groups you want to test for this to work properly.
-- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies. 
+- **[Finstat Scraper](https://apify.com/xmiso_scrapers/finstat-scraper?fpr=p2hrc6)** - Scrape info about Slovak companies.
 Finstat scraper na sťahovanie info o slovenských firmách podľa IČO.
 - **[Firebase Firestore Import](https://apify.com/danielwebr/firebase-firestore-import?fpr=p2hrc6)** - This actor is designed to simplify the process of transferring data from an Apify dataset into a Firebase Firestore collection. Simply configure the actor with your Firebase credentials, Firestore collection ID, and dataset ID, and it will handle the rest, including optional data transformations.
 - **[Firecrawl MCP Server](https://apify.com/agentify/firecrawl-mcp-server?fpr=p2hrc6)** - A Model Context Protocol (MCP) server implementation that integrates with Firecrawl MCP for web scraping capabilities
@@ -20756,7 +20756,7 @@ Finstat scraper na sťahovanie info o slovenských firmách podľa IČO.
 - **[FUEL Scraper](https://apify.com/mshopik/g-fuel-scraper?fpr=p2hrc6)** - Scrape FUEL and extract data on soft drinks from gfuel.com. Our FUEL API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Fungi Perfecti Scraper](https://apify.com/mshopik/fungi-perfecti-scraper?fpr=p2hrc6)** - Scrape Fungi Perfecti and extract data on biological sciences from fungi.com. Our Fungi Perfecti API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Gaiam Scraper](https://apify.com/mshopik/gaiam-scraper?fpr=p2hrc6)** - Scrape Gaiam and extract data on fitness from gaiam.com. Our Gaiam API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
-- **[Game Deals Scraper](https://apify.com/stepskop/game-deals-scraper?fpr=p2hrc6)** - Scraper searching for 100% discounted games on popular online game stores. Providing useful and unified data for game offers happening right now. Efficient source of information for any games newsletter or media channel. 
+- **[Game Deals Scraper](https://apify.com/stepskop/game-deals-scraper?fpr=p2hrc6)** - Scraper searching for 100% discounted games on popular online game stores. Providing useful and unified data for game offers happening right now. Efficient source of information for any games newsletter or media channel.
 Current support: Steam, Epic Games
 - **[Garden Goods Direct Scraper](https://apify.com/mshopik/garden-goods-direct-scraper?fpr=p2hrc6)** - Scrape Garden Goods Direct and extract data on gardening and landscaping from gardengoodsdirect.com. Our Garden Goods Direct API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
 - **[Gempler's Scraper](https://apify.com/mshopik/gemplers-scraper?fpr=p2hrc6)** - Scrape Gempler's and extract data on gardening and landscaping from gemplers.com. Our Gempler's API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.
@@ -21484,7 +21484,7 @@ Este crawler extrai dados estruturados de editais públicos
 - **[California State Bar Attorney Scraper](https://apify.com/blueorion/california-state-bar-attorney-scraper?fpr=p2hrc6)** - Scrape attorney profiles from The State Bar of California, including name, license status, contact info, emails, law school, languages spoken, and disciplinary history. Use search keywords, and extracts up to 500 attorneys per query. Ideal for legal research, background checks, compliance workflows.
 - **[Capterra Reviews Scraper](https://apify.com/maxecc/capterra-reviews-scraper?fpr=p2hrc6)** - Scrape all Capterra reviews from a link.
 
-➡️ INPUT: Capterra reviews link e.g 
+➡️ INPUT: Capterra reviews link e.g
 https://www.capterra.com/p/150854/Apify/reviews
 
 ➡️ OUTPUT
@@ -21523,7 +21523,7 @@ https://www.capterra.com/p/150854/Apify/reviews
 - **[Clutch Reviews Script](https://apify.com/hello.datawizards/clutch-reviews-script?fpr=p2hrc6)** - The Clutch Reviews Script extracts detailed, structured reviews from Clutch.co, including ratings, quotes, reviewer info, and full Q/A sections. Perfect for competitor analysis, market research, and performance insights with reliable residential proxy support.
 - **[cnc-smart-estimator](https://apify.com/luminous_cotton/cnc-smart-estimator?fpr=p2hrc6)** - Generates instant manufacturing quotes by analyzing STEP CAD geometry and scraping real-time market prices. Features AI-powered DFM advice and Carbon Footprint estimation.
 - **[CNN Business Stock Earnings Per Share](https://apify.com/pintostudio/cnn-business-stock-earnings-per-share?fpr=p2hrc6)** - The CNN Business Stock Earnings Per Share Actor is an Apify actor that retrieves comprehensive earnings per share (EPS) data for US stock tickers from CNN Business.
-- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.  
+- **[CNN Business Stock Net Income](https://apify.com/pintostudio/cnn-business-stock-net-income?fpr=p2hrc6)** - The CNN Business Stock Net Income Actor retrieves detailed net income data for a given US stock ticker symbol from CNN Business.
 It provides quarterly and annual net income values, percentage changes, company summaries, and investor-friendly explanations.
 - **[CNN Business Stock Price](https://apify.com/pintostudio/cnn-business-stock-price?fpr=p2hrc6)** - The CNN Business Stock Price Actor is a web scraping tool that fetches real-time stock price data and financial analysis from CNN Business. This actor provides comprehensive stock information including current prices.
 - **[CNN Business Stock Total Revenue](https://apify.com/pintostudio/cnn-business-stock-total-revenue?fpr=p2hrc6)** - A specialized Apify Actor that fetches total revenue data for US stock companies from CNN Business.
@@ -21533,7 +21533,7 @@ It provides quarterly and annual net income values, percentage changes, company 
 - **[CoinGecko Crypto Intelligence](https://apify.com/benthepythondev/crypto-intelligence?fpr=p2hrc6)** - Extract real-time cryptocurrency market data from CoinGecko for 10,000+ coins. Get prices, market caps, volume, 24h/7d/30d changes, ATH/ATL, supply metrics, and historical charts. Access trending coins, category breakdowns, and detailed coin info including community/developer stats
 - **[CoinGecko Crypto Intelligence - Market Data AI Analysis API](https://apify.com/benthepythondev/coingecko-crypto-intelligence?fpr=p2hrc6)** - Real-time cryptocurrency market data API. AI-powered investment scoring (0-100) based on market position (30pts), price performance (25pts), liquidity (25pts), growth potential (20pts). Filter by price range, market cap, trading volume, rank, 24h price change, specific symbols (BTC/ETH/SOL).
 - **[Coinglass Liquidation Heatmap](https://apify.com/hamdo/coinglass-liquidation-heatmap?fpr=p2hrc6)** - Captures high-resolution CoinGlass liquidation heatmap screenshots with Playwright. Supports custom coin, chart type, dimensions, and wait time. Saves images to Key-Value Store and returns direct URLs with full metadata in the dataset.
-- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time 
+- **[Coinmarketcap AI Gateway](https://apify.com/red.cars/coinmarketcap-ai-gateway?fpr=p2hrc6)** - Turn any AI assistant into a crypto market expert with real-time
   CoinMarketCap data
 - **[Coinmarketcap Crypto Scraper](https://apify.com/agenscrape/coinmarketcap-crypto-scraper?fpr=p2hrc6)** - Scrape real-time cryptocurrency data from CoinMarketCap. Get prices, market cap, volume, rankings, and price changes (1h to 1yr) for 5000+ cryptos. Filter by coins/tokens, sort by market cap or volume, convert to any currency.
 - **[CoinMarketCap DexScan Scraper](https://apify.com/scraped/coinmarketcap-dexscan-scraper?fpr=p2hrc6)** - CoinMarketCap DexScan Scraper: An Apify actor that fetches trending decentralized exchange tokens data from CoinMarketCap based on user-selected time intervals.
@@ -21541,7 +21541,7 @@ It provides quarterly and annual net income values, percentage changes, company 
 - **[CoinSpot.com.au Scraper](https://apify.com/lexis-solutions/coinspot-com-au-scraper?fpr=p2hrc6)** - Scrape cryptocurrency data from CoinSpot.com.au - including coin names, prices, market caps, volumes, and historical charts. Ideal for portfolio tracking, market analysis, arbitrage, and financial research. Fast, structured, and customizable extraction from Australia’s leading crypto exchange.
 - **[Cointelegraph News Scraper](https://apify.com/muhammetakkurtt/cointelegraph-news-scraper?fpr=p2hrc6)** - A powerful Apify actor that scrapes cryptocurrency news from Cointelegraph in 12 languages. Collects titles, summaries, full text, author info, and tags. Perfect for market research, content creation, and sentiment analysis. Track crypto trends with customizable data collection features.
 - **[Collage Maker](https://apify.com/maged120/collage-maker?fpr=p2hrc6)** - The Most Advanced and Inteligent Collage Generator with 13 templates and size and number flixible layouts
-- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by 
+- **[Color Palette Fashion Finder](https://apify.com/wild_yapok/color-palette-fashion-finder?fpr=p2hrc6)** - Find clothing items that match your color palette from top fashion retailers. Specify colors by
            +  name or hex codes
            +  , and this Actor will search Zara, H&M, ASOS, and Shein for matching products using advanced color
            +   similarity algorithms
@@ -21597,7 +21597,7 @@ Ideal para sistemas de cadastro, compliance, KYC e validações internas.
 - **[Crypto Price Fetcher](https://apify.com/ar_scraper/crypto-price-fetch?fpr=p2hrc6)** - Get real time cryptocurrency prices and live market data for Bitcoin, Ethereum, and other popular coins using the Crypto price Fetcher API. Track up-to-date crypto values instantly with this simple Apify API.
 - **[Crypto Prices by Finmap.io](https://apify.com/finmap/crypto-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of cryptocurrency pairs, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Crypto Quotes](https://apify.com/venshasoft/crypto-quotes?fpr=p2hrc6)** - Fetch real-time data for any cryptocurrencies by symbol. The actor retrieves prices, volume, market cap, and other key metrics, then saves results into an Apify dataset for easy download or integration into your workflows.
@@ -21753,14 +21753,14 @@ Perfect for research, analysis & pro projects
  Easy-to-use – follow the guide & master it
 Try once, feel its power, boost productivity
 Ultimate tool for smart use
-- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟 
+- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟
   Access ALL data types easily & fast ✨⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️🖥️
 Unlock insights, save time, boost productivity 🚀💡
 Discover the full power of this actor now! 📊
 - **[Facebook Video Details Scraper](https://apify.com/neuro-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - Extract public Facebook video details in seconds! Get title, description 📝, upload date 📅,  creator info 👤, and video URL 🌐. Perfect for research, analytics, and trend tracking. ✅
-- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟 
+- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟
   Access ALL formats data types easily & fast ⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️
@@ -21772,7 +21772,7 @@ Discover the full power of this actor now! 📊
 - **[Faire Product Scraper](https://apify.com/powerai/faire-search-scraper?fpr=p2hrc6)** - Scrape wholesale products from Faire.com with automatic pagination and comprehensive product, brand, and review data.
 - **[FanCode Live Sports Streams Scraper 🏏 🎯](https://apify.com/easyapi/fancode-live-sports-streams-scraper?fpr=p2hrc6)** - Extracts live sports streaming data from FanCode, India's premier sports streaming platform. Get real-time access to cricket, kabaddi, football matches with HLS stream URLs, team information, and match details. Updated every 30 minutes.
 - **[Fancode Shop Scraper 🛍️](https://apify.com/easyapi/fancode-shop-scraper?fpr=p2hrc6)** - Scrape product data from Fancode Shop. Extract detailed product information including prices, descriptions, ratings, stock status and images. Perfect for price monitoring, market analysis and product research.
-- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder  
+- **[Fast Email Finder](https://apify.com/dxbear/fast-email-finder?fpr=p2hrc6)** - 🔥 Blazing Fast Email Finder
 Instantly Scrape ⚡public emails for any company domain 🌐 or using first name, last name 👤, and domain. Perfect for cold email outreach 📧 and lead generation 📈 — find high-converting leads 🚀, and scale your campaigns 🌡️ with direct inbox access.
 - **[Fast Pdf Processor](https://apify.com/contemporary_fruit/pdf-processor-actor?fpr=p2hrc6)** - This API is a PDF Processing Service allowing users to upload a PDF to:
 
@@ -21823,7 +21823,7 @@ Returns a random riddle
 - **[FurnishedFinder](https://apify.com/rigelbytes/furnishedfinder?fpr=p2hrc6)** - Extract UNLIMITED listings from Furnished Finder for just $25/month! Get rental info, images, pricing, and host contact details. Supports proxies and retries to ensure smooth, reliable scraping.
 - **[G2  Explorer](https://apify.com/jupri/g2-explorer?fpr=p2hrc6)** - 💫 Scrape G2.com
 - **[G2 Product Reviews Scraper](https://apify.com/powerai/g2-product-reviews-scraper?fpr=p2hrc6)** - Scrape product reviews and customer feedback from G2 for software products using our API wrapper service
-- **[Game Deals Scraper](https://apify.com/stepskop/game-deals-scraper?fpr=p2hrc6)** - Scraper searching for 100% discounted games on popular online game stores. Providing useful and unified data for game offers happening right now. Efficient source of information for any games newsletter or media channel. 
+- **[Game Deals Scraper](https://apify.com/stepskop/game-deals-scraper?fpr=p2hrc6)** - Scraper searching for 100% discounted games on popular online game stores. Providing useful and unified data for game offers happening right now. Efficient source of information for any games newsletter or media channel.
 Current support: Steam, Epic Games
 - **[Game Server Query](https://apify.com/ramencode/game-server-query?fpr=p2hrc6)** - Query game and voice or video chat servers.
 - **[Game8 Scraper](https://apify.com/kilometric_extinguisher/game8-scraper?fpr=p2hrc6)** - Allows you to scrape guides from game8 website.
@@ -21863,10 +21863,10 @@ Current support: Steam, Epic Games
 - **[Gofundme Search By Keyword](https://apify.com/datacach/gofundme-search-by-keyword?fpr=p2hrc6)** - Search and scrape GoFundMe fundraising campaigns by keyword, location, and category. Extract campaign data including donations, progress, beneficiary info, and URLs. Perfect for market research and competitive analysis. Pay-per-result pricing.
 - **[GOG.com Game Data Scraper 🎮](https://apify.com/easyapi/gog-com-game-data-scraper?fpr=p2hrc6)** - Scrape detailed game information from GOG.com, including prices, features, screenshots, release dates, and more. Perfect for game data analysis, price tracking, and market research.
 - **[Gold Price by Finmap.io](https://apify.com/finmap/gold-price?fpr=p2hrc6)** - Generates the accurate current and historical Gold Price data for any timeframe.
- 
+
 Historical intervals: Daily, weekly, and monthly.
 Currencies supported: USD, EUR, and GBP.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 - **[GoodFirms Company Search Scraper](https://apify.com/powerai/goodfirms-company-search-scraper?fpr=p2hrc6)** - Scrape company listings from GoodFirms.co with automatic pagination and comprehensive company information extraction including ratings, reviews, portfolios, and focus areas.
 - **[Goodreads Email Scraper](https://apify.com/scraper-mind/goodreads-email-scraper?fpr=p2hrc6)** - GoodReads Email Scraper – Effortlessly scrape GoodReads emails by keywords & location for outreach, marketing & research! Fast, accurate & proxy-enabled for seamless scraping. 📊 Export data in JSON, CSV, Excel. Perfect for authors, marketers & researchers!
@@ -22020,7 +22020,7 @@ Generates a detailed report with insights on company performance, risks, and tre
 - **[Instagram Tagged Post Scraper](https://apify.com/thenetaji/instagram-user-tagged-posts-scraper?fpr=p2hrc6)** - This actor allows you to scrape Instagram posts where specific users are tagged. It's useful for monitoring user mentions, analyzing brand collaborations, or tracking user-generated content.
 - **[Instagram Tagged Posts Scraper](https://apify.com/scraper-engine/instagram-tagged-posts-scraper?fpr=p2hrc6)** - Extract all tagged posts from any public Instagram profile using the Instagram Tagged Posts Scraper. This Apify actor gathers tagged photos, captions, usernames, post URLs, and engagement stats—perfect for brand monitoring, influencer tracking, and content analysis.
 - **[Instagram Video Downloader](https://apify.com/shahidirfan/instagram-video-downloader?fpr=p2hrc6)** - The Instagram Video Downloader is a powerful Apify actor designed to download videos from Instagram with comprehensive metadata extraction. Whether you need to download single videos, multiple posts, reels, or entire profiles, this actor provides reliable extraction with direct download.
-- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner 
+- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner
 🌐 Extract titles, likes, comments, formats & publish dates
 ⚡ Process bulk URLs at lightning speed
 🌐 Use residential proxies for 100% reliability
@@ -22074,7 +22074,7 @@ Generates a detailed report with insights on company performance, risks, and tre
 - **[Komoot API](https://apify.com/creatormagic/komoot-api?fpr=p2hrc6)** - Komoot Route Highlights turns any location preference into a ready-to-use collection of outdoor routes. Tell the Actor where you want to explore, which sports you care about, and any distance or duration limits.
 - **[Kwai Profile Scraper](https://apify.com/luan.r.dev/kwai-profile-scraper?fpr=p2hrc6)** - KwaiScraper Profile
 
-Extract detailed data from public Kwai profiles with speed and accuracy. 
+Extract detailed data from public Kwai profiles with speed and accuracy.
 Perfect for influencer analysis, content tracking, or building data pipelines.
 
 Price:
@@ -22346,7 +22346,7 @@ Education Spending: USAspending grant awards data
 and more!
 - **[Scrap Any Website with Source Code](https://apify.com/mikolabs/httrack?fpr=p2hrc6)** - Download complete websites and get them as ZIP archives. Perfect for creating offline backups, archiving websites, or downloading entire sites with all assets. Includes source code. For Research purposes
 - **[Scrap Any Website with Source Code](https://apify.com/mikolabs/web-extractor?fpr=p2hrc6)** - Download complete websites and get them as ZIP archives. Perfect for creating offline backups, archiving websites, or downloading entire sites with all assets. Includes source code. For Research purposes
-- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords. 
+- **[Scrape Alibaba Products By Keywords](https://apify.com/shareze001/scrape-alibaba-products-by-keywords?fpr=p2hrc6)** - Obtain a list of Alibaba products through keywords.
 
 The search URL can either be assembled manually or copied directly from the browser’s address bar.
 
@@ -22430,8 +22430,8 @@ Built on the trusted SnipCSS browser extension (20k+ Active Users), it makes the
 - **[Spotify Podcast Scraper](https://apify.com/benthepythondev/spotify-podcast-scraper?fpr=p2hrc6)** - Extract comprehensive podcast data from Spotify's catalog of 5+ million podcasts. Get show metadata, complete episode listings, descriptions, durations, and more using the official Spotify Web API
 - **[Spotify Scraper](https://apify.com/web-scraper/spotify-scraper?fpr=p2hrc6)** - Extracts detailed data from any Spotify track, album, or artist URL. Returns play counts, metadata, top tracks, and more—perfect for music analysis or automation. No API key needed. Just input a Spotify URL and get structured results.
 - **[Spotify Songs Search Scraper  🎶🔎](https://apify.com/scrapestorm/spotify-songs-search-scraper?fpr=p2hrc6)** - Gather Spotify Songs data by keywords 🎧. Access detailed Songs with Artists name, verification status ✅, images 📸, and URLs 🌐. Perfect for analyzing the music industry 🎶, discovering genres 🎵, and collecting data for projects or studies 📊. Great for professionals and music fans!
-- **[Spotify To Discogs Matcher](https://apify.com/nick_slam/spotify-to-discogs?fpr=p2hrc6)** - Match songs from Spotify playlists to Discogs releases and find vinyl versions. 
-The Actor returns release details, cover art, and links. Results appear in real time. 
+- **[Spotify To Discogs Matcher](https://apify.com/nick_slam/spotify-to-discogs?fpr=p2hrc6)** - Match songs from Spotify playlists to Discogs releases and find vinyl versions.
+The Actor returns release details, cover art, and links. Results appear in real time.
 For vinyl collectors and music enthusiasts.
 - **[Spotify Tracks Downloade🔥](https://apify.com/scrapearchitect/spotify-tracks-downloade?fpr=p2hrc6)** - Download any Spotify track with 99% ✅ success rate! 🔥 Features: 2️⃣ powerful modes (⚡Fast & 🎯 Accurate), popularity filtering 🎚️, premium MP3 quality 🎧 (320kbps), bulk downloads 📥Ideal for DJs 🎛️, content creators 🎬, music enthusiasts 🎼 Reliable & easy to use! 🚀Spotify Tracks Downloader 🎵
 - **[Stackoverflow Academic Research Exporter](https://apify.com/red.cars/stackoverflow-academic-research-exporter?fpr=p2hrc6)** - Professional Stack Overflow data export for academic research, thesis projects, and educational analysis - Export questions, answers, and community discussions by tags, search queries, and date ranges. Computer science research, programming education studies, and technology trend analysis.
@@ -22456,7 +22456,7 @@ For vinyl collectors and music enthusiasts.
 - **[Stock Market Scrapper](https://apify.com/coder_zoro/stock-market-scrapper?fpr=p2hrc6)** - A fast Apify Actor that scrapes real-time stock data from Yahoo Finance. Get trending stocks, most actives, gainers/losers, and 52-week leaders with pagination and detailed metrics like price, volume, market cap, and P/E. Perfect for analysts, traders, and automation workflows.
 - **[Stock Prices by Finmap.io](https://apify.com/finmap/stock-prices?fpr=p2hrc6)** - Generates the accurate current price and historical prices of stocks, at a low cost.
 Historical intervals: Daily, weekly, and monthly.
- 
+
 We are committed to offering accurate financial data straight from the robust finmap.io API.
 Contact us if you have any questions.
 - **[Stock Profile (Investing.com)](https://apify.com/pintostudio/stock-profile-investing-com?fpr=p2hrc6)** - The Stock Profile Data (Investing.com) Actor is a powerful web scraping tool that retrieves comprehensive company profile information for publicly traded stocks from Investing.com.
@@ -22679,7 +22679,7 @@ Supports viewport, full page scrolling. Export to json, csv (excel or google she
 - **[Wer Liefert Was B2B Marketplace Scraper](https://apify.com/codebyte/wer-liefert-was-b2b-marketplace?fpr=p2hrc6)** - Wer-Liefert-Was (WLW) web scraper for Europe's leading B2B marketplace. Extract company profiles, contact information and product listings. Perfect for market research, lead generation, and competitive analysis.
 - **[WhatsApp Number Filter Pro](https://apify.com/wilcode/whatsapp-number-filter-pro?fpr=p2hrc6)** - Quickly verify and filter valid WhatsApp registered phone numbers in bulk
 - **[Whatsapp Number Validator (Pay Per Result)](https://apify.com/vtrdev/whatsapp-number-validator?fpr=p2hrc6)** - Quickly verify WhatsApp presence for phone numbers. Enjoy accurate, bulk validation with pay-per-result pricing. Validate up to 19.200 numbers/min. Perfect for marketing, support, and data enrichment. Efficient, scalable, and reliable.
-- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number. 
+- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number.
 $ 0,01 per request.
 - **[WHO Global Coronavirus stats](https://apify.com/davidrychly/covid-who-sprinklr?fpr=p2hrc6)** - Gets an actual number of examined and infected people by COVID-19 globally from https://covid19.who.int/.
 - **[Whois Scraper](https://apify.com/salman_bareesh/whois-scraper?fpr=p2hrc6)** - This Apify actor retrieves Whois information for a list of domains provided as input. It is built with Python and leverages the `whois` library to perform lookups.
@@ -22739,7 +22739,7 @@ $ 0,01 per request.
 🔗 Just enter a video URL & receive clean, structured text
 🚀 No login or API key needed 📊💡
 - **[Youtube Channel Actor](https://apify.com/pintostudio/youtube-channel-actor?fpr=p2hrc6)** - This Apify Actor allows you to extract various types of data from YouTube channels without any coding required. Whether you need channel information, videos, playlists, community posts, or comments, this tool makes it simple to gather YouTube data for analysis, research, or content strategy.
-- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ - 
+- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ -
 ⚡ Extract CID, type, published time, comments & authors
 🌐 Grab page URLs instantly
 ⏱️ Collect extensive data in seconds
@@ -22749,7 +22749,7 @@ $ 0,01 per request.
 🆔 Extract CID, type, publish time, comments, author & page URL in seconds
 📊 Streamline workflow, save time & gather structured data
 💼 Perfect for research, analysis & business insights 📈📌💡
-- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]   
+- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]
 💸 Get high-quality data at an affordable cost
 ⚡ Fast, reliable & easy-to-use – try it once & feel the difference
 📊 Access extensive insights effortlessly
@@ -22834,7 +22834,7 @@ Seamlessly integrate with tools like Google Drive to automate workflows and boos
 - **[🌟Free Airbnb Scraper](https://apify.com/curious_coder/airbnb-scraper?fpr=p2hrc6)** - Scrape airbnb listings from search results and extract complete details for each property including cost, description, photos, review, rating and host details, etc
 - **[🎯 Real Estate Lead Generator + Market Analysis | Zonaprop](https://apify.com/expanditumarca/real-estate-lead-generator-market-analysis-zonaprop?fpr=p2hrc6)** - 🚀 3-in-1: Leads + Property Data + Market Analysis with this exclusive Real Estate system | 3-en-1: Leads + Datos + Análisis con este sistema inmobiliario exclusivo | ONLY complete tool
 - **[🏆 Multi-Source Dubai Property Crawler](https://apify.com/n.nobar/multi-source-dubai-property-crawler?fpr=p2hrc6)** - This multi-source crawler equips real estate agents with a competitive advantage. Instantly access and analyze a comprehensive, live database of Dubai residential properties from multiple top portals, enabling you to identify trends, value properties, and secure the best leads before the competition
-- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API. 
+- **[🏘️immobilienscout24.de properties pages scraper](https://apify.com/azzouzana/immobilienscout24-de-properties-pages-scraper?fpr=p2hrc6)** - 🔥 Scrape immobilienscout24.de properties pages with this NO-CODE tool! Extract info fast and export to JSON, CSV, Excel, or API.
 
 Just paste properties URLs and get your data. Blazing speed, affordable pricing, and effortless insights await. Start today and supercharge your workflow! ⚡
 - **[🏘️immobilienscout24.de search results scraper (By search URL)](https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=p2hrc6)** - 🔥 #1 Fastest & cheapest immobilienscout24.de search results pages scraper across the internet! Scrape and monitor search results for new or delisted ads, easily exportable to JSON, CSV, Excel, or as an API... Simply enter the search page URL and get your data! Blazing fast & affordable ⚡
@@ -23233,7 +23233,7 @@ You can scrape properties for a certain location and get all the details about t
 - **[Immobiliare.it listing page scraper (by ads URLs) 🏠](https://apify.com/azzouzana/immobiliare-it-listing-page-scraper-by-items-urls?fpr=p2hrc6)** - ⚡Personalizza il tuo scraping! Inserisci gli URL diretti degli annunci immobiliari e ottieni dati precisi: titolo, descrizione, foto, prezzo, contatti e altro. Esporta in JSON, CSV, HTML, Excel. Prova ora! 🔥
 - **[Immobiliare.it listing page scraper (by search URL) 🏠](https://apify.com/azzouzana/immobiliare-it-listing-page-scraper-by-search-url?fpr=p2hrc6)** - 🔥 #1 Molto semplice! Inserisci il link alla pagina di ricerca e ottieni i risultati! ⚡ Estrai rapidamente le informazioni dettagliate sugli immobili (titolo, descrizione, foto, valutazioni energetiche, prezzo, contatti, trasporti e altro) a basso costo, con esportazione in JSON, CSV, HTML, EXCEL...
 - **[Immobiliare.it Scraper - Real Estate Data for Italy](https://apify.com/igolaizola/immobiliare-it-scraper?fpr=p2hrc6)** - Extract comprehensive Italian real estate listings from Immobiliare.it for sale, rent and auction data, with customizable filters for province, municipality, price, size, rooms and amenities. Receive clean JSON output for market analysis, lead generation and trend tracking.
-- **[Immobilien-Suchmaschine](https://apify.com/michaelhaar/immobilien-suchmaschine?fpr=p2hrc6)** - Finde Wohnungen, Häuser & Grundstücke im Internet 
+- **[Immobilien-Suchmaschine](https://apify.com/michaelhaar/immobilien-suchmaschine?fpr=p2hrc6)** - Finde Wohnungen, Häuser & Grundstücke im Internet
 (Scraper für Willhaben, Immowelt, Remax, Immoscout24)
 - **[Immobilienscout24](https://apify.com/rigelbytes/immobilienscout24?fpr=p2hrc6)** - Scrape UNLIMITED listings from Immobilienscout24.de for just $25/month. Get detailed property info, contact details, and export data in JSON, CSV, or Excel. Perfect for market research and lead generation!
 - **[Immobilienscout24 | Search | Detail(s) page | Scraper| Rental](https://apify.com/memo23/immobilienscout24-search-scraper-rental?fpr=p2hrc6)** - Extract comprehensive German real estate data: property details (rent, size, rooms, location), high-res images, agent info with verification status, pricing insights, amenities (balcony, kitchen, cellar), contact forms, market analytics, and 40+ targeting parameters for research.
@@ -23366,7 +23366,7 @@ automation, or data pipelines.
 - **[Overstock Reviews Spider](https://apify.com/getdataforme/overstock-reviews-spider?fpr=p2hrc6)** - The Overstock Reviews Spider scrapes product reviews from Overstock.com, capturing ratings, titles, review text, reviewer names, and dates. It outputs structured JSON, ideal for market research, sentiment analysis, and e-commerce insights, supporting proxy use for reliable multi-product scraping.
 - **[Overture Places](https://apify.com/alexander.yatskov/apify-places?fpr=p2hrc6)** - Overture Maps Places API scrapper
 - **[PAP Search & Direct URL Scraper](https://apify.com/saswave/pap-search-direct-url-scraper?fpr=p2hrc6)** - PAP web scraper.Automatise l'extraction de donnée immobilière (vente, location)  du site pap.fr . Collecte des informations comme le téléphone, DPE, ville, prix, transports et d'autres information utile. Amélioré votre monitoring, reporting et analyse des opportunité immobilière entre particulier
-- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡ 
+- **[Pap.fr mass products scraper (by ads URLs)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 Très simple! Entrez les URLs des biens pap.fr pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡
 Extraire les biens depuis seloger.com rapidement avec les infos détaillées à faible coût, avec exportation en JSON, CSV, EXCEL..
 - **[Pap.fr mass products scraper (by search URL)](https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-search-url?fpr=p2hrc6)** - 🔥Très simple! Entrez le lien vers la page de recherche pap.fr et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, EXCEL..
 - **[Pap.fr Scraper](https://apify.com/devnaz/pap-fr-scraper?fpr=p2hrc6)** - Scraper d'annonces immobilières du site **PAP.fr** (De Particulier à Particulier) qui permet de récupérer des annonces de vente, location et leasing avec des critères de recherche structurés.
@@ -23552,7 +23552,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[sdano-ulovdomov](https://apify.com/tkhnv/sdano-ulovdomov?fpr=p2hrc6)** - Extract real estate listing data from ulovdomov.cz. Scrape structured data from the website sitemap or from the arbitrary real estate listing URLs on ulovdomov.cz.
 - **[SeLoger bureaux-commerces scraper (by search URL) 💙](https://apify.com/azzouzana/seloger-bureaux-commerces-scraper-by-search-url?fpr=p2hrc6)** - 🔥 Scraping des annonces SeLoger bureaux-commerces ! ⚡ Rapide et économique, il permet d'extraire titres, descriptions, photos, prix, contacts, évaluation énergétique et bien plus. Exportez en JSON, CSV, HTML, EXCEL ouAPI. Entrez  l’URL de la page de recherche et laissez-nous faire le reste ! 🚀
 - **[Seloger Estimation m2 Scraper](https://apify.com/saswave/seloger-estimation-m2-scraper?fpr=p2hrc6)** - Scraper d'estimation Seloger des vente ou location. Extrait donnée des maison appartement de seloger.com Meuble ou Non meuble. Donnée d'ensemble sur détails des prix ainsi que les biens déjà vendu ou en vente / location et le voisinage.
-- **[seloger mass products scraper (by ads URLs) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 🔥Très simple! Entrez les URL des biens pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡ 
+- **[seloger mass products scraper (by ads URLs) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-items-urls?fpr=p2hrc6)** - 🔥 🔥Très simple! Entrez les URL des biens pour en obtenir les titres, descriptions, photos, évaluations énergétiques, prix, contacts, transports et plus encore ⚡
 Extraire les biens depuis seloger.com rapidement avec les infos détaillées à faible coût, avec exportation en JSON, CSV, EXCEL, etc.
 - **[seloger mass products scraper (by search URL) ⚡](https://apify.com/azzouzana/seloger-mass-products-scraper-by-search-url?fpr=p2hrc6)** - 🔥Très simple! Entrez le lien vers la page de recherche et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, HTML, EXCEL...
 - **[Seloger Scraper](https://apify.com/silentflow/seloger-scraper?fpr=p2hrc6)** - Scrape SeLoger.com - France's #1 real estate portal. Extract apartments, houses, rentals in Paris, Lyon, Marseille. Get prices, DPE energy class, photos, agency phone & email. Monitor new listings with Delta mode. Export Excel, CSV, JSON.
@@ -23590,7 +23590,7 @@ Only for Czech Republic.
 - **[ss.lv scraper](https://apify.com/bibim/scraper?fpr=p2hrc6)** - Get info from Latvian ss.lv ad site. Get the newest or all ads in the selected category. Download the data in JSON, CSV, Excel, and more
 - **[Stessa Product Scraper](https://apify.com/getdataforme/stessa-product-scraper?fpr=p2hrc6)** - Stessa Product Scraper extracts property details from Stessa, including price, status, address, broker info, and more. Input property URLs and get structured data effortlessly. Uses Apify Proxy to avoid blocks. Ideal for real estate analysis and investment insights. Fast, reliable, and accurate
 - **[Stopandshop Parser Spider](https://apify.com/getdataforme/stopandshop-parser-spider?fpr=p2hrc6)** - Extract detailed product info from Stop & Shop URLs, including IDs (Pod, GTIN, itemMaster), names, descriptions, categories, media assets (images with views/URLs), and custom content like bullet points. Ideal for e-commerce monitoring, market research, or inventory.
-- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates. 
+- **[Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE](https://apify.com/memo23/streeteasy-ppr?fpr=p2hrc6)** - Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates.
 Address search, monitoring mode, and bypass limits. Complete real estate intelligence platform.
 - **[StreetEasy Real Estate Scraper 📊🏡 - Cheap](https://apify.com/scrapestorm/streeteasy-real-estate-scraper---cheap?fpr=p2hrc6)** - 🏙️ **Easily collect real estate listings from StreetEasy, New York City’s leading property platform 🇺🇸**
 Just enter a search URL to extract key details like price, address, neighborhood & images 🔍
@@ -23689,7 +23689,7 @@ No need for proxy !
 - **[Zillow Agent Details Scraper](https://apify.com/zillowscraper/zillow-agent-details-scraper?fpr=p2hrc6)** - Retrieve agent profile data from Zillow — name, brokerage, bio, contact, and more. Perfect for building realtor databases, lead generation tools, or CRM enrichment.
 - **[Zillow Agent Rental Listings Scraper](https://apify.com/zillowscraper/zillow-agent-rental-listings-scraper?fpr=p2hrc6)** - Scrape rental listings from Zillow agents with property details like price, address, and size. Great for market analysis, data aggregation, or real estate automation tools.
 - **[Zillow Agent Reviews Scraper](https://apify.com/zillowscraper/zillow-agent-reviews-scraper?fpr=p2hrc6)** - Fetch Zillow agent reviews with ratings, feedback, and client comments. Useful for reputation monitoring, realtor comparisons, and real estate analytics dashboards.
-- **[Zillow Agent Scraper](https://apify.com/scraped/zillow-agent-scraper?fpr=p2hrc6)** - Scrapes agent details from Zillow (zillow.com/professionals/real-estate-agent-reviews/). 
+- **[Zillow Agent Scraper](https://apify.com/scraped/zillow-agent-scraper?fpr=p2hrc6)** - Scrapes agent details from Zillow (zillow.com/professionals/real-estate-agent-reviews/).
 
 Free users will receive limited results, while paid users can access up to 25 pages of data.
 - **[Zillow Agent Scraper (All-in-one) 🏡📧📞🤖](https://apify.com/scrapestorm/zillow-agent-scraper-all-in-one?fpr=p2hrc6)** - Unlock the power of Zillow with automated agent profile scraping (All-in-one) – effortlessly gather insights on Real Estate Agents, Home Improvement Pros, Property Managers, Inspectors, and Photographers 📸🏡🔑. Customize advanced queries 📈. No proxy needed for fast, efficient scraping! ⚡
@@ -23767,7 +23767,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 
 Scrapes Zillow property listings by location. Supports For Sale, For Rent, and Sold searches.
 Inputs:
-- query: Location ("New York, NY") 
+- query: Location ("New York, NY")
 - searchType: "For Sale", "For Rent", or "Sold"
 Outputs property data in JSON including price, address, beds/baths, status, and listing ID.
 - **[Zillow Search Scraper](https://apify.com/scrapier/zillow-search-scraper?fpr=p2hrc6)** - Extract Zillow search data at scale with customizable filters for location, pricing, and home features. Gather listings, estimates, images, and agent details in clean structured format. Ideal for real estate analytics, automation pipelines, and investment research workflows.
@@ -24040,16 +24040,16 @@ Seamlessly integrate with tools like Google Drive, Zapier, and more 🔗 to stre
 - **[Facebook Share User Data Scraper](https://apify.com/danny.hub/facebook-share-user-data-scraper?fpr=p2hrc6)** - Extract Facebook Share users' data from one or multiple Facebook posts. You can get the user name/user profile links, and avatar. You can download the data with all formats like JSON/Excel/CSV
 - **[Fashion United Marketplace Scraper](https://apify.com/newbs/fashion-united-marketplace-scraper?fpr=p2hrc6)** - "Discover the latest trends with the Fashion-United Marketplace Scraper! Seamlessly aggregate clothing products from global fashion hubs. With proxy support & detailed output, navigate the vast fashion marketplace effortlessly. Elevate your fashion sourcing today!"
 - **[Fast URL Content Crawler](https://apify.com/6sigmag/fast-url-content-crawler?fpr=p2hrc6)** - A high-performance web scraper that rapidly extracts and analyzes content from multiple URLs simultaneously. Perfect for competitive research, content aggregation, and website structure analysis.
-- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
 - **[Favicon Downloader](https://apify.com/coder_zoro/favicon-downloader?fpr=p2hrc6)** - Favicon Downloader: Automatically fetch and save favicons from any website. Easy, fast, and reliable favicon extraction for web projects, automation, and datasets. Perfect for developers and digital marketers.
@@ -24341,7 +24341,7 @@ Perfect for building content libraries or powering research tools 📈
 - **[Search Keyword Research](https://apify.com/powerai/search-keyword-research?fpr=p2hrc6)** - Analyze search volume, cost, and competitiveness of keywords to optimize your SEO and advertising strategies with detailed research reports in HTML and PDF.
 - **[Semrush Agencies Partner Scraper](https://apify.com/saswave/semrush-agencies-partner-scraper?fpr=p2hrc6)** - Semrush agencies partner scraper. Collect business and contact informations. Extract entreprise website, social networks (linkedin, instagram, facebook, x.com ..), ratings, reviews and more
 - **[Semrush Domain Authority Scraper](https://apify.com/scrap3r/semrush-domain-authority-scraper?fpr=p2hrc6)** - Semrush Scraper, optimized for speed and reliability. Simply input your URL to extract data such as Authority Score, backlink count, and more—all at lightning speed.
-- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large  
+- **[SEMrush Exstractor / Bulk Data Extractor / Scraper actor](https://apify.com/marceli/semrush-exstractor-bulk-data-extractor-scraper-actor?fpr=p2hrc6)** - The Bulk Data Extractor is a powerful tool designed for users who want to efficiently scrape and extract data from various online sources, specifically optimized for SEMrush functionalities. 📊 This tool is essential for SEO professionals looking to gather large
  volumes of data seamlessly. 🚀
 - **[semrush keyworlds scraper](https://apify.com/marceli/semrush-keyworlds-scraper?fpr=p2hrc6)** - Keyword Insight Pro is a powerful data enrichment tool designed to enhance your keyword research process. By seamlessly scraping data from SEMrush, it provides in-depth insights into your target keywords, including search volume, competition, and trends.
 - **[Semrush Scraper](https://apify.com/radeance/semrush-scraper?fpr=p2hrc6)** - Extract enterprise-level SEO data from Semrush including domain authority, traffic analytics, keyword rankings, backlink profiles, trending sites & competitor insights. Supports bulk analysis with historical trends. Download as CSV, JSON, Excel, XML & more.
@@ -24440,7 +24440,7 @@ username, ID, and profile picture.
 - **[Tiktok Hashtags Trends](https://apify.com/mina_safwat/tiktok-hashtags-trends?fpr=p2hrc6)** - Scrapes current trending TikTok hashtags.
 - **[TikTok Keywords Discovery Tool 🎯](https://apify.com/easyapi/tiktok-keywords-discovery-tool?fpr=p2hrc6)** - 🔍 Discover trending TikTok keywords and search suggestions! Extract valuable insights from TikTok's search algorithm. Perfect for content creators, marketers, and researchers looking to optimize their TikTok strategy and understand trending topics.
 - **[Tiktok Search Scraper](https://apify.com/epctex/tiktok-search-scraper?fpr=p2hrc6)** - Unleash the power of data extraction with our advanced TikTok Search Scraper. Gather videos, hashtags, posts, URLs, share numbers, followers, hearts, names, music-related data, and more. Download data in various formats including HTML, JSON, CSV, Excel, or XML.
-- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs. 
+- **[Tiktok Shop Product](https://apify.com/excavator/tiktok-shop-product?fpr=p2hrc6)** - This is the Actor for crawling data from the TikTok shop product URLs.
 For example: https://shop.tiktok.com/view/product/XXXXXXXXXX
 OR https://www.tiktok.com/t/XXXXXXXXX/ which only available for TikTok Shop US. I increased price because TikTok always update their algorithm, 10$/1000 request
 - **[TikTok Shop scraper](https://apify.com/jeremy_frost/tiktok-shop-scraper?fpr=p2hrc6)** - TikTok Shop scraper – A powerful tool to extract product data from TikTok Shop, including prices, ratings, and sales figures. Automate data collection for analysis and insights!
@@ -24599,7 +24599,7 @@ Extract comprehensive transcript data from YouTube videos using official APIs. G
 - **[youtube-transcript-scraper](https://apify.com/cjsolt13/youtube-transcript-scraper?fpr=p2hrc6)** - for blog and product development
 - **[Zapier](https://apify.com/canadesk/zapier?fpr=p2hrc6)** - Get a list of all Integrations and App Templates available on Zapier. It's fast and costs little.
 - **[Zoho Help Center](https://apify.com/canadesk/zoho?fpr=p2hrc6)** - Get Categories and Articles from a Zoho Desk Help Center. It's fast and costs little.
-- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies. 
+- **[Zonebourse & Marketscreener Scraper](https://apify.com/saswave/zonebourse-marketscreener-scraper?fpr=p2hrc6)** - Zonebourse & Marketscreener scraper collect data at scale from website marketscreener.com and zonebourse.com Extract informations from public listed companies.
 Aggregate data about Valuations, Business segements, News, Shareholders.Scale you data analysis
 
 ## SOCIAL_MEDIA
@@ -24736,7 +24736,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[9GAG Media Downloader 📥](https://apify.com/easyapi/9gag-media-downloader?fpr=p2hrc6)** - A powerful Actor that extracts and downloads high-quality images and videos from 9GAG posts. Perfect for content creators, social media managers, and researchers who need to collect media assets from 9GAG efficiently. Supports batch processing and provides detailed metadata.
 - **[Ace Stainless Supply Blog Scraper](https://apify.com/yourapiservice/acestainless-blog-scraper?fpr=p2hrc6)** - Ace Stainless Supply Blog Scraper (acestainless.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Actor Adopte Get Auth Token](https://apify.com/straightforward_understanding/actor-adopte-get-auth-token?fpr=p2hrc6)** - Automates login to Adopte.app and extracts authentication tokens. Uses French residential proxies, handles the complete login flow (email/password → refresh token → JWT). The extracted token enables authenticated API requests for profile searching, viewing, messaging, and & other platform features.
-- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions. 
+- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions.
 
 According to recent studies around 70% of consumers watch videos with the sound off in public places.  Make sure your videos have captions with this Actor and engage with more users.
 - **[Adobe Stock Scraper](https://apify.com/igolaizola/adobe-stock-scraper?fpr=p2hrc6)** - Extract data from Adobe Stock's vast library of photos, videos, illustrations, vectors, and AI-generated content. This scraper gathers titles, dimensions, authors, and previews from search results across global regions. Perfect for analyzing trends and monitoring creative assets on stock.adobe.com
@@ -24762,7 +24762,7 @@ Extract informations like title, description, date, location, username, badges, 
 
 Boost your reviews monitoring and analytics at scale
 - **[Advanced X (Twitter) Profile Scraper](https://apify.com/delicious_zebu/advanced-x-twitter-profile-scraper?fpr=p2hrc6)** - Scrape all tweets from any X (Twitter) profile, not just recent ones. Uses advanced search with specific date ranges to capture far more data. Fast, stable & data-rich.
-- **[Advanced Youtube Scraper](https://apify.com/stefanie-rink/youtube-scraper?fpr=p2hrc6)** - Please follow all inquiries at: tnot2652@gmail.com. 
+- **[Advanced Youtube Scraper](https://apify.com/stefanie-rink/youtube-scraper?fpr=p2hrc6)** - Please follow all inquiries at: tnot2652@gmail.com.
 Search YouTube for keywords, channels or individual video data blazingly fast. Internal YouTube API. No key needed. Customizable sorting, including their views, comments, channel info, number of subscribers, publication date, and title data etc.
 - **[AgentSea Blog Scraper](https://apify.com/yourapiservice/agentsea-blog-scraper?fpr=p2hrc6)** - AgentSea Blog Scraper (agentsea.ai) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Agile Success Academy Blog Scraper](https://apify.com/yourapiservice/agilesuccess-blog-scraper?fpr=p2hrc6)** - Agile Success Academy Blog Scraper (agilesuccess.academy) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -24989,7 +24989,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Cheapest Instagram Profile Scraper (No Cookie)](https://apify.com/datadoping/instagram-profile-scraper-v2?fpr=p2hrc6)** - For only $0.8 per 1000 Profiles. This actor provides one of the most cost-effective solutions for scraping Instagram profiles and posts, delivering data at a speed of 1 profile per second.
 
 Note: Only public profiles with at least 1 post can be scraped.
-- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.  
+- **[check x account dm status（direct message）](https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=p2hrc6)** - This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.
 It is designed for developers, growth hackers, analysts, and campaign managers who need to filter or target users based on their DM availability.
 - **[Chewy Reviews Scraper](https://apify.com/scraped/chewy-reviews-scraper?fpr=p2hrc6)** - Scrape reviews from Chewy.com
 - **[ClipIQ Short‑Video AI Rewriter & Blog Script](https://apify.com/decent_businessman/short-video-ai-rewriter-blog-script?fpr=p2hrc6)** - Turn short-form videos (TikTok & Reels) into ready-to-publish content — transcript, summary, full blog post, and video script powered by AI.
@@ -25332,7 +25332,7 @@ Perfect for content research, trend analysis, dataset creation, and enriching yo
 📊 Streamline your data – collect info efficiently with zero hassle.
 🚀 Boost productivity – accurate, structured results every single time.
 💡 Smart, reliable, effortless – save time & work like a pro!
-- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page. 
+- **[Facebook Page Scraper $4 / 1000 results](https://apify.com/saswave/facebook-company-page-scraper?fpr=p2hrc6)** - Extract data from facebook company contact intro page.
 Collect informations at scale about: phone, email, page id, name, description, industry category, likes, followers, followings, ratings, website, social network links
 - **[Facebook Page Search Results Scraper](https://apify.com/memo23/apify-facebook-page-search-scraper?fpr=p2hrc6)** - Scrape facebook pages from search results and get important details such as page name, description, photo url, is verified, tag or category, reviews, price range, location, hours open, number of followers and page link.
 - **[Facebook Page Search Results with Details(About Tab) Scraper](https://apify.com/memo23/facebook-pages-and-contacts-scraper?fpr=p2hrc6)** - This actor allows you to scrape Facebook pages from search results and retrieve important details such as page name, description, photo URL, verification status, tags or categories, reviews, price range, location, hours of operation, number of followers, page slug, and page link.
@@ -25402,7 +25402,7 @@ You can set it to run automatically (every hour, day, or month) through Apify Sc
 - **[Facebook Profile Poster](https://apify.com/bhansalisoft/facebook-profile-poster?fpr=p2hrc6)** - Facebook Profile Poster- Auto post to  your facebook profile home feed.  Boost your Facebook marketing with ourFacebook Profile Poster Tool. Easily schedule, auto-post, and manage content across multiple pages. Save time and grow your reach.
 - **[Facebook Profile Reels Scraper 💡](https://apify.com/powerful_bachelor/facebook-profile-reels-scraper?fpr=p2hrc6)** - 🚀 Facebook Profile Reels Scraper lets you extract public Reels from Facebook profiles with ease! 🎥✨ Get video duration, captions, audio info, creator details & engagement stats 📊. Perfect for marketers, researchers & analysts to track trends & insights across multiple profiles. 🔎💡
 - **[Facebook Profile Reels Scraper PPR ✨](https://apify.com/powerful_bachelor/facebook-profile-reels-scraper-ppr?fpr=p2hrc6)** - 🚀 Facebook Profile Reels Scraper lets you extract public Reels from Facebook profiles with ease! 🎥✨ Get video duration, captions, audio info, creator details & engagement stats 📊. Perfect for marketers, researchers & analysts to track trends & insights across multiple profiles. 🔎💡
-- **[Facebook Profile Scraper](https://apify.com/lazyscraper/facebook-profile-scraper?fpr=p2hrc6)** - This tool efficiently extracts public profile data from specified Facebook accounts, including: 
+- **[Facebook Profile Scraper](https://apify.com/lazyscraper/facebook-profile-scraper?fpr=p2hrc6)** - This tool efficiently extracts public profile data from specified Facebook accounts, including:
 Email addresses (if publicly listed) 、Bio、User ID、Profile URL.
 Key Advantage: For public profiles, it delivers accurate follower/fan counts – a critical metric most competitors fail to provide reliably.
 - **[Facebook Profile Scraper – Cheap & Fast 📸🔍✨](https://apify.com/contactminerlabs/facebook-profile-scraper---cheap-fast?fpr=p2hrc6)** - 🔍 Scrape Facebook Profiles Instantly
@@ -25486,7 +25486,7 @@ It requires **logged-in cookies** to access search results consistently.
 - **[Facebook US Marketplace Scraper Pro](https://apify.com/hello.datawizards/facebook-marketplace-us-scraper-pro?fpr=p2hrc6)** - The Facebook US Marketplace Scraper Pro lets you extract real-time product listings from Facebook Marketplace . Get titles, prices, locations, images, and URLs easily. Perfect for resellers, analysts, and businesses seeking market insights and competitor monitoring.
 - **[Facebook User Search Scraper](https://apify.com/lexis-solutions/facebook-user-search-scraper?fpr=p2hrc6)** - The Facebook User Search Scraper can obtain public data of profiles given a profile URL or a name to search. You can use it as a Facebook user matcher, user finder, or user enricher to connect your apps.
 - **[Facebook Video Details Scraper](https://apify.com/neuro-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - Extract public Facebook video details in seconds! Get title, description 📝, upload date 📅,  creator info 👤, and video URL 🌐. Perfect for research, analytics, and trend tracking. ✅
-- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟 
+- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟
   Access ALL formats data types easily & fast ⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️
@@ -25535,7 +25535,7 @@ Perfect for content research, trend analysis, dataset creation & enriching your 
 - **[Faire Product Scraper](https://apify.com/saswave/faire-product-scraper?fpr=p2hrc6)** - $1.75 / results. Extract product item data from brand or direct url in website faire.com Collect informations at scale. About item, brand, price, GTIN, SKU, attributes, description and more
 - **[Fake Followers Checker](https://apify.com/datadoping/fake-followers-checker?fpr=p2hrc6)** - For $1.5 per 1000 Profiles. Note: This actor is designed to analyze profiles of influencers and large public pages. It does not support all accounts, particularly private profiles or those not present in the public dataset.
 - **[Fandom & Wikipedia Extractor](https://apify.com/jupri/wiki-scraper?fpr=p2hrc6)** - Scrape content from Fandom.com and Wikipedia.com
-- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields. 
+- **[FanFix.io All in one scraper](https://apify.com/iskander/fanfix-io-all-in-one-scraper?fpr=p2hrc6)** - A fast and reliable fanfix scraper, scrapes every single model available on the website with all necessary fields.
 Very good for lead generation to find new models for your agency.
 - **[Fansly 💙 Scraper](https://apify.com/jupri/fansly?fpr=p2hrc6)** - 💫 All-in-One Fansly.com Scraper
 - **[Fansly Full Profile Scraper](https://apify.com/powerai/fansly-full-profile-scraper?fpr=p2hrc6)** - Extract complete profile information from Fansly creators by providing their usernames, including subscription tiers, statistics, and media content details.
@@ -25561,17 +25561,17 @@ Scrape Instagram Posts with Ease and Speed
 - **[Fast Tiktok Downloader API](https://apify.com/wilcode/fast-tiktok-downloader-api?fpr=p2hrc6)** - A powerful API for downloading TikTok videos, images and music with high success rate, flexible proxy support, and complete metadata extraction.
 - **[Fast YouTube AI Summary & Chapters (~$0.05/video)](https://apify.com/openactor/youtube-ai-summarizer?fpr=p2hrc6)** - Paste a YouTube Video or Shorts link, add your user prompt, get back short + long summaries, chapters, tags, sentiment, relevance, worth-it score, full transcript, and a user prompt response. Designed for creators, marketers, researchers, and PMs who need quick, ready-to-use insights.
 - **[Fast YouTube Channel Scraper](https://apify.com/streamers/youtube-channel-scraper?fpr=p2hrc6)** - This alternative YouTube Data API has no limits or quotas. Use it to scrape one or multiple YouTube channels: channel info, URL, total number of subscribers, videos and views, creation date. Try it and get basic video data. You can download extracted data in JSON, CSV, and Excel.
-- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
-- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Channel Videos Scraper Fallback](https://apify.com/equitable_businessman/fast-youtube-channel-videos-scraper-fallback?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
 - **[Fast YouTube Search Results Scraper](https://apify.com/matthewjames/fast-youtube-search-results-scraper?fpr=p2hrc6)** - Quickly returns detailed structured data based on search queries.
-- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON. 
+- **[Fast YouTube Videos Scraper](https://apify.com/equitable_businessman/fast-youtube-videos-scraper?fpr=p2hrc6)** - 🔎 Extracts public metadata from YouTube search results into ready-to-use JSON.
 ⚡ Runs locally or on Apify, supports proxies and scalable runs.
 🔒 Respect YouTube Terms of Service and privacy; do not collect any data.
 - **[Fastest Reddit Search Scraper (No cookies, No login)](https://apify.com/iskander/fast-reddit-scraper?fpr=p2hrc6)** - Collect Reddit search results fast for cheapest price.
@@ -26209,7 +26209,7 @@ The reason for splitting is that after obtaining a cookie, it can be used for mu
 - **[Instagram Video Downloader](https://apify.com/bytepulselabs/instagram-video-downloader?fpr=p2hrc6)** - Download videos from Instagram posts by adding one or more Instagram post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.
 - **[Instagram Video Downloader](https://apify.com/codenest/instagram-video-downloader?fpr=p2hrc6)** - Effortlessly download  high-quality Instagram videos with complete engagement analytics, including likes, comments, user details, and captions. Access direct CDN links for high-quality videos and thumbnails for professional media analysis and content archiving.🚀Instagram Video Downloader.
 - **[Instagram Video Downloader](https://apify.com/shahidirfan/instagram-video-downloader?fpr=p2hrc6)** - The Instagram Video Downloader is a powerful Apify actor designed to download videos from Instagram with comprehensive metadata extraction. Whether you need to download single videos, multiple posts, reels, or entire profiles, this actor provides reliable extraction with direct download.
-- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner 
+- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner
 🌐 Extract titles, likes, comments, formats & publish dates
 ⚡ Process bulk URLs at lightning speed
 🌐 Use residential proxies for 100% reliability
@@ -26232,11 +26232,11 @@ The reason for splitting is that after obtaining a cookie, it can be used for mu
 - **[Instagram Videos Downloader](https://apify.com/easyapi/instagram-videos-downloader?fpr=p2hrc6)** - A powerful Instagram video downloader that helps you download videos from Instagram posts, reels, and stories. Support batch downloading with multiple URLs.
 - **[Instagram 爬蟲 - 提取貼文���要與媒體下載連結](https://apify.com/futurizerush/instagram-basic-scraper-zh-tw?fpr=p2hrc6)** - 基礎 Instagram 內容爬蟲，從多個公開使用者名稱中提取圖片、影片和輪播封面圖片，附帶下載連結和元資料。支援最多10個使用者，每個使用者12個貼文摘要。取得包含按讚數、留言數、時間戳記的貼文資料。注意：輪播貼文僅提取封面圖片。
 - **[Instagram_Comments_Scrapper](https://apify.com/om.shinde/instagram-comments-scrapper?fpr=p2hrc6)** - This actor scrapes comments from public Instagram posts For each comment, it extracts:
-- Username  
-- Comment text  
-- Likes count  
-- Replies count  
-- Verified status  
+- Username
+- Comment text
+- Likes count
+- Replies count
+- Verified status
 Just provide a list of Instagram post URLs, and the actor returns structured data ideal for analysis or monitoring public opinion
 - **[instagram-posts](https://apify.com/rigelbytes/instagram-posts?fpr=p2hrc6)** - Extract all posts from public Instagram profiles. Get captions, likes, comments, images, and carousel details — perfect for social media analysis and research.
 - **[Instantly Scrape Emails, Phones & Social Media from Any Site 🔥](https://apify.com/danielnestle2024/instantly-scrape-emails-phones-social-media-from-any-site?fpr=p2hrc6)** - 🔥 INSTANT LEADS! 🔥
@@ -26264,11 +26264,11 @@ Perfect for recruitment, B2B lead generation, freelancer outreach & talent datab
 
 This scraper extracts job listings from hk.jobsdb, pulling key information such as:
 
-- `company_name`  
-- `job_title`  
-- `salary`  
-- `work_type`  
-- `job_description`  
+- `company_name`
+- `job_title`
+- `salary`
+- `work_type`
+- `job_description`
 - `job_responsibilities`
 - **[John Kitchens Coach Blog Scraper](https://apify.com/yourapiservice/johnkitchens-blog-scraper?fpr=p2hrc6)** - John Kitchens Coach Blog Scraper (johnkitchens.coach) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
 - **[Joolree By D Blog Scraper](https://apify.com/yourapiservice/joolreebyd-blog-scraper?fpr=p2hrc6)** - Joolree By D Blog Scraper (joolreebyd.bigcartel.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
@@ -26288,7 +26288,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Ko-fi Profile Scraper](https://apify.com/sauldom102/ko-fi-profile-scraper?fpr=p2hrc6)** - Extract publicly available data from Ko-fi profiles, including creator details, supporter insights, and revenue estimates. Perfect for market research, competitor analysis, and influencer tracking.
 - **[Kwai Profile Scraper](https://apify.com/luan.r.dev/kwai-profile-scraper?fpr=p2hrc6)** - KwaiScraper Profile
 
-Extract detailed data from public Kwai profiles with speed and accuracy. 
+Extract detailed data from public Kwai profiles with speed and accuracy.
 Perfect for influencer analysis, content tracking, or building data pipelines.
 
 Price:
@@ -26454,7 +26454,7 @@ Perfect for education research, university discovery, student insights, market a
 - **[LinkedIn People Profile Scraper](https://apify.com/pratikdani/linkedin-people-profile-scraper?fpr=p2hrc6)** - Retrieve LinkedIn profile URLs and extract comprehensive profile details. This includes basic information, employment history, skills, company information, biography, location, and more.
 - **[Linkedin People Scraper](https://apify.com/bhansalisoft/linkedin-people-scraper?fpr=p2hrc6)** - Linkedin People Scraper - Extract LinkedIn user profiles including names, job titles, companies, and locations. Ideal for lead generation, recruitment, and market research. Automate LinkedIn people data easily.
 - **[Linkedin People Search](https://apify.com/clothefobia/linkedin-people-search?fpr=p2hrc6)** - Linkedin People Search - Search all linkedin Member Detail with specific search keyword
-- **[Linkedin people search scraper](https://apify.com/curious_coder/linkedin-people-search-scraper?fpr=p2hrc6)** - Scrape search results from linkedin people search. 
+- **[Linkedin people search scraper](https://apify.com/curious_coder/linkedin-people-search-scraper?fpr=p2hrc6)** - Scrape search results from linkedin people search.
 Perform search on linkedin and pass the resulting url from address bar to this actor to scrape profiles.
 - **[LinkedIn People Search Scraper](https://apify.com/powerai/linkedin-peoples-search-scraper?fpr=p2hrc6)** - Extract professional profiles from LinkedIn with detailed metadata including names, titles, companies, and direct URLs. Perfect for talent acquisition, competitor analysis, and business development.
 - **[Linkedin people search scraper (no cookie)](https://apify.com/unlimitedleadtestinbox/linkedin-people-search-scraper-no-cookie?fpr=p2hrc6)** - Scrape search results from linkedin people search. Perform search on linkedin and get all the people. no cookie required
@@ -26488,7 +26488,7 @@ Note: Freemium users are limited to scrape only 4 posts and 100 reactions per ru
 - **[LinkedIn Post Reshares/Reposts Scraper || No Cookies](https://apify.com/apimaestro/linkedin-post-reshares?fpr=p2hrc6)** - LinkedIn Post Reposts Scraper:
 Extract reposts for a given LinkedIn post including author data, stats, media attachments and more.
 - **[Linkedin post scraper](https://apify.com/curious_coder/linkedin-post-search-scraper?fpr=p2hrc6)** - Scrape linkedin posts or updates from linkedin post search results.
-Supports advanced linkedin search filters. 
+Supports advanced linkedin search filters.
 Extract posts from any linkedin member
 - **[Linkedin Post Scraper](https://apify.com/bestscrapers/linkedin-post-scraper?fpr=p2hrc6)** - The **Linkedin Post Scraper** is a powerful tool designed to extract detailed post data from public LinkedIn profiles — without the need for cookies or login.
 - **[Linkedin Post Scraper](https://apify.com/logical_scrapers/linkedin-post-scraper?fpr=p2hrc6)** - Extract rich, structured data from LinkedIn posts with our high-performance, AI-friendly scraping solution. Perfect for content analysis, social listening, and market research.
@@ -26579,8 +26579,8 @@ This advanced scraper integrates with tools like Apollo, Hunter, Lusha etc. to e
 - **[Linkedin Sales Navigator Scraper](https://apify.com/bestscrapers/linkedin-sales-navigator-scraper?fpr=p2hrc6)** - A powerful tool designed to extract detailed lead information from a Sales Navigator URL — without the need for cookies or login.
 - **[Linkedin Sales Navigator Scraper](https://apify.com/freshdata/linkedin-sales-navigator-scraper?fpr=p2hrc6)** - A powerful tool designed to extract detailed leads information from a sales navigator URL — without the need for cookies or login.
 - **[Linkedin Sales Navigator Scraper ( Everything )](https://apify.com/muhammad_usama/apify-sales-navifgator?fpr=p2hrc6)** - This scraper can scrape anything from linkedin sales navigator. All it need is your linkedin sales navigator account cookies.
-- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently. 
-Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers. 
+- **[LinkedIn Scrape: Profiles, Posts, Messages, Reactions, Comments](https://apify.com/agent-x/linkedin-multi-functional-scraper?fpr=p2hrc6)** - Scrape & Collect profiles, companies, posts, messages, reactions, and comments efficiently.
+Save 84% on costs while getting more functionality. Perfect for researchers, recruiters, sales teams, and marketers.
 Customizable, automated, and easy to integrate.
 - **[Linkedin Scraper](https://apify.com/nurturing_yautia/linkedin-scraper?fpr=p2hrc6)** - Scrape user Data
 - **[LinkedIn Scraper Dynamic](https://apify.com/ornate_cadet/linkedin-scraper-dynamic?fpr=p2hrc6)**
@@ -26692,7 +26692,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Meetup Scraper](https://apify.com/filip_cicvarek/meetup-scraper?fpr=p2hrc6)** - Extract event details from Meetup.com based on customizable input settings. Efficiently gathers data such as event names, hosts, dates, addresses, and more. Ideal for market analysis, event planning, and trend tracking. Easy to use with tailored scraping options for precise data extraction.
 - **[Mercadolibre Product Scraper](https://apify.com/saswave/mercadolibre-product-scraper?fpr=p2hrc6)** - $0.5 / 1000 results , no proxies needed. Fast and reliable scraper for MercadoLibre product pages and search results. Support all domains. Perfect for competitive analysis, price monitoring, e-commerce intelligence, catalog enrichment, and high-volume data extraction.
 - **[Mercadolibre Reviews Scraper](https://apify.com/saswave/mercadolibre-reviews-scraper?fpr=p2hrc6)** - $0.6 / 1000 results, no proxies needed. A fast and reliable scraper that extracts customer reviews from any MercadoLibre website domain name. Get title, content, rating, date, information about reviews
-- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need. 
+- **[Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=p2hrc6)** - Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need.
 
 Get detailed ad information including title, description, images, videos, CTA, Social platform and metadata
 - **[Meta (Facebook) Ad Scrapper (Using Ad Library URL) (Premium)](https://apify.com/scrapeio/meta-facebook-ad-scrapper-using-ad-library-url-premium?fpr=p2hrc6)** - Scrape Meta ads instantly using any brand’s Ad Library URL. Just enter the URL and number of ads you want — get structured, real-time ad data in seconds. Ideal for marketers, analysts, and creators. Fast, simple, and pay-per-result. No fluff, just the ads you need.
@@ -26729,7 +26729,7 @@ Get detailed ad information including title, description, images, videos, CTA, S
 - **[NextdoorScraper](https://apify.com/stimulating_theorist/nextdoorscraper?fpr=p2hrc6)** - Nextdoor recommendations scraper
 - **[NHL Schedule Actor](https://apify.com/pintostudio/nhl-schedule-actor?fpr=p2hrc6)** - This actor query all the nhl schedule.
 - **[Nike Product Scraper](https://apify.com/fingolfin/nike-product-scraper?fpr=p2hrc6)** - use this actor to scrape nike products pages for shoes and clothes
-- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving. 
+- **[NOS News Netherlands](https://apify.com/harvestedge/nos-news-netherlands?fpr=p2hrc6)** - The NOS News Scraper extracts news articles from NOS.nl, the Dutch public news broadcaster in the Netherlands. Scrape title, summary, date, URL and full text. Collect Dutch news content for analysis or archiving.
 
 Dutch, Nederland, Holland, Nieuws, Nederlandse Omroep Stichting.
 - **[Nostr](https://apify.com/grimtechnet/nostr?fpr=p2hrc6)** - Nostr is an open protocol for sending notes and other stuff. It is often used for social media, microblogs, photo sharing, and more. Use this actor to scrape Nostr profiles, notes, and events.
@@ -27257,7 +27257,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 Enter your search parameters to collect verified contact emails from public StackOverflow profiles, along with profile title, bio, source URL & platform info ✉️📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs⚡🧩
 - **[Star City Coaching Blog Scraper](https://apify.com/yourapiservice/starcitycoaching-blog-scraper?fpr=p2hrc6)** - Star City Coaching Blog Scraper (starcitycoaching.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and keywords easily for content analysis and aggregation.
-- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour. 
+- **[Statut Titre De Sejour](https://apify.com/saswave/statut-titre-de-sejour?fpr=p2hrc6)** - Extraction des données de status de délivrance du titre de séjour.
 Premier demande et renouvellement de titre de séjour
 
 https://sso.anef.dgef.interieur.gouv.fr
@@ -27466,7 +27466,7 @@ Perfect for lead generation, recruitment, B2B outreach, talent sourcing & enrich
 - **[TikTok Comments Scraper ✅ No cookies ✅](https://apify.com/scraping_solutions/tiktok-comments-scraper-no-cookies?fpr=p2hrc6)** - Extract Commenters from Tiktok Posts – 100% Public Data, No Login or Cookies! Boost your Tiktok engagement analysis with this powerful tool that scrapes commenters from public Instagram posts without using cookies. Perfect for marketers, recruiters, analysts.
 - **[TikTok Comments Scraper 📲💬✨ -  Fast & cheap](https://apify.com/scrapestorm/tiktok-comments-scraper---fast-cheap?fpr=p2hrc6)** - Extract comments from TikTok 📲💬. Simply enter a TikTok URL and get all the video & profile details: comments, URLs, language, creation time ⏰. Export the scraped data 📊, run the scraper through an API 🔌, schedule & monitor tasks 🗓️, or integrate with other tools ⚙️!
 - **[TikTok Comments Scraper API](https://apify.com/scraptik/tiktok-comments-scraper-api?fpr=p2hrc6)** - Apify’s LOWEST cost TikTok Comment Scraper. Access the TikTok mobile API for comments and comment replies. Unlock TikTok data at scale. Have custom needs? Visit scraptik.com
-- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center. 
+- **[Tiktok Creative Center Scraper](https://apify.com/doliz/tiktok-creative-center-scraper?fpr=p2hrc6)** - All In One ！！！The definitive scraper for the TikTok Creative Center.
 Reliably extract high-value data on Top Ads, Trending Videos, Trending Creators, Trending Songs, and Trending Hashtags. Delivering structured JSON data for your marketing intelligence and competitive analysis.
 - **[Tiktok Creative Center Top Ads](https://apify.com/codebyte/tiktok-creative-center-top-ads?fpr=p2hrc6)** - Find top performing ads on TikTok Creative Center. Get detailed analytics and insights on your competitors ads.
 - **[TikTok Data Extractor](https://apify.com/clockworks/free-tiktok-scraper?fpr=p2hrc6)** - Extract data about videos, users, and channels based on hashtags or scrape full user profiles including posts, total likes, name, nickname, numbers of comments, shares, followers, following, and more.
@@ -27680,7 +27680,7 @@ Scrape trending TikTok sounds with comprehensive data, including rank, title, au
 - **[TikTok User Profile Scraper](https://apify.com/direct_houseboat/tiktok-user-profile-scraper?fpr=p2hrc6)** - Scrape TikTok user profile data instantly with this fast, cloud-based Apify Actor. Extract follower count, following count, email(from signature), external URL & more using Python, HTTPX & BeautifulSoup. Perfect for influencer research, lead generation, and social media analysis.
 - **[TikTok User Profile Scraper PRO](https://apify.com/xtech/tiktok-user-scraper-pro?fpr=p2hrc6)** - TikTok User Profile Scraper PRO extracts comprehensive user profile data including follower counts, engagement metrics, verification status, and complete bio information. Get detailed insights about TikTok creators, including profile pictures and account statistics.
 - **[Tiktok User Search Scraper](https://apify.com/sociavault/tiktok-user-search-scraper?fpr=p2hrc6)** - Search TikTok users and creators by keyword or name. Extract comprehensive user profiles including follower counts, verification status, and profile details. Perfect for influencer discovery and competitor research.
-- **[TikTok User Search Scraper](https://apify.com/clockworks/tiktok-user-search-scraper?fpr=p2hrc6)** - Extract data about users based on TikTok user search. You'll get full user profiles, including name, nickname, 
+- **[TikTok User Search Scraper](https://apify.com/clockworks/tiktok-user-search-scraper?fpr=p2hrc6)** - Extract data about users based on TikTok user search. You'll get full user profiles, including name, nickname,
 signature, number of followers, number of videos, bio link, and author’s ID.
 - **[TikTok Users Scraper](https://apify.com/easyapi/tiktok-users-scraper?fpr=p2hrc6)** - Scrape TikTok user profiles from search results. Extract detailed user information including nickname, follower count, avatar URLs, and more. Perfect for influencer research and social media analysis.
 - **[TikTok Video & Comment Scraper](https://apify.com/delicious_zebu/tiktok-video-comment-scraper?fpr=p2hrc6)** - Effortlessly extract rich TikTok video details and comments with stable, high-speed data collection!
@@ -27720,7 +27720,7 @@ The updated version supports multiple videos and scraping TikTok profiles will b
 - **[TikTok Video Scraper & Downloader](https://apify.com/codenest/tiktok-video-scraper-downloader?fpr=p2hrc6)** - 🚀 Download TikTok videos instantly with our powerful scraper! Get HD MP4 files, multiple thumbnails & full metadata. 💾 Benefit from secure Apify Key-Value Store - encrypted storage, direct CDN URLs. Perfect for marketers and developers! TikTok Video Scraper & Downloader.
 - **[TikTok Video Scraper Premium](https://apify.com/radeance/tiktok-video-scraper-premium?fpr=p2hrc6)** - Access TikTok video & slideshow data, transcribe videos and retrieve creator and music data, hashtags, likes, views, shares and mentions at scale. Download videos in bulk in native quality and subtitles as WebVTT or SRT.  Export your data in JSON, CSV, Excel, RSS & more...
 - **[TikTok Video Search Scraper](https://apify.com/powerai/tiktok-videos-search-scraper?fpr=p2hrc6)** - Extract TikTok videos with comprehensive metadata including engagement metrics, video details, and music information. Perfect for content research, trend analysis, and competitor tracking. Supports advanced filtering and pagination for large-scale data collection.
-- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English. 
+- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English.
 It's built to be robust, automatically handling video-to-audio conversion and compression to stay within API limits.
 - **[Tiktok Videos](https://apify.com/shareze001/tiktok-videos?fpr=p2hrc6)** - Get TikTok videos: You can get videos by keywords, find videos under a specific tag, or even retrieve all videos from a particular influencer.
 - **[Tiktok Videos by Keyword](https://apify.com/shareze001/tiktok-videos-by-keyword?fpr=p2hrc6)** - Get the videos on Tiktok through keywords, such as candle, tshirt, etc.
@@ -27736,15 +27736,15 @@ Perfect for trend research, content analysis, audience insights, viral tracking 
 - **[TikTok Videos/Comments Scraper](https://apify.com/alien_force/tiktok-scraper-with-comments?fpr=p2hrc6)** - Scrape TikTok videos data along with their comments and replies. This powerful tool helps you extract structured data from TikTok URLs, including the video details, user, comments, and replies.
 - **[TikTok Views Scraper](https://apify.com/eddiepogerzz/tiktok-views-scraper?fpr=p2hrc6)** - This scraper is mainly for tiktok views scraping when given a list of profiles and brand tags.
 - **[Tiktok Viral Challenge Finder](https://apify.com/badruddeen/tiktok-viral-challenge-finder?fpr=p2hrc6)** - Catch TikTok trends before they explode! Instantly discover the hottest rising challenges & hashtags with real-time 7-day views + virality score. Perfect for creators, social media managers & marketers who want to go viral first. One-click tweet-ready summary. 100 % free!
-- **[Tiktok-Profile-Scraper](https://apify.com/lazyscraper/tiktok-profile-scraper?fpr=p2hrc6)** - This tool extracts public TikTok profile data with speed and accuracy.  
-It collects key attributes including:  
-- Username  
-- Display Name  
-- Bio  
-- Profile Image URLs  
-- Region  
-- Profile Link  
-- Verification Status  
+- **[Tiktok-Profile-Scraper](https://apify.com/lazyscraper/tiktok-profile-scraper?fpr=p2hrc6)** - This tool extracts public TikTok profile data with speed and accuracy.
+It collects key attributes including:
+- Username
+- Display Name
+- Bio
+- Profile Image URLs
+- Region
+- Profile Link
+- Verification Status
 - Engagement stats: Follower Count, Total Likes, Video Count
 - **[TikTokTube](https://apify.com/collegeitpro/tiktoktube?fpr=p2hrc6)** - Turn Viral TikToks into YouTube Gold on Autopilot! 🚀💰
 - **[Tinder Email Scraper – Advanced, Cheapest & Reliable 📧🎟️](https://apify.com/contactminerlabs/tinder-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape Tinder Emails
@@ -28149,7 +28149,7 @@ Export results in JSON or CSV via Apify dataset.
 - **[WhatsApp Real-Time Message API - Webhook & Telegram](https://apify.com/clearpath/whatsapp-real-time-message-api?fpr=p2hrc6)** - Real-time WhatsApp message receiver with instant webhook and Telegram forwarding. One-time QR authentication with persistent sessions. Download media (images, audio notes, videos, docs). Filter messages by chat type. Built-in REST API for monitoring and message retrieval.
 - **[Whatsapp scraper](https://apify.com/curious_coder/whatsapp-scraper?fpr=p2hrc6)** - Scrape  whatsapp numbers in bulk and extract complete details including name, email, website, address, description, profile picture, etc
 - **[Whatsapp Scraper](https://apify.com/inutil_labs/whatsapp-scraper?fpr=p2hrc6)** - Fetch Whatsapp profiles data, including: display picture, name and status.
-- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number. 
+- **[Whatsapp Scraper Profile By Number](https://apify.com/antonio_cesar/whatsapp-scraper-profile?fpr=p2hrc6)** - WhatsApp Scraper Profile By Number allows you to extract public profile information directly from a WhatsApp number.
 $ 0,01 per request.
 - **[Whatsapp Scraper Profile(unlimited by month)](https://apify.com/antonio_cesar/whatsapp-scraper-profile-unlimited-by-month?fpr=p2hrc6)** - WhatsApp Profile Scraper lets you extract public profile info from any WhatsApp number — unlimited per month.
 - **[Whatsapp Sms](https://apify.com/syntellect_ai/whatsapp-sms?fpr=p2hrc6)** - Integrate your AI systems with WhatsApp Business API using the WhatsApp MCP Actor. This tool connects Model Context Protocol (MCP) servers with WhatsApp, enabling AI agents and applications to manage messages programmatically. send and receive messages in whats app
@@ -28260,7 +28260,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Youtube Channel Scraper](https://apify.com/runtime/youtube-channel-scraper?fpr=p2hrc6)** - YouTube Channel Scraper is an Apify Actor that scrapes video data and comments from a YouTube channel. It extracts key details such as video title, URL, view count, streaming time (in days), hashtags, description, comments count, and individual comments with user IDs.
 - **[Youtube Channel Scraper](https://apify.com/logical_scrapers/youtube-channel-scraper?fpr=p2hrc6)** - [Fast + Cheap] YouTube Channel Scraper transforms public YouTube channels into growth-ready intelligence. The YouTube Channel scraper uncovers audience reach, content cadence, and partnership potential so your team can make confident creator decisions faster.
 - **[Youtube Channel Scraper (keyword+URL)](https://apify.com/codescraper/youtube-channel-scraper?fpr=p2hrc6)** - Price: $3 per month. Get channel data: identity (name, URL, handle, ID, about URL, logo, banner), description, & key stats (subscribers, video & views count). Also extracts join date, country, country code, keywords, categories, & contact info (emails, external links).
-- **[Youtube Channel Scrapper](https://apify.com/deeper/youtube-channel-scrapper?fpr=p2hrc6)** - Scrape YouTube Channel pages from page URL. There is not much configuration as it uses initial data available on page load. You'll get video Id, title, descriptions, #likes, #comments, #views and similar information for channels. 
+- **[Youtube Channel Scrapper](https://apify.com/deeper/youtube-channel-scrapper?fpr=p2hrc6)** - Scrape YouTube Channel pages from page URL. There is not much configuration as it uses initial data available on page load. You'll get video Id, title, descriptions, #likes, #comments, #views and similar information for channels.
 Feel free to try it out with our default settings by hitting ▷ Start.
 - **[YouTube Channel Shorts Scraper 📱](https://apify.com/easyapi/youtube-channel-shorts-scraper?fpr=p2hrc6)** - Scrape YouTube Shorts from any channel - Get video details including titles, views, URLs, and more. Perfect for content analysis, competitor research, and tracking short-form video performance.
 - **[YouTube Channel Statistics Scraper 📊](https://apify.com/easyapi/youtube-channel-statistics-scraper?fpr=p2hrc6)** - Extract comprehensive YouTube channel statistics including subscriber count, views, video count, and more. Perfect for content creators, marketers, and researchers looking to analyze YouTube channels and track their performance metrics. 🎥📊
@@ -28294,7 +28294,7 @@ We'll get all meaningful information: comment text, author, publication date, nu
 - **[Youtube Comments Scraper](https://apify.com/vistics/youtube-comments-scraper?fpr=p2hrc6)** - Unlock the conversation happening around any YouTube video with our YouTube Comment Scraper. Tailored for marketers, analysts, creators, and curious minds alike, this utility simplifies the process of gathering, filtering, and examining viewer feedback at scale.
 - **[Youtube Comments Scraper](https://apify.com/powerful_bachelor/youtube-comments-scraper?fpr=p2hrc6)** - Extract detailed YouTube comments effortlessly with this powerful tool! Input video URLs or IDs and get comprehensive data in JSON format, including comment content, like counts, and commenter details. Perfect for researchers and developers. 📊🎥
 - **[Youtube Comments Scraper](https://apify.com/barrierefix/youtube-comments-harvester?fpr=p2hrc6)** - Comprehensive YouTube comments scraper with channel-wide enumeration, incremental scraping, complete reply threading, and de-duplication. No API key required.
-- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ - 
+- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ -
 ⚡ Extract CID, type, published time, comments & authors
 🌐 Grab page URLs instantly
 ⏱️ Collect extensive data in seconds
@@ -28322,7 +28322,7 @@ We'll get all meaningful information: comment text, author, publication date, nu
 - **[Youtube Comments with User Detail Scraper](https://apify.com/bhansalisoft/youtube-comment-member-scraper?fpr=p2hrc6)** - Youtube Comments Scraper : Scrap all comments with user detail and video information from any youtube video url
 - **[Youtube Community Comments Scraper](https://apify.com/donjuan_mime/youtube-community-comments-scraper?fpr=p2hrc6)** - YouTube Community Comments Scraper is a tool designed to extract comments from YouTube Community posts efficiently. Built for the Apify platform and powered by Playwright, this scraper automates the process of collecting comments.
 - **[Youtube Community Posts Scraper](https://apify.com/scraper-engine/youtube-community-posts-scraper?fpr=p2hrc6)** - YouTube Community Posts Scraper collects posts, polls, images, likes, comments, and engagement data from any channel’s community tab. Perfect for research, trend analysis, or audience insights. Export structured results in JSON, CSV, or Excel for easy analysis and integration.
-- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]   
+- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]
 💸 Get high-quality data at an affordable cost
 ⚡ Fast, reliable & easy-to-use – try it once & feel the difference
 📊 Access extensive insights effortlessly
@@ -28574,9 +28574,9 @@ This actor processes a YouTube video link and extracts the transcript, descripti
 - **[Youtube Video Downloader](https://apify.com/epctex/youtube-video-downloader?fpr=p2hrc6)** - Effortlessly download YouTube videos of your preferred quality with our user-friendly Video Downloader. Try it now!
 - **[Youtube Video Downloader](https://apify.com/thenetaji/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube videos quickly and in high quality with our YouTube Video Downloader. This easy-to-use tool allows you to save YouTube videos in multiple formats and resolutions. Perfect for content creators, marketers, and researchers, our downloader supports fast, secure, and hassle-free.Try now!
 - **[Youtube Video Downloader](https://apify.com/neuro-scraper/youtube-video-downloader?fpr=p2hrc6)** - Unlock hidden download links from any youtube video ⚡️ Get audio, merged streams, subtitles, thumbnails & rich metadata with zero hassle. Smart retries, cookie mode & proxy support keep you unstoppable 🔥 Plug, run, collect — scale like a pro 🚀📥💡
-- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop. 
+- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop.
 
-Download in any format - 1080p (Full HD) to mp3 (audio only). 
+Download in any format - 1080p (Full HD) to mp3 (audio only).
 
 Pay per Download - No commitments, No server costs, No bandwidth charges.
 
@@ -28732,7 +28732,7 @@ Perfect for building recipe databases, nutrition tools, or culinary content apps
 - **[Atlas Obscura URLs Scraper](https://apify.com/martin0925/scraper-atlas-obscura-urls?fpr=p2hrc6)** - The Atlas Obscura URLs Scraper extracts links to individual place detail pages from Atlas Obscura's country, region, or city listing pages. This tool is perfect for developers, data analysts, and travel researchers who want to collect structured lists of unique locations.
 - **[Autotrader Canada](https://apify.com/fayoussef/autotrader-canada?fpr=p2hrc6)** - Our autotrader.ca scraper makes it simple to collect car listings at scale. It automatically gathers URLs from all available pages and extracts complete details for every listing — including price, mileage, year, and more.
 - **[autotrader.com.au Scraper](https://apify.com/fayoussef/autotrader-au-scraper?fpr=p2hrc6)** - Scrapes Autotrader.com.au for detailed vehicle listings. Extracts 30+ data points: price, specs, VIN, odometer, dealer info, photos & URLs. Fetches all pages per API's total for comprehensive results
-- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales. 
+- **[Aviasales hot tickets scraper](https://apify.com/volarai/aviasales-hot-tickets-scraper?fpr=p2hrc6)** - Scrapes hot tickets prices from Aviasales.
 Extracts destination, price, discount, and dates. Uses Selenium. Saves data to Apify dataset.
 Hot ticket page example for Moscow: https://www.aviasales.ru/?params=MOW1&service=hottickets&marker=70279
 - **[Aviation Intel](https://apify.com/fiery_dream/aviation-intel?fpr=p2hrc6)** - Enterprise-grade aviation weather briefing and flight operations intelligence agent.
@@ -28835,7 +28835,7 @@ Collect data at scale and plan your next trips easily with flexible dates and av
 - **[Foursquare Reviews Scraper](https://apify.com/lukaskrivka/foursquare-reviews?fpr=p2hrc6)** - Scrape a massive number of reviews in a few seconds for any number of locations and categories.
 - **[Fuel Prices ANZ MCP Server](https://apify.com/abotapi/fuel-prices-anz-mcp-server?fpr=p2hrc6)** - An Apify MCP Server that provides real-time fuel price search capabilities for AI agents in Australia and New Zealand via the MCP.
 - **[Fuel Prices ANZ Scraper](https://apify.com/abotapi/fuel-prices-anz-scraper?fpr=p2hrc6)** - Scrapes petrol and fuel prices data across Australia and New Zealand. Search by address or coordinates to find nearby stations with current fuel prices.
-- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.  
+- **[FuelPrices | Pay Per Result, Easy to Use, No Cookies](https://apify.com/johnvc/fuelprices?fpr=p2hrc6)** - Get live fuel prices and gas price data. Pay only for the results you need—no subscriptions, no commitments. Perfect for tracking local fuel costs, building comparison apps, or analyzing price trends.
 Pay per usage: no setup, no minimums, no subscriptions.
 - **[Furnishedfinder.com Scraper](https://apify.com/memo23/furnishedfinder-scraper-cheerio?fpr=p2hrc6)** - The FurnishedFinder Scraper is your ultimate solution for streamlined rental searches, helping you extract detailed property data like amenities, availability, and pricing effortlessly. With customizable settings and persistent storage, it’s perfect for travelers, researchers, or property managers.
 - **[Gasbuddy Scraper | Gas Price Scraper](https://apify.com/stanvanrooy6/gasbuddy-scraper?fpr=p2hrc6)** - Scrape real-time gas prices and station information from GasBuddy.
@@ -29010,7 +29010,7 @@ Perfect for lead generation, hospitality marketing & destination research
 - **[Tripadvisor (Cruises)](https://apify.com/canadesk/tripadvisor-cruises?fpr=p2hrc6)** - Get Cruises with advanced filters from Tripadvisor. It's fast and costs little.
 - **[Tripadvisor (Hotels)](https://apify.com/canadesk/tripadvisor-hotels?fpr=p2hrc6)** - Get Locations and Hotels with advanced filters from Tripadvisor. It's fast and costs little.
 - **[Tripadvisor (Restaurants)](https://apify.com/canadesk/tripadvisor-restaurants?fpr=p2hrc6)** - Get Locations and Restaurants with advanced filters from Tripadvisor. It's fast and costs little.
-- **[Tripadvisor Data Extractor Pro](https://apify.com/xquantify/tripadvisor-data-extractor-pro?fpr=p2hrc6)** - TripAdvisor scraper: Extract hotel, restaurant & attraction data. Get reviews, ratings, pricing, photos, amenities in JSON/CSV. No API key needed. Multi-language support.    
+- **[Tripadvisor Data Extractor Pro](https://apify.com/xquantify/tripadvisor-data-extractor-pro?fpr=p2hrc6)** - TripAdvisor scraper: Extract hotel, restaurant & attraction data. Get reviews, ratings, pricing, photos, amenities in JSON/CSV. No API key needed. Multi-language support.
    Perfect for travel businesses, competitive analysis & market research.
 - **[Tripadvisor Email Scraper](https://apify.com/scraper-mind/tripadvisor-email-scraper?fpr=p2hrc6)** - TripAdvisor Email Scraper – Extract TripAdvisor emails fast & accurately! 🔍 Search by keywords, location & domain to find targeted contacts. Supports TripAdvisor listings ✅ Proxy support for seamless scraping. 📊 Download in JSON, CSV, Excel. Ideal for lead gen, travel marketing & outreach!
 - **[TripAdvisor Email Scraper – Advanced, Cheapest & Reliable 📧](https://apify.com/contactminerlabs/tripadvisor-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape TripAdvisor Emails
@@ -29135,7 +29135,7 @@ This Apify actor Faster-Whisper to generate transcripts and captions. It saves r
 Enter your search parameters to collect verified contact emails from public 500px profiles, along with profile title, bio, source URL & platform info ✉️📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs⚡🧩
 - **[9GAG Media Downloader 📥](https://apify.com/easyapi/9gag-media-downloader?fpr=p2hrc6)** - A powerful Actor that extracts and downloads high-quality images and videos from 9GAG posts. Perfect for content creators, social media managers, and researchers who need to collect media assets from 9GAG efficiently. Supports batch processing and provides detailed metadata.
-- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions. 
+- **[Add Captions to your Videos - Automate Tiktok Style Subtitles](https://apify.com/prodmarkllc/caption-maker?fpr=p2hrc6)** - Automatically add captions your videos - give a public video url and get the same video with TikTok-style captions.
 
 According to recent studies around 70% of consumers watch videos with the sound off in public places.  Make sure your videos have captions with this Actor and engage with more users.
 - **[Adobe Stock Scraper](https://apify.com/igolaizola/adobe-stock-scraper?fpr=p2hrc6)** - Extract data from Adobe Stock's vast library of photos, videos, illustrations, vectors, and AI-generated content. This scraper gathers titles, dimensions, authors, and previews from search results across global regions. Perfect for analyzing trends and monitoring creative assets on stock.adobe.com
@@ -29144,7 +29144,7 @@ According to recent studies around 70% of consumers watch videos with the sound 
 - **[Advanced Instagram Stories Scraper (Fast)](https://apify.com/datavoyantlab/advanced-instagram-stories-scraper?fpr=p2hrc6)** - Scrape public Instagram stories by profiles with media URLs, timestamps & metadata. No login needed. Fast, reliable & easy to use. Supports photo & video stories. Ideal for research & monitoring.
 - **[Advanced Search TikTok API (free-watermark videos)](https://apify.com/novi/advanced-search-tiktok-api?fpr=p2hrc6)** - TikTok Search Scraper - Explore, discover, and analyze TikTok content with ease. Gain valuable insights and optimize your marketing efforts. Provides no-watermark download link.
 - **[Advanced TikTok Video Scraper](https://apify.com/epctex/tiktok-video-scraper?fpr=p2hrc6)** - Utilize our advanced scraper to gather videos, posts, URLs, numbers of shares, followers, hearts, names, and music-related data from TikTok. Download in various formats like HTML, JSON, CSV, Excel, or XML.
-- **[Advanced Youtube Scraper](https://apify.com/stefanie-rink/youtube-scraper?fpr=p2hrc6)** - Please follow all inquiries at: tnot2652@gmail.com. 
+- **[Advanced Youtube Scraper](https://apify.com/stefanie-rink/youtube-scraper?fpr=p2hrc6)** - Please follow all inquiries at: tnot2652@gmail.com.
 Search YouTube for keywords, channels or individual video data blazingly fast. Internal YouTube API. No key needed. Customizable sorting, including their views, comments, channel info, number of subscribers, publication date, and title data etc.
 - **[AI UGC Video Maker](https://apify.com/actums/ai-ugc-video-maker?fpr=p2hrc6)** - Create viral-ready UGC videos in seconds. This AI UGC Video Maker automates eCommerce marketing by converting product images into engaging social media ads. Perfect for TikTok, Reels, and automated video marketing campaigns. High-quality AI video generator for scaling your creative output.
 - **[All Social Media Video Downloader](https://apify.com/wilcode/all-social-media-video-downloader?fpr=p2hrc6)** - All Social Media Video Downloader API allows easy extraction of video links from platforms like Facebook, Instagram, Twitter, TikTok, YouTube, etc.
@@ -29288,13 +29288,13 @@ Ultimate tool for smart use
 - **[Facebook Search Scraper](https://apify.com/alien_force/facebook-search-scraper?fpr=p2hrc6)** - Powerful Facebook search that scrapes and searches posts, pages, and profiles by keyword. Get detailed info like author, engagement metrics, images, videos. Ideal for research, monitoring, and analysis.
 - **[Facebook Search Video Scraper](https://apify.com/igview-owner/facebook-search-scraper?fpr=p2hrc6)** - Search and scrape Facebook videos by keyword. This Facebook Search Video Scraper collects video titles, descriptions, thumbnails, authors, and views from Facebook search results. Supports multi-page scraping, structured JSON/CSV/Excel export, and easy automation on Apify.
 - **[Facebook Thumbnail Downloader](https://apify.com/codenest/facebook-thumbnail-downloader?fpr=p2hrc6)** - Extract high-quality Facebook thumbnails for Reels and Videos with direct CDN access. This professional tool delivers multiple thumbnail variants, view count analytics, format specifications, and normalized URLs for reliable media asset acquisition. ❤️Facebook Thumbnail Downloader(Reels & Video).
-- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟 
+- **[Facebook Video Details Scraper](https://apify.com/alpha-scraper/facebook-video-details-scraper?fpr=p2hrc6)** - 🔥 Amazing Value, Minimal Cost!🌟
   Access ALL data types easily & fast ✨⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️🖥️
 Unlock insights, save time, boost productivity 🚀💡
 Discover the full power of this actor now! 📊
-- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟 
+- **[Facebook Video Details Scraper Advanced](https://apify.com/alpha-scraper/facebook-video-details-scraper-advanced?fpr=p2hrc6)** - 🚀  Minimal Cost! 🌟
   Access ALL formats data types easily & fast ⚡
 Test it once, see the magic yourself 🔍
 Structured, professional, user-friendly 🗂️
@@ -29490,7 +29490,7 @@ The reason for splitting is that after obtaining a cookie, it can be used for mu
 - **[Instagram Video Downloader](https://apify.com/bytepulselabs/instagram-video-downloader?fpr=p2hrc6)** - Download videos from Instagram posts by adding one or more Instagram post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.
 - **[Instagram Video Downloader](https://apify.com/codenest/instagram-video-downloader?fpr=p2hrc6)** - Effortlessly download  high-quality Instagram videos with complete engagement analytics, including likes, comments, user details, and captions. Access direct CDN links for high-quality videos and thumbnails for professional media analysis and content archiving.🚀Instagram Video Downloader.
 - **[Instagram Video Downloader](https://apify.com/shahidirfan/instagram-video-downloader?fpr=p2hrc6)** - The Instagram Video Downloader is a powerful Apify actor designed to download videos from Instagram with comprehensive metadata extraction. Whether you need to download single videos, multiple posts, reels, or entire profiles, this actor provides reliable extraction with direct download.
-- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner 
+- **[Instagram Video Downloader](https://apify.com/alpha-scraper/instagram-video-downloader?fpr=p2hrc6)** - 🎥✨ Instagram Video Miner
 🌐 Extract titles, likes, comments, formats & publish dates
 ⚡ Process bulk URLs at lightning speed
 🌐 Use residential proxies for 100% reliability
@@ -29610,8 +29610,8 @@ No more one-at-a-time downloads or missing metadata. Concurrent processing, full
 - **[Rutube Video Reviews Scraper](https://apify.com/powerai/rutube-video-reviews-scraper?fpr=p2hrc6)** - Scrape video comments and reviews from Rutube.ru with automatic pagination and comprehensive comment data extraction.
 - **[Screenshot: Website Image and Video Capture](https://apify.com/yeyo/screenshot?fpr=p2hrc6)** - Capture high-quality screenshots and videos of any website. Perfect for design verification, content creation, and website snapshots. Compatible across diverse device resolutions. Instant results.
 - **[Sepiasearch Scraper](https://apify.com/conduit/sepiasearch-scraper?fpr=p2hrc6)** - Extract search results from SepiaSearch.org, the leading search engine for PeerTube videos, playlists, and channels. Get titles, URLs, descriptions, and metadata from any search query with automatic pagination support.
-- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs. 
-It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats. 
+- **[Smart Dubber: Multilingual Audio/Video Tool (using ElevenLabs)](https://apify.com/encelade-conseil/multilingual-dubber?fpr=p2hrc6)** - Smart Dubber is an AI-powered tool that translates and dubs audio/video into 29 languages using ElevenLabs/11Labs.
+It preserves original voice tone and emotion, delivering high-quality, watermark-free outputs in formats like MP4, WAV, AAC or MP3 formats.
 Pay as you go — per second, per language
 - **[Smart Video Analytics AI (YOLOv8)](https://apify.com/visita/smart-video-analytics?fpr=p2hrc6)** - Turn video into intelligence. Detect weapons, analyze traffic, count crowds, and monitor retail behavior. This Actor scans footage frame-by-frame, logs timestamps, and captures evidence screenshots of relevant events automatically.
 - **[SnapChat Email Scraper – Advanced, Cheapest & Reliable 📧⚡📷](https://apify.com/contactminerlabs/snapchat-email-scraper---advanced-cheapest-reliable?fpr=p2hrc6)** - 🔍 Scrape SnapChat Emails
@@ -29819,7 +29819,7 @@ Perfect for lead generation, influencer outreach & enriching your data pipelines
 - **[TikTok User Following Scraper](https://apify.com/powerai/tiktok-user-following-scraper?fpr=p2hrc6)** - Extract detailed TikTok user following list with comprehensive profile data including engagement metrics, account information, and social media links. Perfect for network analysis, influencer research, and social connection mapping. Supports pagination for large-scale data collection.
 - **[Tiktok User Post Scraper](https://apify.com/apibox/tiktok-user-post-scraper?fpr=p2hrc6)** - Extract all videos of user from Tiktok, including detail, ads, metrics, music, hashtags and video label. Easily collect and analyze user-generated content, and download results in formats like JSON, CSV, or Excel.
 - **[TikTok User Posts Scraper](https://apify.com/powerai/tiktok-user-posts-scraper?fpr=p2hrc6)** - Extract detailed TikTok user video posts with comprehensive metadata including engagement metrics, video details, and music information. Perfect for content analysis, trend research, and competitor tracking. Supports pagination for large-scale data collection.
-- **[TikTok User Search Scraper](https://apify.com/clockworks/tiktok-user-search-scraper?fpr=p2hrc6)** - Extract data about users based on TikTok user search. You'll get full user profiles, including name, nickname, 
+- **[TikTok User Search Scraper](https://apify.com/clockworks/tiktok-user-search-scraper?fpr=p2hrc6)** - Extract data about users based on TikTok user search. You'll get full user profiles, including name, nickname,
 signature, number of followers, number of videos, bio link, and author’s ID.
 - **[TikTok User Search Scraper](https://apify.com/powerai/tiktok-user-search-scraper?fpr=p2hrc6)** - Extract detailed TikTok user profiles with comprehensive metadata including follower counts, engagement metrics, and content statistics. Perfect for influencer research, social media analysis, and competitor tracking. Supports advanced filtering and pagination for large-scale data collection.
 - **[TikTok Video & Comment Scraper](https://apify.com/delicious_zebu/tiktok-video-comment-scraper?fpr=p2hrc6)** - Effortlessly extract rich TikTok video details and comments with stable, high-speed data collection!
@@ -29848,7 +29848,7 @@ The updated version supports multiple videos and scraping TikTok profiles will b
 - **[TikTok Video Scraper & Downloader](https://apify.com/codenest/tiktok-video-scraper-downloader?fpr=p2hrc6)** - 🚀 Download TikTok videos instantly with our powerful scraper! Get HD MP4 files, multiple thumbnails & full metadata. 💾 Benefit from secure Apify Key-Value Store - encrypted storage, direct CDN URLs. Perfect for marketers and developers! TikTok Video Scraper & Downloader.
 - **[TikTok Video Scraper Premium](https://apify.com/radeance/tiktok-video-scraper-premium?fpr=p2hrc6)** - Access TikTok video & slideshow data, transcribe videos and retrieve creator and music data, hashtags, likes, views, shares and mentions at scale. Download videos in bulk in native quality and subtitles as WebVTT or SRT.  Export your data in JSON, CSV, Excel, RSS & more...
 - **[TikTok Video Search Scraper](https://apify.com/powerai/tiktok-videos-search-scraper?fpr=p2hrc6)** - Extract TikTok videos with comprehensive metadata including engagement metrics, video details, and music information. Perfect for content research, trend analysis, and competitor tracking. Supports advanced filtering and pagination for large-scale data collection.
-- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English. 
+- **[Tiktok Video Transcirpt Using OpenAI Whisper API](https://apify.com/linen_snack/tiktok-video-transcirpt-using-openai-whisper-api?fpr=p2hrc6)** - This Apify actor uses the OpenAI Whisper API to either transcribe Tiktok video into its original language or translate it into English.
 It's built to be robust, automatically handling video-to-audio conversion and compression to stay within API limits.
 - **[Tiktok Videos](https://apify.com/shareze001/tiktok-videos?fpr=p2hrc6)** - Get TikTok videos: You can get videos by keywords, find videos under a specific tag, or even retrieve all videos from a particular influencer.
 - **[Tiktok Videos by Keyword](https://apify.com/shareze001/tiktok-videos-by-keyword?fpr=p2hrc6)** - Get the videos on Tiktok through keywords, such as candle, tshirt, etc.
@@ -29867,9 +29867,9 @@ Perfect for trend research, content analysis, audience insights, viral tracking 
 Enter your search parameters to collect verified contact emails from Tinder profiles, along with profile title, bio, source URL & platform info 📊
 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩
 - **[TMDB TV Shows Scraper 📺](https://apify.com/easyapi/tmdb-tv-shows-scraper?fpr=p2hrc6)** - Fetch trending TV shows or search for specific series from TMDB (The Movie Database). Get comprehensive show details including ratings, air dates, and poster images - perfect for content aggregation and media analysis.
-- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription! 
-🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text. 
-🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions! 
+- **[Trancribe YouTube, Instagram, VK, Tik-Tok](https://apify.com/n8n-cracker/trancribe-youtube-instagram-vk-tik-tok?fpr=p2hrc6)** - 🚀 Instant video transcription!
+🎬 Easily turn YouTube, Instagram, VK, TikTok videos into text.
+🤖 Full automation, maximum convenience, flexible pay-as-you-go with no hidden subscriptions!
 
 💸 Get accurate text versions fast & affordably! ✨
 - **[Tumblr Explorer 3.0](https://apify.com/jupri/tumblr-explorer?fpr=p2hrc6)** - 💫 All-in-One Tumblr.com Scraper
@@ -30005,7 +30005,7 @@ Perfect for lead generation, influencer outreach & data enrichment in tools like
 - **[Youtube Channel Scraper](https://apify.com/runtime/youtube-channel-scraper?fpr=p2hrc6)** - YouTube Channel Scraper is an Apify Actor that scrapes video data and comments from a YouTube channel. It extracts key details such as video title, URL, view count, streaming time (in days), hashtags, description, comments count, and individual comments with user IDs.
 - **[Youtube Channel Scraper](https://apify.com/yesintelligent/youtube-channel-scraper?fpr=p2hrc6)** - Easily scrape videos from any YouTube channel and extract titles, metadata, thumbnails, and more.
 - **[YouTube Channel Scraper](https://apify.com/akash9078/youtube-channel-video-scraper?fpr=p2hrc6)** - Scrape the latest YouTube videos, shorts, and live of a channel with views and duration.
-- **[Youtube Channel Scrapper](https://apify.com/deeper/youtube-channel-scrapper?fpr=p2hrc6)** - Scrape YouTube Channel pages from page URL. There is not much configuration as it uses initial data available on page load. You'll get video Id, title, descriptions, #likes, #comments, #views and similar information for channels. 
+- **[Youtube Channel Scrapper](https://apify.com/deeper/youtube-channel-scrapper?fpr=p2hrc6)** - Scrape YouTube Channel pages from page URL. There is not much configuration as it uses initial data available on page load. You'll get video Id, title, descriptions, #likes, #comments, #views and similar information for channels.
 Feel free to try it out with our default settings by hitting ▷ Start.
 - **[YouTube Channel Shorts Scraper 📱](https://apify.com/easyapi/youtube-channel-shorts-scraper?fpr=p2hrc6)** - Scrape YouTube Shorts from any channel - Get video details including titles, views, URLs, and more. Perfect for content analysis, competitor research, and tracking short-form video performance.
 - **[Youtube Channel Upload History – Video Metadata Scraper](https://apify.com/plikscrapper/youtube-channel-video-metadata-scraper?fpr=p2hrc6)** - Scrapes videos from a YouTube channel within a specified date range and extracts detailed metadata including title, URL, upload date, thumbnail, views, and duration. Results are saved in an Apify dataset and can be exported as JSON, CSV, or other formats.
@@ -30037,7 +30037,7 @@ We'll get all meaningful information: comment text, author, publication date, nu
 - **[Youtube Comments Scraper](https://apify.com/scraper_one/youtube-comments-scraper?fpr=p2hrc6)** - Extract comments from YouTube videos based on provided video URLs. Retrieve comment text, author info, timestamp, likes, and more. Perfect for audience sentiment analysis, content feedback tracking, and YouTube engagement monitoring.
 - **[Youtube Comments Scraper](https://apify.com/vistics/youtube-comments-scraper?fpr=p2hrc6)** - Unlock the conversation happening around any YouTube video with our YouTube Comment Scraper. Tailored for marketers, analysts, creators, and curious minds alike, this utility simplifies the process of gathering, filtering, and examining viewer feedback at scale.
 - **[Youtube Comments Scraper](https://apify.com/scraper-engine/youtube-comments-scraper?fpr=p2hrc6)** - YouTube Comments Scraper extracts comments from any public YouTube video or channel. Gather usernames, timestamps, likes, replies, and full comment text. Ideal for sentiment analysis, audience research, or content insights. Export clean structured data in JSON, CSV, or Excel.
-- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ - 
+- **[Youtube Comments Scraper](https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=p2hrc6)** - [ 🔥  Lowest Price  💎 ]    Lightning Fast ✨ -
 ⚡ Extract CID, type, published time, comments & authors
 🌐 Grab page URLs instantly
 ⏱️ Collect extensive data in seconds
@@ -30059,7 +30059,7 @@ We'll get all meaningful information: comment text, author, publication date, nu
 - **[YouTube Comments Scraper 🚀 | Pay Per Result](https://apify.com/genial_candlestand/youtube-comments-scraper-ppr?fpr=p2hrc6)** - 🔍 Unleash the Power of YouTube Comments: Extract insightful comments from one or multiple YouTube videos effortlessly! 🚀 Export the data in your preferred format: HTML, JSON, CSV, Excel, or XML. Perfect for sentiment analysis, content improvement, and audience research. 📊✨
 - **[Youtube Comments Super Scraper](https://apify.com/muhammad_noman_riaz/youtube-comments-super-scraper?fpr=p2hrc6)** - YouTube Comments Super Scraper is a professional-grade tool for extracting comments from YouTube videos. Built with modern web technologies, it provides fast, reliable comment extraction with comprehensive metadata.
 - **[Youtube Community Posts Scraper](https://apify.com/scraper-engine/youtube-community-posts-scraper?fpr=p2hrc6)** - YouTube Community Posts Scraper collects posts, polls, images, likes, comments, and engagement data from any channel’s community tab. Perfect for research, trend analysis, or audience insights. Export structured results in JSON, CSV, or Excel for easy analysis and integration.
-- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]   
+- **[Youtube Community Posts Scraper](https://apify.com/alpha-scraper/youtube-community-posts-scraper?fpr=p2hrc6)** - [ 💎 Amazing Price ✨ ]
 💸 Get high-quality data at an affordable cost
 ⚡ Fast, reliable & easy-to-use – try it once & feel the difference
 📊 Access extensive insights effortlessly
@@ -30279,9 +30279,9 @@ Fast. Smart. Unstoppable. Ready to fuel your next data breakthrough 🚀🤖🔥
 - **[Youtube Video Downloader](https://apify.com/epctex/youtube-video-downloader?fpr=p2hrc6)** - Effortlessly download YouTube videos of your preferred quality with our user-friendly Video Downloader. Try it now!
 - **[Youtube Video Downloader](https://apify.com/thenetaji/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube videos quickly and in high quality with our YouTube Video Downloader. This easy-to-use tool allows you to save YouTube videos in multiple formats and resolutions. Perfect for content creators, marketers, and researchers, our downloader supports fast, secure, and hassle-free.Try now!
 - **[Youtube Video Downloader](https://apify.com/neuro-scraper/youtube-video-downloader?fpr=p2hrc6)** - Unlock hidden download links from any youtube video ⚡️ Get audio, merged streams, subtitles, thumbnails & rich metadata with zero hassle. Smart retries, cookie mode & proxy support keep you unstoppable 🔥 Plug, run, collect — scale like a pro 🚀📥💡
-- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop. 
+- **[Youtube Video Downloader](https://apify.com/youtube-download-api-dot-org/youtube-video-downloader?fpr=p2hrc6)** - Download YouTube Videos from ANY device - datacenter servers or your laptop.
 
-Download in any format - 1080p (Full HD) to mp3 (audio only). 
+Download in any format - 1080p (Full HD) to mp3 (audio only).
 
 Pay per Download - No commitments, No server costs, No bandwidth charges.
 
@@ -30341,7 +30341,7 @@ Supports all YouTube Links -  Videos, YouTube Shorts, YouTube Live & Short Links
 To use it, just enter your YouTube video URLs and select the number of views you want.
 - **[YouTube Word-Level Transcript](https://apify.com/zerrouki-samir/youtube-wordlevel-transcript?fpr=p2hrc6)** - 🎯 **UNPRECEDENTED WORD-LEVEL PRECISION** 🎯
 
-Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD. 
+Transform any YouTube video into precise transcripts with timestamps for EVERY SINGLE WORD.
 ✨ **Key Features:**
 • Word-level timestamps with millisecond accuracy
 • 99.9% reliability guaranteed
