@@ -4,7 +4,7 @@
 
 **Organized APIs by Category**
 
-**4,065 APIs in this category**
+**4,066 APIs in this category**
 
 | API Name | Description |
 |----------|-------------|
@@ -893,6 +893,7 @@
 | [Dev.to Articles Intelligence - Developer Content AI](https://apify.com/benthepythondev/devto-articles-intelligence?fpr=p2hrc6) | Extract trending developer articles from Dev.to with AI engagement scoring. Filter by tags, reactions, comments, and reading time. Perfect for content discovery, research, and competitive analysis.... |
 | [Dev.to Scraper - Articles by Tag & Author](https://apify.com/logiover/devto-articles-scraper?fpr=p2hrc6) | Scrape Dev.to articles by tag or author. A no-API-key Dev.to API alternative; export article data to CSV and JSON. Forem articles scraper, no login. |
 | [DeviantArt Scraper](https://apify.com/crawlerbros/deviantart-scraper?fpr=p2hrc6) | Scrape DeviantArt - the world's largest online art community. Search deviations by keyword, browse popular artworks, or scrape a user's gallery. |
+| [Device Specs API](https://rapidapi.com/controller2042000/api/gsmarenaparser) | Clean, normalized mobile phone specifications, chipsets, and physical metrics API. Sourced dynamically and formatted in standardized JSON, featuring deep query filtering and an official C# Client SDK. |
 | [DexScan Meme Explorer Scraper](https://apify.com/muhammetakkurtt/dexscan-meme-explorer-scraper?fpr=p2hrc6) | DexScan Meme Coin Explorer: Powerful CoinMarketCap scraper for real-time meme coin analysis. Track new and trending tokens with filters for liquidity, volume, dev ownership, and more. Essential tool... |
 | [DexScan New Pairs Scraper](https://apify.com/muhammetakkurtt/dexscan-new-pairs-scraper?fpr=p2hrc6) | DexScan New Pairs Scraper monitors newly created cryptocurrency token pairs across Solana, Ethereum, BNB Smart Chain, Base, Blast. This Apify actor lets you filter pairs by age, liquidity, volume, and... |
 | [DexScan Trending Tokens Scraper](https://apify.com/muhammetakkurtt/dexscan-scraper?fpr=p2hrc6) | Extract real-time data for trending tokens on CoinMarketCap's DexScan. This actor scrapes prices, volume, & liquidity across 90+ blockchains. Leverage powerful filters for market cap, age, and volume... |
