@@ -4,13 +4,13 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">
 
-**The most comprehensive collection of APIs on GitHub** - 11,860 core directory APIs plus 318 sponsored partner listings for building everything from simple automations to full-scale applications.
+**The most comprehensive collection of APIs on GitHub** - 11,861 core directory APIs plus 318 sponsored partner listings for building everything from simple automations to full-scale applications.
 
 ---
 
 ### 📊 Repository Stats
 
-<img src="https://img.shields.io/badge/APIs-11,860-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-11,861-blue?style=for-the-badge&logo=api" alt="Total APIs">
 <img src="https://img.shields.io/badge/Categories-24-green?style=for-the-badge&logo=tag" alt="Categories">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">
 <img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">
@@ -47,7 +47,7 @@ KamdenAI gives members a structured morning workflow: 9:15 AM research, 9:28 AM 
 
 | Metric | Count |
 |--------|-------|
-| **Core directory APIs** | **11,860** |
+| **Core directory APIs** | **11,861** |
 | **Sponsored partner listings** | **318** |
 | **Categories** | **24** |
 | **Last Updated** | 2026-07-23 |
@@ -58,7 +58,7 @@ KamdenAI gives members a structured morning workflow: 9:15 AM research, 9:28 AM 
 
 ## 🤔 What Can You Build?
 
-This collection contains **11,860 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
+This collection contains **11,861 ready-to-use APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
 
 **The possibilities are endless:**
 
@@ -3546,6 +3546,7 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 | [Deterministic Math Expression Evaluator Tool](https://apify.com/rainminer/math-tool?fpr=p2hrc6) | Evaluate mathematical expressions deterministically for AI agents and automations. Supports arithmetic, functions, and variables via a safe expression parser. Designed for AI agents for concise,... |
 | [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper?fpr=p2hrc6) | Simple web scraper for extracting exhibitor data from Deutsche Messe trade show exhibitor lists. Extract company details using this scraping tool for B2B lead generation, event networking, and market... |
 | [DeviantArt Scraper](https://apify.com/crawlerbros/deviantart-scraper?fpr=p2hrc6) | Scrape DeviantArt - the world's largest online art community. Search deviations by keyword, browse popular artworks, or scrape a user's gallery. |
+| [Device Specs API](https://rapidapi.com/controller2042000/api/gsmarenaparser) | Ultra low-cost, real-time updated API for clean, normalized mobile phone specifications, chipsets, and physical metrics. Sourced dynamically and formatted in standardized JSON with deep query filtering and an official C# Client SDK. |
 | [DexScan Meme Explorer Scraper](https://apify.com/muhammetakkurtt/dexscan-meme-explorer-scraper?fpr=p2hrc6) | DexScan Meme Coin Explorer: Powerful CoinMarketCap scraper for real-time meme coin analysis. Track new and trending tokens with filters for liquidity, volume, dev ownership, and more. Essential tool... |
 | [DexScan New Pairs Scraper](https://apify.com/muhammetakkurtt/dexscan-new-pairs-scraper?fpr=p2hrc6) | DexScan New Pairs Scraper monitors newly created cryptocurrency token pairs across Solana, Ethereum, BNB Smart Chain, Base, Blast. This Apify actor lets you filter pairs by age, liquidity, volume, and... |
 | [DexScan Trending Tokens Scraper](https://apify.com/muhammetakkurtt/dexscan-scraper?fpr=p2hrc6) | Extract real-time data for trending tokens on CoinMarketCap's DexScan. This actor scrapes prices, volume, & liquidity across 90+ blockchains. Leverage powerful filters for market cap, age, and volume... |
@@ -15161,6 +15162,7 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 | [DentalPlans.com Dentist Scraper 🦷](https://apify.com/easyapi/dentalplans-com-dentist-scraper?fpr=p2hrc6) | Extract detailed dentist information from DentalPlans.com search results, including practice details, contact info, and appointment availability. Perfect for healthcare research, provider analysis,... |
 | [DesignRush Agency Scraper](https://apify.com/powerai/designrush-agency-scraper?fpr=p2hrc6) | Scrape design and marketing agencies from DesignRush.com with automatic pagination and comprehensive agency data extraction. |
 | [DeviantArt Scraper](https://apify.com/crawlerbros/deviantart-scraper?fpr=p2hrc6) | Scrape DeviantArt - the world's largest online art community. Search deviations by keyword, browse popular artworks, or scrape a user's gallery. |
+| [Device Specs API](https://rapidapi.com/controller2042000/api/gsmarenaparser) | Ultra low-cost, real-time updated API for clean, normalized mobile phone specifications, chipsets, and physical metrics. Sourced dynamically and formatted in standardized JSON with deep query filtering and an official C# Client SDK. |
 | [DHgate Listings Scraper](https://apify.com/piotrv1001/dhgate-listings-scraper?fpr=p2hrc6) | The DHgate Listings Scraper extracts product data from DHgate search URLs, capturing titles, images, prices, URLs, shipping status, ratings, and available coupons—ideal for market research, price... |
 | [Diário Oficial da União — Busca e Monitoramento (DOU)](https://apify.com/jenko_systems/diario-oficial-uniao-dou?fpr=p2hrc6) | Pesquise e monitore publicações do DOU por palavra-chave, órgão ou data. Licitações, portarias, nomeações, contratos. Seções 1, 2 e 3. Atualizado diariamente. |
 | [Dice Fm](https://apify.com/hypebridge/dice-fm?fpr=p2hrc6) | Scrapes event data from Dice.fm- concerts, festivals, DJ events, and live shows. |
@@ -30697,7 +30699,7 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 
 <div align="center">
 
-**Core directory APIs: 11,860** | **Sponsored partner listings: 318** | **Categories: 24** | **Last Updated: 2026-07-23**
+**Core directory APIs: 11,861** | **Sponsored partner listings: 318** | **Categories: 24** | **Last Updated: 2026-07-23**
 
 *One of the most valuable API lists on GitHub—period.* 💪
 
