@@ -7,7 +7,7 @@ API Mega List keeps each featured API provider in a separate collection so their
 <table width="100%">
   <tr>
     <td width="100%" align="center" valign="top">
-      <a href="https://apimesa.com/" target="_blank"><img src="../assets/featured/apimesa-banner.png" alt="APIMesa pay-per-call API marketplace" width="560"></a>
+      <a href="https://apimesa.com/" target="_blank"><img src="../assets/featured/apimesa-banner.png" alt="APIMesa API marketplace" width="560"></a>
     </td>
   </tr>
   <tr>
