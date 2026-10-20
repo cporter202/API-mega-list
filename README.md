@@ -35,18 +35,17 @@
 
 ---
 
-### Sponsored: AI Playbook
+### Sponsored: APIMesa
 
 <p align="center">
-  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
-    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  <a href="https://apimesa.com" target="_blank" rel="noopener">
+    <img src=".github/assets/apimesa-promo-banner.png" alt="APIMesa — Pay-Per-Call APIs for AI, Scraping & Data. 150+ APIs, one API key, live playground at apimesa.com" width="100%">
   </a>
 </p>
 <p align="center">
-  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
-  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+  <a href="https://apimesa.com"><strong>🚀 Try APIMesa — apimesa.com</strong></a><br>
+  150+ pay-per-call APIs · AI, scraping & data · one API key · live playground
 </p>
-
 </div>
 
 ---
