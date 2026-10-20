@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://apimesa.com" target="_blank" rel="noopener">
-    <img src=".github/assets/apimesa-promo-banner.png" alt="APIMesa — Pay-Per-Call APIs for AI, Scraping & Data. 150+ APIs, one API key, live playground at apimesa.com" width="100%">
+    <img src=".github/assets/apimesa-promo-banner.png" alt="APIMesa — AI, Scraping & Data APIs. 150+ APIs, one API key, live playground at apimesa.com" width="100%">
   </a>
 </p>
 <p align="center">
