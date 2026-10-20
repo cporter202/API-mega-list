@@ -7,15 +7,15 @@ API Mega List keeps each featured API provider in a separate collection so their
 <table width="100%">
   <tr>
     <td width="100%" align="center" valign="top">
-      <a href="https://apyhub.com/" target="_blank"><img src="../assets/featured/apyhub-banner.png" alt="ApyHub utility API catalog" width="560"></a>
+      <a href="https://apimesa.com/" target="_blank"><img src="../assets/featured/apimesa-banner.png" alt="APIMesa pay-per-call API marketplace" width="560"></a>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center" valign="top">
-      <h3>ApyHub Utility API Collection</h3>
-      <p><strong>200 APIs</strong></p>
-      <p>AI, files, data extraction, validation, SEO, HR, marketing, and application utilities.</p>
-      <p><a href="./apyhub-utility-apis/"><strong>Browse ApyHub APIs →</strong></a></p>
+      <h3>APIMesa API Marketplace</h3>
+      <p><strong>150+ APIs</strong></p>
+      <p>Pay-per-call AI, scraping, data extraction, SEO, lead generation, media, and developer APIs — one key, clear credit pricing, live playground.</p>
+      <p><a href="./apimesa-marketplace-apis/"><strong>Browse APIMesa APIs →</strong></a></p>
     </td>
   </tr>
 </table>
