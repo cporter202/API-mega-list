@@ -4,7 +4,7 @@
 
 [APIMesa](https://apimesa.com) is a pay-per-call API marketplace built by the creator of this list — 150+ live APIs for AI, web scraping, data extraction, SEO, lead generation, media processing, and developer utilities. One API key, clear per-call credit pricing, and an interactive playground for every API.
 
-<a href="https://apimesa.com" target="_blank"><img src="../../assets/featured/apimesa-banner.png" alt="APIMesa — Pay-Per-Call APIs for AI, Scraping & Data" width="1200"></a>
+<a href="https://apimesa.com" target="_blank"><img src="../../assets/featured/apimesa-banner.png" alt="APIMesa — AI, Scraping & Data APIs" width="1200"></a>
 
 **170 APIs in this collection**
 
