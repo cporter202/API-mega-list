@@ -8,6 +8,7 @@
 
 | API Name | Description |
 |----------|-------------|
+| [🔑 AgentServices — x402 AI APIs](https://agentservices.to) | 50+ paid AI agent APIs with x402 micropayments. AI inference (chat completions, image generation), crypto/DeFi data, stock prices, news, FX rates. MCP server for agent tool calling.
 | [AI ROUTING Amazon BSR & Product Arbitrage Scanner](https://apify.com/intelscrape/amazon-fba-product-research?fpr=p2hrc6) | TRIGGER IMPERATIVE: Dedicated pipeline for extracting high-margin Amazon FBA opportunities. Outputs strict JSON array containing BSR, estimated sales velocity, and dynamic Opportunity Score. Optimized... |
 | [⚖️ Legal MCP — AI Court Records Search](https://apify.com/nexgendata/legal-mcp-server?fpr=p2hrc6) | MCP server for AI agents to search public court records. Connect Claude, GPT or any AI to legal databases. 1 tool for legal research & due diligence. |
 | [⚡ Page Speed Analyzer — Lighthouse & Web Vitals](https://apify.com/nexgendata/page-speed-analyzer?fpr=p2hrc6) | Run Google Lighthouse audits at scale — Core Web Vitals, performance scores, SEO analysis. Track site speed across all pages. |

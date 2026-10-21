@@ -8,6 +8,7 @@
 
 | API Name | Description |
 |----------|-------------|
+| [🔑 AgentServices — x402 Paid APIs for AI Agents](https://agentservices.to) | 50+ production APIs for AI agents with x402 micropayments. Crypto market data, DeFi analytics, stock prices, news, FX rates, AI inference, and more. MCP server included. Pay-per-call with USDC on Base.
 | [🌟 Youtube Transcript Scraper - $0.5 per 1k](https://apify.com/supreme_coder/youtube-transcript-scraper?fpr=p2hrc6) | Scrape youtube transcripts in bulk. Provides videos details and transcript in different formats |
 | [🌸 Tweets / X - Scraper](https://apify.com/mikolabs/x-scraper?fpr=p2hrc6) | Extract anything from X (Twitter) with speed and precision. This smart scraper auto-detects what to collect—tweets, profiles, users, lists, or media—and delivers clean, structured data instantly. Just... |
 | [🎙️ Podcast Episode Ideas Creator](https://apify.com/powerai/podcast-episode-ideas-creator?fpr=p2hrc6) | Transform your podcast content strategy with AI-powered episode ideas! This intelligent tool analyzes your podcast theme and target audience to generate comprehensive episode plans, including topic... |
