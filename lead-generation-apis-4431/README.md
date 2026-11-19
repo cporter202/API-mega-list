@@ -8,6 +8,7 @@
 
 | API Name | Description |
 |----------|-------------|
+| [1Lookup](https://www.1lookup.io/?ref=chris-porter) | Phone and email validation API: number validation, carrier and line type, HLR lookup, caller name, and email verification. Free web tools with no signup. Plans from $99/mo, 7-day free trial. |
 | [DEPRECATED — target site dead Ucc Lien Search Ny](https://apify.com/fortuitous_pirate/ucc-lien-search-ny?fpr=p2hrc6) | Ucc Lien Search Ny. Structured data export for lead generation, enrichment, and competitive research. |
 | [Fast & Cheap Youtube Email, Socials & Urls Scraper](https://apify.com/endspec/youtube-channel-contacts-extractor?fpr=p2hrc6) | [Instant response] YouTube channel Email, Socials & Urls API to extract public emails, social media links and outbound URLs. |
 | [NO COOKIES LinkedIn Search Posts Scraper](https://apify.com/scary_good_apis/linkedin-search-posts?fpr=p2hrc6) | Easily and quickly search LinkedIn for posts matching your exact keywords and filters without needing to risk your own LinkedIn account or using your cookies. |
