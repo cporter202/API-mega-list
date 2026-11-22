@@ -43,9 +43,9 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://blotato.com/?ref=chrisl9"><strong>🚀 Try Blotato</strong></a><br>
   <strong>#1 unified social media API + MCP</strong><br>
-  Connect your AI agent to 9+ networks. Create, schedule, and publish posts, reply to comments, manage DMs, and fetch analytics. No code required.<br>
-  <a href="https://blotato.com/?ref=chrisl9"><strong>Try Blotato</strong></a>
+  Connect your AI agent to 9+ networks. Create, schedule, and publish posts, reply to comments, manage DMs, and fetch analytics. No code required.
 </p>
 
 ---
@@ -104,7 +104,7 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 
 ### [Featured APIs](./00-featured-apis/)
 
-#### Blotato Social Media API and MCP
+#### [Blotato Social Media API and MCP](https://www.blotato.com/social-media-scheduler?ref=chrisl9)
 
 **Sponsored · #1 unified social media API + MCP.** Connect an AI agent to 9+ networks to create, schedule, and publish posts, reply to comments, manage DMs, and fetch analytics. Use MCP with Claude or Codex for a no-code setup, or call the REST API from your app. Comment and DM tools are available for Instagram and Facebook. Analytics coverage varies by network. For example, schedule a demo Reel for an API release and send a quickstart link by DM when someone comments with your keyword on Instagram.
 
