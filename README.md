@@ -46,6 +46,20 @@
   <a href="https://apimesa.com"><strong>🚀 Try APIMesa — apimesa.com</strong></a><br>
   150+ pay-per-call APIs · AI, scraping & data · one API key · live playground
 </p>
+
+### Sponsored: Blotato
+
+<p align="center">
+  <a href="https://blotato.com/?ref=chrisl9">
+    <img src=".github/assets/blotato-homepage-screenshot.png" alt="Blotato homepage showing its social media publishing API and AI agent workflows" width="100%">
+  </a>
+</p>
+<p align="center">
+  <strong><a href="https://blotato.com/?ref=chrisl9">Explore Blotato</a></strong> ·
+  <a href="#blotato-social-media-api-and-mcp">See how it fits</a> ·
+  <a href="./skills/blotato/README.md">Try both skills</a><br>
+  Schedule posts and build keyword-triggered Instagram replies using the API or MCP.
+</p>
 </div>
 
 ---
@@ -82,6 +96,21 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 - 🚀 **AI Integration** - Connect with AI models, process content, generate insights
 
 **Each API is production-ready** - simply integrate it into your application and start building. No need to build scrapers from scratch or maintain complex infrastructure. Focus on what matters: creating amazing applications that solve real problems.
+
+---
+
+## Blotato Social Media API and MCP
+
+**Sponsored placement.** Blotato provides a REST API and MCP for publishing, scheduling, and engagement on connected social accounts. Use it for the outbound step of an automation: turn a release note or demo clip into a scheduled post, then use Instagram comment-to-DM to deliver a quickstart link when someone comments with your keyword.
+
+| Example | What to verify | Workflow |
+| --- | --- | --- |
+| **Schedule an API demo Reel** | The intended asset, account, and exact publishing time appear in the queue. | [Copy the scheduling prompt](./skills/blotato/README.md#schedule-a-finished-clip) |
+| **Send a quickstart link by DM** | A matching test comment receives the correct private reply after you activate the rule. | [Copy the Instagram comment-to-DM prompt](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
+
+[Open both skills and the test checklist](./skills/blotato/README.md) · [Explore Blotato’s API and MCP](https://www.blotato.com/social-media-scheduler?ref=chrisl9)
+
+Blotato links in this placement include a referral code.
 
 ---
 
