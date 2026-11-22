@@ -110,6 +110,15 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 
 [Explore Blotato’s API and MCP](https://www.blotato.com/social-media-scheduler?ref=chrisl9) · [Claude setup](https://www.blotato.com/claude?ref=chrisl9) · [Codex setup](https://www.blotato.com/codex?ref=chrisl9)
 
+**Try the Blotato skills**
+
+| Build | What you’ll verify | Open the workflow |
+| --- | --- | --- |
+| **Schedule an API demo Reel** | Blotato queues the right clip and caption for the exact time you approved. | [Copy the scheduling prompt →](./skills/blotato/README.md#schedule-a-finished-clip) |
+| **Send the API quickstart by DM** | An Instagram test comment with your keyword receives the correct quickstart link. | [Copy the comment-to-DM prompt →](./skills/blotato/README.md#set-up-instagram-comment-to-dm) |
+
+[Open the skills folder](./skills/blotato/) · [Run the API launch project](./skills/blotato/project.md)
+
 ### Core API Categories
 
 - [Agents](./agents-apis-623/) - 623 APIs
