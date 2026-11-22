@@ -109,8 +109,6 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 
 [Explore Blotato’s API and MCP](https://www.blotato.com/social-media-scheduler?ref=chrisl9) · [Claude setup](https://www.blotato.com/claude?ref=chrisl9) · [Codex setup](https://www.blotato.com/codex?ref=chrisl9)
 
-Blotato links in this placement include a referral code.
-
 ### Core API Categories
 
 - [Agents](./agents-apis-623/) - 623 APIs
