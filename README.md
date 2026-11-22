@@ -65,6 +65,12 @@
 
 ---
 
+## Sponsor API Mega List
+
+Want to feature your API, developer tool, software, or website in API Mega List? [Email Chris at chris@reactmodern.com](mailto:chris@reactmodern.com?subject=API%20Mega%20List%20sponsorship) for pricing and placement options. Include a link to your product and a brief description of what it does.
+
+---
+
 <div align="center">
 
 ## 📊 Collection Statistics
