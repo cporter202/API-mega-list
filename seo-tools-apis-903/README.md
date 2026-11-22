@@ -8,6 +8,7 @@
 
 | API Name | Description |
 |----------|-------------|
+| [GoAnyAPI](https://goanyapi.com) | SEO and web data APIs plus an official MCP server: SERP, keyword difficulty/suggestions/search volume, backlinks, domain rating history, website traffic and Google Ads Transparency. |
 | [⚡ Page Speed Analyzer — Lighthouse & Web Vitals](https://apify.com/nexgendata/page-speed-analyzer?fpr=p2hrc6) | Run Google Lighthouse audits at scale — Core Web Vitals, performance scores, SEO analysis. Track site speed across all pages. |
 | [🌐 Bulk WHOIS Lookup — Domain Intelligence](https://apify.com/nexgendata/domain-whois-lookup?fpr=p2hrc6) | Bulk WHOIS lookups for any domain. Registrar, creation date, expiry, nameservers & registrant info. Find expiring domains, build portfolios & research competitors. Pay per lookup. |
 | [🌐 DNS Lookup — Bulk A, MX, CNAME & TXT Records](https://apify.com/nexgendata/dns-records-lookup?fpr=p2hrc6) | Bulk DNS record lookups — A, AAAA, MX, CNAME, TXT, NS, SOA, SPF, DMARC. MXToolbox & DNSChecker alternative for SREs and security teams: monitor zones, verify email auth, audit domains. Pay $0.01 per... |
