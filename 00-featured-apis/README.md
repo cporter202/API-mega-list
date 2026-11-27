@@ -20,4 +20,17 @@ API Mega List keeps each featured API provider in a separate collection so their
   </tr>
 </table>
 
-The collections are ordered alphabetically and follow the repository's [sponsored partner placement policy](../SPONSORED_PARTNERS.md).
+
+<table width="100%">
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <h3>ApyHub Utility API Collection</h3>
+      <p><strong>200 APIs</strong></p>
+      <p>Certified utility APIs for AI, files, data extraction, validation, SEO, HR, marketing, and application utilities. One subscription, MCP-ready.</p>
+      <p><a href="./apyhub-utility-apis/"><strong>Browse ApyHub APIs →</strong></a></p>
+      <p><a href="https://apyhub.com?fpr=chris-2f0318">Visit ApyHub →</a></p>
+    </td>
+  </tr>
+</table>
+
+Placement order is set by the sponsor agreements: the top sponsor leads, followed by the featured collections below. See the repository's [sponsored partner placement policy](../SPONSORED_PARTNERS.md).

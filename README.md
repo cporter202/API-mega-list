@@ -125,6 +125,12 @@ This collection contains **11,860 ready-to-use APIs** that you can integrate dir
 
 [Open the skills folder](./skills/blotato/) · [Run the API launch project](./skills/blotato/project.md)
 
+#### [ApyHub Utility API Collection](https://apyhub.com?fpr=chris-2f0318)
+
+**Featured · 200 certified utility APIs.** AI, files, data extraction, validation, SEO, HR, marketing, and application utilities. One subscription, MCP-ready, free tier with no card.
+
+[Browse the ApyHub collection](./00-featured-apis/apyhub-utility-apis/) · [Visit ApyHub](https://apyhub.com?fpr=chris-2f0318)
+
 ### Core API Categories
 
 - [Agents](./agents-apis-623/) - 623 APIs

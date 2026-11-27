@@ -29,13 +29,24 @@ function unique(values) {
 const apyhubUrls = [...apyhubReadme.matchAll(/^\| \[[^\]]+\]\((https:\/\/apyhub\.com\/[^)]+)\)/gm)]
     .map(match => match[1]);
 const uniqueApyhubUrls = [...new Set(apyhubUrls)];
+// ApyHub returned 2026-11-27 (draft): featured collection only, NO banner,
+// below Blotato and below APIMesa. Every ApyHub link must carry ?fpr=chris-2f0318.
+const allApyhubUrls = [...mainReadme.matchAll(/https:\/\/apyhub\.com[^\s)"']*/g)]
+    .map(m => m[0])
+    .concat([...featuredLanding.matchAll(/https:\/\/apyhub\.com[^\s)"']*/g)].map(m => m[0]))
+    .concat([...apyhubReadme.matchAll(/https:\/\/apyhub\.com[^\s)"']*/g)].map(m => m[0]));
+const untrackedApyhub = allApyhubUrls.filter(u => !u.includes('fpr=chris-2f0318'));
 
 check(uniqueApyhubUrls.length === 200, `Expected 200 unique ApyHub API links, found ${uniqueApyhubUrls.length}`);
-check(!mainReadme.toLowerCase().includes('apyhub'), 'Main README still shows the ApyHub featured block (hidden 2026-10-11)');
+check(untrackedApyhub.length === 0, `Found untracked ApyHub links (missing ?fpr=chris-2f0318): ${untrackedApyhub.slice(0, 5).join(', ')}`);
+check(mainReadme.includes('#### [ApyHub Utility API Collection]'), 'Main README is missing the ApyHub featured entry');
+check(mainReadme.indexOf('### Sponsored: Blotato') < mainReadme.indexOf('#### [ApyHub Utility API Collection]'), 'ApyHub featured entry is not below Blotato in the main README');
+check(!mainReadme.includes('### Sponsored: ApyHub'), 'Main README has an ApyHub sponsored-slot banner block (not allowed)');
+check(!mainReadme.toLowerCase().includes('apyhub-banner'), 'Main README references an ApyHub banner (not allowed)');
 check(featuredLanding.includes('href="./apyhub-utility-apis/"'), 'Featured APIs page is missing the ApyHub collection');
-check(featuredLanding.includes('../assets/featured/apyhub-banner.png'), 'Featured APIs page is missing the ApyHub banner');
-check(apyhubReadme.includes('../../assets/featured/apyhub-banner.png'), 'ApyHub page is missing its featured banner');
-check(fs.existsSync(path.join(root, 'assets', 'featured', 'apyhub-banner.png')), 'ApyHub banner asset is missing');
+check(featuredLanding.indexOf('apimesa-marketplace-apis') < featuredLanding.indexOf('apyhub-utility-apis'), 'ApyHub collection is not below APIMesa on the Featured APIs page');
+check(!featuredLanding.toLowerCase().includes('apyhub-banner'), 'Featured APIs page references an ApyHub banner (not allowed)');
+check(!apyhubReadme.toLowerCase().includes('apyhub-banner'), 'ApyHub collection page references a banner image (not allowed)');
 check(!fs.existsSync(path.join(root, '00-featured-apis', 'coreclaw-scraper-apis')), 'CoreClaw collection directory still exists');
 check(!mainReadme.toLowerCase().includes('coreclaw'), 'Main README still references CoreClaw');
 check(!mainReadme.includes('fpr=chris69'), 'Main README still contains CoreClaw affiliate tracking');
